@@ -1,44 +1,40 @@
-# These variables define the project; they may not need to be changed
 project:
   type: book
   output-dir: _book
 
-# These variables define the book contents - adjust them as necessary
 book:
-  # [A] BOOK TITLE
   title: "BM327 Microbiology Semester 2 Lab Manual"
-  
-  # The cover image and favicon; these may not need to be changed
   cover-image: sipbs_compbio_800.png
   favicon: icon_32.png
-  
-  # Sets the page footer text/images
-  # [B] FOOTER TEXT
-  page-footer:
-    left: |
-      BM327 Microbiology S2 Lab Manual | Dr. Morgan Feeney
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
-
-  # Sets author information and publication/presentation date
-  # [D] AUTHOR INFORMATION AND PUBLICATION/PRESENTATION DATE
   author: "Dr Morgan Feeney"
   date: "22/11/2024"
-
-  # Define chapters and sections here
-  # [E] CHAPTERS AND SECTIONS
+  
   chapters:
     - index.qmd
-    - intro.qmd
 
-    - part: early-section.qmd
-      chapters: 
-        - early-section-topic.qmd
-    
-    - references.qmd
+  # Sidebar tools for quick navigation
+  sidebar:
+    tools:
+      - icon: 0-square
+        href: ./section0
+      - icon: 1-square
+        href: ./section1
+      - icon: 2-square
+        href: ./section2
+      - icon: 3-square
+        href: ./section3
+      - icon: 4-square
+        href: ./section4
+      - icon: 5-square
+        href: ./section5
 
-# Location of BibTeX format reference file; may not need to be changed
+
+
+
+# Additional settings
 bibliography: references.bib
+
+
 
 # Formatting and theme; may not need to be changed
 format:
@@ -47,25 +43,6 @@ format:
     code-link: true
     author-meta: "Leighton Pritchard"
     
-    # Sidebar tools for quick navigation
-    website:
-      sidebar:
-        tools:
-          - html: |
-              <h5>Quick Links</h5>
-          - icon: 0-square
-            href: section0.qmd
-          - icon: 1-square
-            href: section1.qmd
-          - icon: 2-square
-            href: section2.qmd
-          - icon: 3-square
-            href: section3.qmd
-          - icon: 4-square
-            href: section4.qmd
-          - icon: 5-square
-            href: section5.qmd
-
 # Freeze output before pushing modifications to the repository when publishing
 # Should not need changing
 execute:
