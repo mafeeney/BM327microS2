@@ -1,5 +1,0 @@
-# Introduction
-
-The Introduction page is intended as a short introduction to the book.
-
-Like most Quarto books, this is a book created from markdown and executable code. 
