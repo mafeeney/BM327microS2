@@ -48,7 +48,6 @@ format:
     author-meta: "Leighton Pritchard"
     
     # Sidebar tools for quick navigation
-    website:
       sidebar:
         tools:
           - html: |
