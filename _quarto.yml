@@ -44,7 +44,7 @@ book:
     
     - part: late-section.qmd
       chapters: 
-        - webr-example.qmd
+        - early-section-topic.qmd
     
     - references.qmd
 
