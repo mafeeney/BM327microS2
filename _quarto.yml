@@ -51,6 +51,8 @@ format:
     website:
       sidebar:
         tools:
+          - html: |
+              <h5>Quick Links</h5>
           - icon: 0-square
             href: section0.qmd
           - icon: 1-square
