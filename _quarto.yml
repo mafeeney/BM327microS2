@@ -6,7 +6,7 @@ project:
 # These variables define the book contents - adjust them as necessary
 book:
   # [A] BOOK TITLE
-  title: "THE TITLE OF THE BOOK"
+  title: "BM327 Microbiology Semester 2 Lab Manual"
   reader-mode: true
   
   # The cover image and favicon; these may not need to be changed
@@ -17,20 +17,20 @@ book:
   # [B] FOOTER TEXT
   page-footer:
     left: |
-      THIS IS A SHORT PIECE OF FOOTER TEXT NAMING THE BOOK/AUTHORS
+      BM327 Microbiology S2 Lab Manual | Dr. Morgan Feeney
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 
   # Sets the URL for the repository
   # [C] GITHUB REPOSITORY URL
-  repo-url: https://github.com/sipbs-compbiol/REPOSITORY
+  repo-url: https://github.com/mafeeney/BM327microS2
   repo-branch: main
   repo-actions: [edit, issue]
 
   # Sets author information and publication/presentation date
   # [D] AUTHOR INFORMATION AND PUBLICATION/PRESENTATION DATE
-  author: "AUTHOR NAME"
-  date: "DD/MM/YY"
+  author: "Dr Morgan Feeney"
+  date: "22/11/2024"
 
   # Define chapters and sections here
   # [E] CHAPTERS AND SECTIONS
