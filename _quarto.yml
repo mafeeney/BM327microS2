@@ -47,6 +47,24 @@ format:
     code-link: true
     author-meta: "Leighton Pritchard"
     
+    # Sidebar tools for quick navigation
+    website:
+      sidebar:
+        tools:
+          - html: |
+              <h5>Quick Links</h5>
+          - icon: 0-square
+            href: section0.qmd
+          - icon: 1-square
+            href: section1.qmd
+          - icon: 2-square
+            href: section2.qmd
+          - icon: 3-square
+            href: section3.qmd
+          - icon: 4-square
+            href: section4.qmd
+          - icon: 5-square
+            href: section5.qmd
 
 # Freeze output before pushing modifications to the repository when publishing
 # Should not need changing
