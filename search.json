@@ -8,36 +8,5 @@
     "crumbs": [
       "Preface"
     ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "The Introduction page is intended as a short introduction to the book.\nLike most Quarto books, this is a book created from markdown and executable code.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "early-section-topic.html",
-    "href": "early-section-topic.html",
-    "title": "2  Early Section Topic",
-    "section": "",
-    "text": "This .qmd file represents some topic-related text. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text.",
-    "crumbs": [
-      "Early Section",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Early Section Topic</span>"
-    ]
-  },
-  {
-    "objectID": "early-section.html",
-    "href": "early-section.html",
-    "title": "Early Section",
-    "section": "",
-    "text": "This .qmd file introduces a Part of the Quarto book. We use the {#sec-REFERENCE} option to make it cross-referenceable elsewhere in the text, and the {.unnumbered} option to avoid giving it a section number.",
-    "crumbs": [
-      "Early Section"
-    ]
   }
 ]
