@@ -7,7 +7,6 @@ project:
 book:
   # [A] BOOK TITLE
   title: "BM327 Microbiology Semester 2 Lab Manual"
-  reader-mode: true
   
   # The cover image and favicon; these may not need to be changed
   cover-image: sipbs_compbio_800.png
@@ -20,12 +19,6 @@ book:
       BM327 Microbiology S2 Lab Manual | Dr. Morgan Feeney
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-
-  # Sets the URL for the repository
-  # [C] GITHUB REPOSITORY URL
-  repo-url: https://github.com/mafeeney/BM327microS2
-  repo-branch: main
-  repo-actions: [edit, issue]
 
   # Sets author information and publication/presentation date
   # [D] AUTHOR INFORMATION AND PUBLICATION/PRESENTATION DATE
@@ -52,9 +45,32 @@ format:
   html:
     theme: cosmo
     code-link: true
-    
     author-meta: "Leighton Pritchard"
-  
+    
+    # Tools in the sidebar for quick navigation
+    tools:
+      - html: |
+          <div style="display: flex; gap: 10px;">
+            <a href="section0.qmd" title="Section 0">
+              <i class="bi bi-0-square" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="section1.qmd" title="Section 1">
+              <i class="bi bi-1-square" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="section2.qmd" title="Section 2">
+              <i class="bi bi-2-square" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="section3.qmd" title="Section 3">
+              <i class="bi bi-3-square" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="section4.qmd" title="Section 4">
+              <i class="bi bi-4-square" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="section5.qmd" title="Section 5">
+              <i class="bi bi-5-square" style="font-size: 1.5rem;"></i>
+            </a>
+          </div>
+
   pdf:
     documentclass: scrreprt
 
@@ -62,4 +78,3 @@ format:
 # Should not need changing
 execute:
   freeze: auto
-
