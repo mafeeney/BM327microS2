@@ -14,38 +14,48 @@ book:
   chapters:
     - index.qmd
     
-    - part: section0.qmd
+    - part: Introduction.qmd
       chapters:
-        - goodlab.qmd
-        - aseptic.qmd
-        - microscope.qmd
+        - text: "Lab Safety"
+          href: safety.qmd
+        - text: "Good Laboratory Technique"
+          href: goodlab.qmd
+        - text: "Aseptic Technique"
+          href: aseptic.qmd
+        - text: "Using a Microscope"
+          href: microscope.qmd
 
     - part: section1.qmd
       chapters: 
+        - aims1.qmd
         - intro1.qmd
         - protocols1.qmd
         - data1.qmd
         
     - part: section2.qmd
       chapters: 
+        - aims2.qmd
         - intro2.qmd
         - protocols2.qmd
         - data2.qmd
     
     - part: section3.qmd
       chapters: 
+        - aims3.qmd
         - intro3.qmd
         - protocols3.qmd
         - data3.qmd
         
     - part: section4.qmd
       chapters: 
+        - aims4.qmd
         - intro4.qmd
         - protocols4.qmd
         - data4.qmd
     
     - part: section5.qmd
       chapters: 
+        - aims5.qmd
         - intro5.qmd
         - protocols5.qmd
         - data5.qmd

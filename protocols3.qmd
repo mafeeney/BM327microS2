@@ -1,0 +1,98 @@
+Protocol 3.1:
+
+1.	Using a flamed loop, take a colony from the agar plate provided containing your unknown clinical specimen.
+
+2.	Use this to streak a MacConkey agar plate (see protocol 1.4 for a more detailed explanation if necessary).
+
+3.	Repeat this exercise on fresh MacConkey agar plates for the positive and negative controls (Escherichia and Salmonella).
+
+4.	You will record your results in Table 4.1 in laboratory session 4, Task 4B.
+
+Protocol 4.3: Testing for catalase activity.
+
+1.	With a flamed loop, that has been allowed to cool, transfer cells from the centre of an isolated colony onto the surface of a glass slide.
+
+2.	Add 1 or 2 drops of 3% hydrogen peroxide to the cells.
+
+3.	Observe the slide and record your results.
+
+Repeat the assay for your other samples. You should assay your positive and negative controls as well as your unknown microbe.
+
+Interpretation
+
+Rapid appearance and sustained production of gas (oxygen) bubbles is indicative of a positive test. A few tiny bubbles after 20 – 30 seconds are not considered positive.
+
+
+Protocol 3.4: Testing for oxidase activity.
+
+1.	Apply the oxidase strip onto an isolated colony.
+
+2.	Record any colour changes.
+
+3.	Repeat the assay for your other samples. You should assay your positive and negative controls as well as your unknown microbe.
+
+
+Interpretation
+
+If the test microorganism is oxidase-positive, then an intense deep blue colour will develop within seconds.
+
+Protocol 3.5: Anaerobic growth of microorganisms using fluid thioglycollate medium.
+
+1.	Label the culture tube with your name, today’s date, and the name of the inoculum.
+
+2.	Flame your inoculating loop. It is important to sterilize the entire platinum wire.
+
+3.	Lift the lid of the Petri dish slightly.
+
+4.	Cool the loop on an empty area of agar. (If it is too hot, you will kill the bacteria in the colony you choose.)
+
+5.	Gently pick up a single colony with the loop.
+
+6.	Close the lid of the Petri dish.
+
+7.	Using good aseptic technique, open the culture tube containing thioglycollate medium.
+
+8.	Put your loop into the broth and shake it gently. Be sure to innoculate the depths of the culture media.
+
+9.	Close the culture tube. Flame your loop before setting it down.
+
+10.	Repeat the procedure for each sample; you should inoculate your controls (E. coli and Clostridium) as well as your unknown organism into thioglycollate medium. Incubate the cultures at 37°C overnight.
+
+11.	You will record your results in Table 5.3 in laboratory session 4 (Task 5C).
+
+
+Protocol 3.6: Anaerobic growth of microorganisms using the Gas-Pak system.
+
+1.	Label the base of the agar plate with your group name, today’s date, and label each plate +O2 or -O2 as appropriate.
+
+2.	Using a flamed loop and proper aseptic technique, take a colony from the agar plate provided containing your unknown clinical specimen.
+
+3.	Use this to streak for single colonies on half of each of your two stiff blood agar plates.
+
+4.	Repeat steps 2 - 3 for your control (Clostridium).
+
+5.	Keep one plate on your bench for incubation +O2 at 31°C for 48 - 72 hours. Deposit the other plate in the anaerobic jar for incubation -O2 at 31°C for 48 - 72 hours.
+
+6.	You will record your results Table 5.4 in laboratory session 4 (Task 5C).
+
+TASK 3E:	Analysing blood agar plates (from Task 1C)
+
+Observe your blood agar plates from Task 1C within the first laboratory session. You should hold the plate up to the light to best observe any haemolysis (with transmitted light coming through the plate). Record the results in Table 2.4 below.
+
+Protocol 3.7: Inoculation of your commensal flora on MSA agar.
+
+1.	Moisten a sterile swab until it is damp with the sterile water provided.
+
+2.	Carefully insert the swab high into one of your nostrils and gently rub its interior surfaces.
+
+3.	Smear the swab onto about one quarter of a MSA plate supplemented with oxacillin, rolling the swab around to ensure transfer of inoculum onto plate. Repeat and smear a second swab to a MSA plate without supplement.
+
+4.	Place the used swab into the clinical waste disposal bags at the end of the bench.
+
+5.	Take a new sterile loop and streak (using a flamed loop) the remainder of the plate with the initial inoculum.
+
+6.	Label the base of your plate with name and date.
+
+7.	Place in storage container for incubation at 31°C for 48 - 72 hours.
+
+You will record your results in Table 3.2 in laboratory session 3 (Task 3A).

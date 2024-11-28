@@ -1,1 +1,16 @@
-section 2
+---
+title: "Laboratory 2"
+---
+
+<center><h1>Being a Biomolecular Scientist 3
+
+Microbiology Laboratory Sessions
+
+Semester 2
+
+Laboratory 2
+
+Microbial Identification</h1></center>
+
+
+<center>| [Aims](./aims2.qmd) | [Intro](./intro2.qmd) | [Protocols](./protocols2.qmd) | [Data Analysis](./data2.qmd) </center>

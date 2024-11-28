@@ -1,1 +1,16 @@
-section 3
+---
+title: "Laboratory 3"
+---
+
+<center><h1>Being a Biomolecular Scientist 3
+
+Microbiology Laboratory Sessions
+
+Semester 2
+
+Laboratory 3
+
+Pathogens of the Intestinal Tract</h1></center>
+
+
+<center>| [Aims](./aims3.qmd) | [Intro](./intro3.qmd) | [Protocols](./protocols3.qmd) | [Data Analysis](./data3.qmd) </center>

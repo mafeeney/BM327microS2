@@ -1,0 +1,30 @@
+TASK 4F:	Analysing antibiotic resistance of P. aeruginosa isolates
+
+Bacteria in biofilms tend to be more resistant to killing and/or growth inhibition by antimicrobial agents. A number of different mechanisms have been proposed to explain this increased resistance, including that the biofilms may provide a measure of physical protection, i.e. with an extracellular matrix shielding the cells from contact with the antimicrobial agent. Alternatively, the cells present in a biofilm may have altered their gene expression/physiological state such that they are now more resistant to the antimicrobial. In this lab, you will test your Pseudomonas aeruginosa isolates to determine whether they are sensitive or resistant to the aminoglycoside antibiotic gentamicin.
+
+Introduction
+
+There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be looking at some of the phenotypic properties of bacteria that can contribute to their virulence (Case study 2, Tasks 2A and 2B) and using a differential stain to identify a potential pathogen (Case study 3, Task 2C).
+
+You will also finish the experiment you started in the last laboratory (Case study 1, Task 1C) in Task 2D this week. In Task 2E, you will use selective and differential media to isolate bacteria for laboratory session 3.
+
+
+CASE STUDY 2: Cystic fibrosis
+
+Cystic fibrosis is a genetic disorder (autosomal recessive) that mostly affects the lungs, with patients contracting infections due to mucus build-up, decreased mucocilliary clearance, and increased inflammation. Staphylococcus aureus, Haemophilus influenzae, and Pseudomonas aeruginosa commonly infect the lungs of CF patients. These are usually chronic, life-long infections, dominated by Pseudomonas aeruginosa in their later stages.
+
+In this clinical study, we are interested in which factors make Pseudomonas aeruginosa a successful pathogen in the CF lung. You will characterise the Pseudomonas sp. isolated from several different patients: you will analyse their ability to form biofilms (Task 2A) and their resistance to antibiotics (Task 2B
+
+
+TASK 5A:	Analysing biofilm attachment of P. aeruginosa isolates
+
+Biofilm formation is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell. This surface attachment is what you will measure using a crystal violet stain that binds to the bacteria.
+
+You will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay (Protocol 5.1).
+
+Crystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (see Figure 5.2 below). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.
+
+
+
+
+

@@ -1,1 +1,16 @@
-section 4
+---
+title: "Laboratory 4"
+---
+
+<center><h1>Being a Biomolecular Scientist 3
+
+Microbiology Laboratory Sessions
+
+Semester 2
+
+Laboratory 4
+
+Pathogens of the Circulatory System and Skin</h1></center>
+
+
+<center>| [Aims](./aims4.qmd) | [Intro](./intro4.qmd) | [Protocols](./protocols4.qmd) | [Data Analysis](./data4.qmd) </center>

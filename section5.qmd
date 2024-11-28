@@ -1,1 +1,16 @@
-section 5
+---
+title: "Laboratory 5"
+---
+
+<center><h1>Being a Biomolecular Scientist 3
+
+Microbiology Laboratory Sessions
+
+Semester 2
+
+Laboratory 5
+
+Pathogens of the Respiratory Tract</h1></center>
+
+
+<center>| [Aims](./aims5.qmd) | [Intro](./intro5.qmd) | [Protocols](./protocols5.qmd) | [Data Analysis](./data5.qmd) </center>

@@ -1,0 +1,21 @@
+---
+title: "Lab 1: Intro"
+---
+
+## Introduction: Pathogenicity Islands
+
+There are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).
+
+In this lab, you will be looking at pathogens of the urinary tract (Case study 7) and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A). Finally, you will be observing and recording results from the experiments you performed previously in laboratory session 4, Task 4A and 4D (in Tasks 5B and 5C).
+
+CASE STUDY 7: Horizontal Gene Transfer in UPEC strains
+
+There has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.
+
+You have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task 
+
+
+
+ 
+
+
