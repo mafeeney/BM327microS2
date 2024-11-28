@@ -1,7 +1,7 @@
--	Using aseptic technique.
+*	Using aseptic technique.
 
--	Pipetting
+*	Pipetting
 
--	Isolating and analysing plasmid DNA from microorganisms
+*	Isolating and analysing plasmid DNA from microorganisms
 
--	Documenting and reporting on experimental results and conclusions.
+*	Documenting and reporting on experimental results and conclusions.

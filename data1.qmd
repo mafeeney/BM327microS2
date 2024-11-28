@@ -1,3 +1,0 @@
-::: {.callout-note icon=false title="Case Study 1"}
-
-:::
