@@ -1,80 +1,8 @@
-Protocol 2.1: Observation of bacterial colony morphology.
+In Lab 2, you will perform the following tasks:
 
-1.	Measure the diameter of a representative colony in millimetres.
+* Task 2A: Observation of macroscopic characteristics
 
-2.	Describe the pigmentation (distinguishing between pigmented colonies and those secreting diffusible pigments) and record in Table 2.1.
+* Task 2B: Observation of microscopic characteristics
 
-3.	Describe the form, elevation, and margin of a representative colony (using the correct terminology as indicated in Figure 2.1). Also indicate whether the colonies are smooth (shiny glistening surface), rough (dull, bumpy, granular, or matte surface), or mucoid (slimy or gummy appearance) and record in Table 2.1.
-
-4.	Record the opacity of the colonies (transparent, translucent, or opaque) in Table 2.1.
-
-1.	Fungal colonies on solid media
-
-You are supplied with a culture of a yeast (unicellular fungus) and moulds (multicellular fungi) that has been grown on the surface of Sabouraud/dextrose agar plates for 72 hours at 25°C. Examine the colonies and record your descriptions in Table 1.2.
-
-1.	Gram stain of bacterial colonies isolated from solid media
-
-Protocol 2.2: Preparing Gram-stained bacterial cells.
-
-Please note, it is advisable that you wear safety gloves when handling staining reagents. However, gloves must be removed when working near the Bunsen burner.
-
-1.	Hold a glass slide with metal forceps and flame thoroughly its upper surface using a Bunsen flame (this degreases the slide and allows even spreading of the film of bacterial cells). Allow the slide to cool.
-
-2.	Flame a loop until red hot and leave it to cool (hold steady, do not move around or lay it on the bench). Once cool, place a loopful of sterile water on the upper surface of the slide (use half the slide – step 3. tells you that you can fit two samples onto a slide). Flame the loop again and allow it to cool, then use it to pick up a speck of a bacterial colony (ideally this would be one bacterial colony). Mix this speck thoroughly into the drop of water to form a dilute milky suspension covering an area of about the size of a 20p coin (the aim is to provide a film that contains a single layer of cells. Too high a density of cells applied to the slide results in loss of detail as the cells are too closely packed together. The amount of culture necessary to produce a good film is learned from experience).
-
-3.	You can fit two samples onto a slide – repeat step 2 for a second culture, making sure that the two samples are well-separated. If labelling the samples on a slide using a permanent marker, use caution to ensure that the label is not destroyed during the ethanol wash.
-
-4.	Dry the film completely by warming the slide gently. Hold the slide well above the Bunsen flame.
-
-5.	Fix the film of cells to the slide by passing the lower surface of the slide through the Bunsen flame slowly twice. Allow the slide to cool.
-
-6.	Stain the film with 0.5% w/v crystal violet for 30 seconds.
-
-7.	Drain the crystal violet, rinse off the remainder with a solution of iodine (1% w/v iodine in 2% w/v potassium iodide). Cover the film with iodine for one minute.
-
-8.	Drain the iodine, rinse off the remainder with alcohol. Rock the alcohol from side to side until no more crystal violet is removed. This process should take no longer than 45 seconds.
-
-9.	Drain off the alcohol remaining and gently blot the slide dry.
-
-10.	Rinse with water.
-
-11.	Cover the film with 1% w/v safranin for 30 seconds. Wash the safranin off the slide with water and allow the slide to dry.
-
-Interpretation
-
-Gram-positive organisms are stained blue/violet.
-Gram-negative organisms are stained red/pink.
-
-Using the Gram-staining technique detailed above, prepare stained films of E. coli, Staphylococcus aureus, Proteus species, Pseudomonas aeruginosa and Bacillus cereus. Observe your slides under the microscope, using a low power objective lens (x10) first and then the oil-immersion lens (x100).
-
-Indicate whether the organism is Gram-positive or Gram-negative and make accurate drawings of the cells of the five bacteria to show clearly the shapes of the individual cells, and the groupings of the individual cells (Table 2.3).
-
-
-Protocol 2.3: Microscopic examination of fungi.
-
-1.	Place a drop of iodine solution on the surface of a glass slide.
-
-2.	Using a flamed and cooled loop, pick up a small amount of a colony of a fungus and tease it out in the drop of iodine.
-
-3.	Place a cover slip on top of the mounted material and examine the fungi using first the low power (x10) and then the high power (x40) objective lenses of the microscope. Make accurate drawings of the three fungi showing their mycelia, hyphal structure (whether septate or non-septate), conidiophores and spores (Table 2.4).
-
-
-Protocol 2.4: Streaking for single colonies.
-
-1.	Flame a loop, let it cool slightly and then touch it to the bacterial colony you have chosen to streak on a new plate.
-
-2.	Pick up the bottom of the new plate (leaving the lid on the bench) with your other hand, turn it over and gently streak the loop back and forth over a small area of the plate. Use light pressure so you don’t gouge the agar.
-
-3.	Return the plate to its lid so as to protect it from contaminants in the air while you re-flame the loop. Allow the loop to cool.
-
-4.	Pick up the plate again and touch the cooled loop onto an area of the agar that has not previously been streaked. (This step helps to quench the heat from the loop and so prevents it from killing any bacteria it subsequently comes into contact with.)
-
-5.	Drag the loop once through the previous streaked area and streak it out across a new area of agar. As the loop drags across the previous streak it will pick up some bacteria and distribute them across the new area of agar.
-
-6.	Repeat steps 4 - 5 two or three times as necessary to cover the entire surface of the plate (See Figure 2.5).
-
-1.	Make sure that all agar plates are clearly labelled with your name, the sample name or number, your bench number, and the date. You should label the bottom of the plate (not the top – which may become separated from the bottom!). It is best to write in a circle around the edge of the plate, so that your writing will not obscure observation of the growth on the plate.
-
-2.	You will record your results in Table 2.4 during laboratory session 2 (Task 2D).
-
+* Task 2C: Differential media - use of blood agar to differentiate bacteria based on their haemolytic activity
 

@@ -1,30 +1,28 @@
 Aims
 
-•	To understand how to identify unknown microorganisms using molecular and media-based techniques.
-•	To understand how to isolate and analyse plasmid DNA from microorganisms.
-•	To understand how to carry out PCR and interpret the results from multiplexed reactions.
+* To understand how to identify unknown microorganisms using molecular and media-based techniques
+
+* To understand how to isolate and analyse plasmid DNA from microorganisms
+
+* To understand how to carry out PCR and interpret the results from multiplexed reactions
 
 
-Learning Outcomes
+# Learning Outcomes
 
 At the end of this laboratory session, you should understand:
 
-•	How to use differential media to identify microorganisms.
-•	How to use MVLA typing to identify microorganisms.
-•	How to use PCR to identify microorganisms.
+*	How to use differential media to identify microorganisms
+
+*	How to use MVLA typing to identify microorganisms
+
+*	How to use PCR to identify microorganisms
 
 
-Competencies
+# Competencies
 
-•	Using aseptic technique.
-•	Pipetting.
-•	Using appropriate methods to identify microorganisms (differential media, tests, MVLA typing).
-•	Using PCR to discriminate between bacterial species.
-•	Documenting and reporting on experimental results and conclusions.
+{{< include ./_includes/lab4comp.qmd >}}
 
 
-Importance
+# Importance
 
 This laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.
-
-

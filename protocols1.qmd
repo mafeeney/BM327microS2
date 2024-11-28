@@ -1,35 +1,6 @@
-TASK 5A:	Plasmid profiling of uropathogenic E. coli strains
+---
+title: Lab 1 Protocols
+---
 
-Protocol 5.1: Isolation of plasmid DNA
-
-1.	Transfer 1.0 ml of your E. coli culture to a microcentrifuge tube.
-
-2.	Spin for two minutes at 14,000 rpm in a microcentrifuge, making certain that the tube is correctly balanced (check with a demonstrator if you are unsure.
-
-3.	Discard the supernatant and resuspend pelleted bacterial cells in 250 μl of Buffer P1.
-
-4.	Add 250 μl of buffer P2 and gently invert the tube 4 - 6 times to mix, or until the solution becomes viscous and slightly clear. Do not allow the lysis reaction to proceed for more than 5 minutes.
-
-5.	Add 350 μl of buffer N3 and invert the tube 4 - 6 times. Centrifuge for 10 minutes at 13,000 rpm in a microcentrifuge.
-
-6.	Apply the supernatant from step 5 to the QIAprep spin column by decanting or pipetting. Centrifuge for 30 – 60 seconds and discard the flow-through.
-
-7.	Wash the QIAprep spin column by adding 0.5 ml Buffer PB. Centrifuge for
-30 – 60 seconds and discard the flow-through.
-
-8.	Wash the QIAprep spin column by adding 0.75 ml Buffer PE. Centrifuge for
-30–60 s and discard the flow-through.
-
-9.	Centrifuge for one minute to remove residual wash buffer.
-
-10.	Place the QIAprep column in a clean 1.5 ml microcentrifuge tube. To elute DNA, add 50 μl Buffer EB (10 mM Tris·Cl, pH 8.5) or water to the centre of the QIAprep spin column, let stand for one minute, and centrifuge for one minute.
-
-
-Protocol 5.2: Gel electrophoresis to analyse plasmid profiles
-
-1.	Prepare 1% agarose gel. Add 1g of agarose to a glass flask. Add 100 ml 1X TAE buffer. Heat agarose in a microwave till agarose is completely dissolved in the buffer. Wait for agarose to cool down to about 50˚C and pour the agarose to a gel try to set.
-
-2.	Mix 16 µl of your plasmid DNA with 4 µl of 5X loading buffer and load to one well of the agarose gel.
-
-3.	Perform electrophoresis, 100 V, until the blue indicator front about to reach the end of the gel.
+{{< pdf ./handouts/Lab1.pdf width=100% height=400 >}}
 

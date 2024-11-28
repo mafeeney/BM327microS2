@@ -2,6 +2,9 @@
 title: "Lab 1: Intro"
 ---
 
+## Introduction: Overview of Lab
+
+
 ## Introduction: Pathogenicity Islands
 
 There are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).

@@ -1,27 +1,33 @@
-Aims
+# Aim
 
-•	To understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.
+To understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.
 
 
-Learning Outcomes
+# Learning Outcomes
 
 At the end of this laboratory session, you should understand:
 
-•	How to identify pathogens of the intestinal tract using differential and selective media.
-•	How to identify pathogens of the intestinal tract using and an API-20E set of biochemical tests.
-•	How to analyses and identify microbes through their ability to grow aerobically or anaerobically.
+*	How to identify pathogens of the intestinal tract using differential and selective media.
+
+*	How to identify pathogens of the intestinal tract using and an API-20E set of biochemical tests.
+
+*	How to analyse and identify microbes through their ability to grow aerobically or anaerobically.
 
 
-Competencies
+# Competencies
 
-•	Using aseptic technique.
-•	Pipetting.
-•	Anaerobic cultivation of microbes.
-•	Using appropriate methods to identify microorganisms (differential media, tests).
-•	Documenting and reporting on experimental results and conclusions.
+* Using aseptic technique
+
+* Pipetting
+
+* Anaerobic cultivation of microbes
+
+* Using appropriate methods to identify microorganisms (differential media, tests)
+
+*	Documenting and reporting on experimental results and conclusions
 
 
-Importance
+# Importance
 
 This laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.
 
