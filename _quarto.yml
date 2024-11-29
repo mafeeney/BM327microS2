@@ -90,7 +90,7 @@ format:
     theme: cosmo
     code-link: true
     author-meta: "Leighton Pritchard"
-    
+    css: custom-styles.css
 # Freeze output before pushing modifications to the repository when publishing
 # Should not need changing
 execute:

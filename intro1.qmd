@@ -16,6 +16,14 @@ There are many different factors that affect the virulence of a pathogen. Some o
 
 In this lab, you will be looking at pathogens of the urinary tract @nte-uti and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A). 
 
+::: {.callout-casestudy}
+This is a custom-styled callout box.
+:::
+
+::: {.callout-casestudy #casestudy-example title="Case Study: Bacterial Growth"}
+This is a custom-styled callout box about bacterial growth.
+:::
+
 ::: {#nte-uti .callout-note icon=false title="Case Study 1"}
 
 There has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.
