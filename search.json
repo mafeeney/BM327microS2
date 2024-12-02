@@ -20,13 +20,23 @@
     ]
   },
   {
+    "objectID": "0section.html",
+    "href": "0section.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Being a Biomolecular Scientist 3\nMicrobiology Laboratory Sessions\nSemester 2\nIntroduction\n\n\n\nLab Safety | Aims | Competencies and Learning Outcomes | Schedule of Experimental Tasks | Assessment\n Good Laboratory Technique |Aseptic Technique |Using a Microscope |",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
     "objectID": "0intro.html",
     "href": "0intro.html",
     "title": "1  Background to Semester 2 Microbiology laboratory sessions",
     "section": "",
     "text": "The aim of this laboratory is to introduce students to fundamental molecular biology and microbiology methods, such as Gram staining, the use of selective and differential media, identifying unknown microbes, and DNA analysis.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
@@ -37,7 +47,7 @@
     "section": "",
     "text": "2.1 Overall learning outcomes\nGraduate recruiters look for specific job skills and competencies. Competencies are action-oriented statements of the knowledge, skills, and abilities people need to do their work successfully. They are observable and measurable. These are what you need to do the job and work in their organisation. Some are straightforward and required in many different career: communication, teamwork and problem solving are just a few. You need to show employers you have mastered essential skills such as writing, reading, numeracy, presentation, organisation and the ability to work under pressure. Graduates who demonstrate their analytical thinking during a job interview or assessment centre will stand out from other candidates. Other skills such as those gained in the laboratory are more specific and aligned to particular types of jobs e.g. ability to do a PCR.\nYou will be assessed for your competency in the following:\nLab 1\nLab 2\nLab 3\nLab 4\nLab 5",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Competencies</span>"
     ]
   },
@@ -48,7 +58,7 @@
     "section": "",
     "text": "Students will understand how to examine microorganisms, both at the macroscopic (colony morphology), and the microscopic (including the use of appropriate staining techniques) scale.\nStudents will understand how to identify unknown microorganisms using molecular and media-based techniques.\nStudents will understand how to isolate and analyse plasmid DNA from microorganisms.\nStudents will understand how to carry out PCR and interpret the results from multiplexed reactions.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Competencies</span>"
     ]
   },
@@ -59,7 +69,7 @@
     "section": "",
     "text": "Schedule of experimental tasks\nBecause of the nature of microbiology (cultures require incubation and take time to grow), many of your experiments will take place across more than one laboratory session (Figure 1). It is therefore essential that you keep careful track of all experimental tasks: e.g., carefully labelling your cultures and taking care to read all the relevant sections of the lab manual.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Schedule of Experimental Tasks</span>"
     ]
   },
@@ -70,7 +80,7 @@
     "section": "",
     "text": "4.1 Summative assessment: Online Quiz\nThe formal assessment for the BM327semester 2 microbiology laboratory block will consist of a Myplace quiz taken outside of laboratory time.\nThis will be a mix of multiple choice and short answer questions testing your understanding of key knowledge learnt across all of the laboratories and workshop sessions.\nPlease refer to the BM327 microbiology class sub-page on Myplace for more information.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment</span>"
     ]
   },
@@ -81,7 +91,7 @@
     "section": "",
     "text": "4.1.1 Contribution to overall class assessment\nThe BM327 semester 2 microbiology assessment comprises 25% of the overall BM327 class assessment.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment</span>"
     ]
   },
@@ -92,7 +102,7 @@
     "section": "",
     "text": "Important\n\n\n\nIMPORTANT NOTE: A link to all Safety Paperwork (eCOSHH and eRisk Assessments) for each appropriate laboratory will be sent to you in an email a few days before the session. These electronic documents MUST be read ahead of each laboratory and acknowledgement of this indicated by ticking the box that is at the end of the document. This MUST be done at least ONE day ahead of the session. Failure to do this will result in you not being allowed into the laboratory session. A link to the electronic document will also be available on the appropriate BM327 Being a Biomolecular Scientist 3 class sub-page on Myplace.\nIt is essential that you prepare thoroughly for these labs by reviewing each section and that you understand fully what you are doing in each lab. If in doubt, ask a member of staff.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lab Safety</span>"
     ]
   },
@@ -103,7 +113,7 @@
     "section": "",
     "text": "7 Good Lab Practice\nMany of the principles for working in a microbiology lab are the same as those used in any other biomedical research lab. These are transferable skills, which are useful for a number of different careers.\nGood lab practice is a cornerstone of biomedical research: it helps to ensure that results are reproducible, and is especially crucial for any clinical or therapeutic work.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
     ]
   },
@@ -114,7 +124,7 @@
     "section": "7.1 Keeping a Laboratory Notebook",
     "text": "7.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n7.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n7.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!) and be sure to label the bottom of the plate (the bottom and lid may become separated, so labeling the lid is a bad idea.)\n\n\n\n7.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).\nChange pipet tips between different samples.\n\nNever set a pipet down, or hold it horizontally/at an angle, with a pipet tip attached. It will damage a pipet if liquid comes up into the barrel.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
     ]
   },
@@ -125,7 +135,7 @@
     "section": "",
     "text": "7.1 Aseptic Technique\nIt is essential that you work aseptically when working in a microbiology lab. Microbes are ubiquitous in the environment (including in the air, and on your skin). Therefore, you must work aseptically so that your experiment contains only the organism(s) you are working with, and not unwanted contaminants!\nMost of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121C, 15 p.s.i.).\nOne of the cornerstone principles of aseptic technique is that any objects, even those that have previously been sterile, can no longer be considered sterile if they come into contact with non-sterile objects. Be careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Aseptic Technique</span>"
     ]
   },
@@ -136,7 +146,7 @@
     "section": "",
     "text": "Tip\n\n\n\nYou will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves.\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nYou should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated. Containers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.\n\n\n\n7.1.1 Working with a Bunsen Burner\nIn order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame. The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.\nWhen working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:\n\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not actively using it.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\n\n\n7.1.1.1 Using a platinum inoculating loop\nIn some cases you will need to use a platinum inoculating loop, e.g. to streak bacteria for single colonies on a new Petri plate.\nYou must make sure to sterilise your inoculating loop by flaming it (placing the platinum wire in the flame of your Bunsen burner to sterilise it). You should flame your loop both before touching it to a sample (this prevents the transfer of contaminants into your sample) and before putting it down when you have finished using it (so that you do not transfer microbes to the lab bench/other surfaces.\n\n\n\n\n\n\nImportant\n\n\n\nAn inoculating loop that has just been flamed is extremely hot - you should never allow a hot loop to touch your skin. You should also avoid touching a hot loop directly to your samples, as the heat will kill the microbes you are working with.\n\n\nThe procedure for flaming an inoculating loop is:\n\nPlace the loop in the flame of the Bunsen burner at an angle, so that the length of the loop lies along the surface between the inner and outer cones in the flame (the hottest part of the flame).\nHold the loop in the flame until the entirety of the loop turns cherry-red. It is not necessary to hold the loop there any longer than that: you are not trying to melt the metal!\nRemove the loop from the flame and allow it to cool, either by holding it in the air for several seconds (in the aseptic working zone near the Bunsen burner), or by touching it to a sterile surface (i.e. the inside of a culture tube or the agar in an uninoculated Petri dish.)\n\n\n\n\n7.1.2 Top tips for working with good aseptic technique:\n\nWork near a Bunsen burner set to a blue flame (Many students end up working miles away from their Bunsen, which is not very helpful.)\nOpen all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.) for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.\nBe careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Aseptic Technique</span>"
     ]
   },
@@ -147,7 +157,7 @@
     "section": "",
     "text": "8.1 Correct use of a microscope\nBacteria are much smaller than anything else you will have looked at under a microscope; most bacterial cells are approximately 1-3 µm long. Optimal set up of the microscope is therefore essential.\nYou should begin by placing a slide onto the stage and aligning the lowest power objective (usually the 10X objective) over it.\nAt any point while using the microscope, you may wish to:",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Using a Microscope</span>"
     ]
   },
@@ -158,7 +168,7 @@
     "section": "",
     "text": "Safety tip for working with microscopes\n\n\n\nPlease note that you should not wear gloves while working with a microscope: you do not want to inadvertently transfer staining reagents (or other chemicals) onto it.\n\n\n\n\nRaise the stage using the coarse focusing knob so that the slide is about 5 mm away from the objective.\nBring the slide into focus as best you can, first using the coarse focusing knob and then the fine focusing knob. You will be slowly lowering the stage so as to increase the distance between the slide and objective.\nOnce you have focussed as best you can using this objective, you should move on to the next highest power objective.\n\n\n\n\n\n\n\nFinding the focal plane\n\n\n\nOften the plane of focus is extremely narrow, so that small, faint objects like stained bacteria may be easily missed as the focus passes through the plane.\nThus, a good technique is to constantly move the focus up and down while also slowly moving the slide up/down or left/right on the stage. In this way, objects that flash in and out of focus tend to be more easily noticed by the eye.\n\n\n\n\nAdjust the “interocular separation” of the eyepieces so that they are comfortably aligned with your eyes.\nAdjust the lamp voltage at any time when using a microscope in order to get a comfortable level of light.\n\n\n8.1.1 Use of oil with the microscope:\n\nThe 100x objective is designed to be used with oil (it will have “oil” explicitly written on it), whereas the other objectives are not.\nNever use oil with any objective other than the 100x. Once you have added oil to your sample, never return to using a smaller magnification objective!\nOnly a very small amount of oil is needed, only add a tiny drop. Don’t flood the slide!\nWhen you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! The gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place.\nYou will most likely have to adjust the focus a little, but only use the fine adjustment at this stage. Ask for help if you have trouble finding the focus. Under no circumstances go back to the 40x, as it does not tolerate getting in contact to the immersion oil.\nResidual oil will cling to the 100X objective after use, so make sure you clean it off with a lens tissue (specifically designed for this purpose) before putting the objective away. DO NOT use any other tissue to clean the lens.",
     "crumbs": [
-      "Introduction.qmd",
+      "Introduction",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Using a Microscope</span>"
     ]
   },
@@ -188,7 +198,18 @@
     "href": "1intro.html",
     "title": "10  Basic Microbiology Skills",
     "section": "",
-    "text": "10.1 Introduction: Microbiology Skills",
+    "text": "10.1 Introduction: Microbiology Skills\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:",
+    "crumbs": [
+      "Laboratory 1",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Basic Microbiology Skills</span>"
+    ]
+  },
+  {
+    "objectID": "1intro.html#introduction-microbiology-skills",
+    "href": "1intro.html#introduction-microbiology-skills",
+    "title": "10  Basic Microbiology Skills",
+    "section": "",
+    "text": "You will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).\nYou will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).",
     "crumbs": [
       "Laboratory 1",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Basic Microbiology Skills</span>"
@@ -199,7 +220,7 @@
     "href": "1intro.html#working-with-microbes-in-axenic-pure-culture",
     "title": "10  Basic Microbiology Skills",
     "section": "10.2 Working with Microbes in Axenic (Pure) Culture",
-    "text": "10.2 Working with Microbes in Axenic (Pure) Culture\n\n10.2.1 Streaking and Plating for Single Colonies\n\n\n10.2.2 Quantifying the Number of Microbes in a Sample: Serial Dilutions",
+    "text": "10.2 Working with Microbes in Axenic (Pure) Culture\nAs microbiologists, we often work with microbes in axenic (pure) culture. Although microbes in nature almost always exist in complex, multi-species communities, it is generally easiest to work with, and identify, microbes when they are in axenic culture.\n\n\n\n\n10.2.1 Streaking and Plating for Single Colonies\n\n\n10.2.2 Quantifying the Number of Microbes in a Sample: Serial Dilutions",
     "crumbs": [
       "Laboratory 1",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Basic Microbiology Skills</span>"
@@ -210,7 +231,7 @@
     "href": "1intro.html#introduction-pathogenicity-islands",
     "title": "10  Basic Microbiology Skills",
     "section": "10.3 Introduction: Pathogenicity Islands",
-    "text": "10.3 Introduction: Pathogenicity Islands\nThere are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).\nIn this lab, you will be looking at pathogens of the urinary tract Note 10.1 and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A).\n\n\n\n\n\n\nNote 10.1: Case Study 1\n\n\n\nThere has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task\n\n\n\n10.3.1 Isolating and Analysing Plasmid DNA",
+    "text": "10.3 Introduction: Pathogenicity Islands\nThere are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).\nIn this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A).\n\nThere has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task\n\n\n10.3.1 Isolating and Analysing Plasmid DNA",
     "crumbs": [
       "Laboratory 1",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Basic Microbiology Skills</span>"
