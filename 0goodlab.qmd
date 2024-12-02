@@ -1,6 +1,12 @@
-# IMPORTANT NOTES FOR WORKING IN A MICROBIOLOGY LAB
+---
+title: Good Laboratory Practice
+---
 
-good lab practice
+# Good Lab Practice
+
+Many of the principles for working in a microbiology lab are the same as those used in any other biomedical research lab. These are transferable skills, which are useful for a number of different careers. 
+
+Good lab practice is a cornerstone of biomedical research: it helps to ensure that results are reproducible, and is especially crucial for any clinical or therapeutic work.
 
 ## Keeping a Laboratory Notebook
 
@@ -24,23 +30,29 @@ Moreover, an appropriately kept lab notebook is a legal document, important for 
 
 *	All data should always be recorded in your lab notebook (even “failed” experiments or “outliers”). 
 
-One popular and widely used electronic lab notebook is Benchling. 
+::: {.callout-tip title="Electronic Lab Notebooks" collapse="true"} 
+Increasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.
+
+There are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling. 
 
 *	You can join Benchling by creating an account at http://benchling.com/signup 
 
 *	For help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us. 
 
+:::
+
+
 ### Good Labelling Technique
 
 It is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.
 
-Some general guidelines for good labelling practice:
+Some general guidelines for good labeling practice:
 
 *	Include your initials and the date of the experiment (if directed by your instructors, also include your bench number).
 
-*	If working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine)
+*	If working with microorganisms, always include the species name (abbreviations, e.g. *E. coli* are fine).
 
-*	If labelling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!) and be sure to label the bottom of the plate (the bottom and lid may become separated, so labelling the lid is a bad idea.)
+*	If labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!) and be sure to label the bottom of the plate (the bottom and lid may become separated, so labeling the lid is a bad idea.)
 
 ### Other tips for good lab practice
 
@@ -53,11 +65,11 @@ Some general guidelines for good labelling practice:
 *	Never wear gloves when working with a Bunsen burner.
 
 *	Pipet as accurately as possible:
-  +	Use the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)
-  + Pipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid. 
-  + Avoid bubbles when pipetting.
-  + Only insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).
-  + Change pipet tips between different samples.
+    +	Use the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)
+    + Pipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid. 
+    + Avoid bubbles when pipetting.
+    + Only insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).
+    + Change pipet tips between different samples.
 
-* Never set a pipet down, or hold it horizontally/at an angle, with a pipet tip attached. It can damage a pipet if liquid comes up into the barrel.
+* **Never** set a pipet down, or hold it horizontally/at an angle, with a pipet tip attached. It will damage a pipet if liquid comes up into the barrel.
 
