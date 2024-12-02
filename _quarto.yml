@@ -16,65 +16,73 @@ book:
     
     - part: Introduction.qmd
       chapters:
+        - text: "Aims"
+          href: 0intro.qmd
+        - text: "Competencies"
+          href: 0competencies.qmd
+        - text: "Schedule of Experimental Tasks"
+          href: 0schedule.qmd
+        - text: "Assessment"
+          href: 0assessment.qmd  
         - text: "Lab Safety"
-          href: safety.qmd
+          href: 0safety.qmd
         - text: "Good Laboratory Technique"
-          href: goodlab.qmd
+          href: 0goodlab.qmd
         - text: "Aseptic Technique"
-          href: aseptic.qmd
+          href: 0aseptic.qmd
         - text: "Using a Microscope"
-          href: microscope.qmd
+          href: 0microscope.qmd
 
-    - part: section1.qmd
+    - part: 1section.qmd
       chapters: 
-        - aims1.qmd
-        - intro1.qmd
-        - protocols1.qmd
-        - data1.qmd
+        - 1aims.qmd
+        - 1intro.qmd
+        - 1protocols.qmd
+        - 1data.qmd
         
-    - part: section2.qmd
+    - part: 2section.qmd
       chapters: 
-        - aims2.qmd
-        - intro2.qmd
-        - protocols2.qmd
-        - data2.qmd
+        - 2aims.qmd
+        - 2intro.qmd
+        - 2protocols.qmd
+        - 2data.qmd
     
-    - part: section3.qmd
+    - part: 3section.qmd
       chapters: 
-        - aims3.qmd
-        - intro3.qmd
-        - protocols3.qmd
-        - data3.qmd
+        - 3aims.qmd
+        - 3intro.qmd
+        - 3protocols.qmd
+        - 3data.qmd
         
-    - part: section4.qmd
+    - part: 4section.qmd
       chapters: 
-        - aims4.qmd
-        - intro4.qmd
-        - protocols4.qmd
-        - data4.qmd
+        - 4aims.qmd
+        - 4intro.qmd
+        - 4protocols.qmd
+        - 4data.qmd
     
-    - part: section5.qmd
+    - part: 5section.qmd
       chapters: 
-        - aims5.qmd
-        - intro5.qmd
-        - protocols5.qmd
-        - data5.qmd
+        - 5aims.qmd
+        - 5intro.qmd
+        - 5protocols.qmd
+        - 5data.qmd
 
   # Sidebar tools for quick navigation
   sidebar:
     tools:
       - icon: 0-square
-        href: ./section0
+        href: ./0section
       - icon: 1-square
-        href: ./section1
+        href: ./1section
       - icon: 2-square
-        href: ./section2
+        href: ./2section
       - icon: 3-square
-        href: ./section3
+        href: ./3section
       - icon: 4-square
-        href: ./section4
+        href: ./4section
       - icon: 5-square
-        href: ./section5
+        href: ./5section
 
 
 
@@ -90,7 +98,7 @@ format:
     theme: cosmo
     code-link: true
     author-meta: "Leighton Pritchard"
-    css: custom-styles.css
+
 # Freeze output before pushing modifications to the repository when publishing
 # Should not need changing
 execute:

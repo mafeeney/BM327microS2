@@ -13,4 +13,4 @@ Laboratory 5
 Pathogens of the Respiratory Tract</h1></center>
 
 
-<center>| [Aims](./aims5.qmd) | [Intro](./intro5.qmd) | [Protocols](./protocols5.qmd) | [Data Analysis](./data5.qmd) </center>
+<center>| [Aims](./5aims.qmd) | [Intro](./5intro.qmd) | [Protocols](./5protocols.qmd) | [Data Analysis](./5data.qmd) </center>

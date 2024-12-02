@@ -13,4 +13,4 @@ Laboratory 4
 Pathogens of the Circulatory System and Skin</h1></center>
 
 
-<center>| [Aims](./aims4.qmd) | [Intro](./intro4.qmd) | [Protocols](./protocols4.qmd) | [Data Analysis](./data4.qmd) </center>
+<center>| [Aims](./4aims.qmd) | [Intro](./4intro.qmd) | [Protocols](./4protocols.qmd) | [Data Analysis](./4data.qmd) </center>

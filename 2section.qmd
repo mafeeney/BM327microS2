@@ -13,4 +13,4 @@ Laboratory 2
 Microbial Identification</h1></center>
 
 
-<center>| [Aims](./aims2.qmd) | [Intro](./intro2.qmd) | [Protocols](./protocols2.qmd) | [Data Analysis](./data2.qmd) </center>
+<center>| [Aims](./2aims.qmd) | [Intro](./2intro.qmd) | [Protocols](./2protocols.qmd) | [Data Analysis](./2data.qmd) </center>

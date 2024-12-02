@@ -10,6 +10,6 @@ Semester 2
 Introduction</h1></center>
 
 
-<center>| [Lab Safety](./safety.qmd) | [Background](./intro0.qmd) | [Competencies and Learning Outcomes](./competencies.qmd) | [Schedule of Experimental Tasks](./schedule.qmd) | [Assessment](./assessment.qmd)
+<center>| [Lab Safety](./0safety.qmd) | [Background](./0intro.qmd) | [Competencies and Learning Outcomes](./0competencies.qmd) | [Schedule of Experimental Tasks](./0schedule.qmd) | [Assessment](./0assessment.qmd)
 <br><br>
  [Good Laboratory Technique](./goodlab.qmd) |[Aseptic Technique](./aseptic.qmd) |[Using a Microscope](./microscope.qmd) |</center>

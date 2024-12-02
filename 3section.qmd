@@ -13,4 +13,4 @@ Laboratory 3
 Pathogens of the Intestinal Tract</h1></center>
 
 
-<center>| [Aims](./aims3.qmd) | [Intro](./intro3.qmd) | [Protocols](./protocols3.qmd) | [Data Analysis](./data3.qmd) </center>
+<center>| [Aims](./3aims.qmd) | [Intro](./3intro.qmd) | [Protocols](./3protocols.qmd) | [Data Analysis](./3data.qmd) </center>
