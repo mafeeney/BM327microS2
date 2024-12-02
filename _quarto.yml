@@ -14,7 +14,7 @@ book:
   chapters:
     - index.qmd
     
-    - part: Introduction.qmd
+    - part: 0section.qmd
       chapters:
         - text: "Aims"
           href: 0intro.qmd
