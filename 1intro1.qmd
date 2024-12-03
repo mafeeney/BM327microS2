@@ -1,0 +1,24 @@
+---
+title: "Axenic Culture"
+---
+
+## Working with Microbes in Axenic (Pure) Culture
+
+As microbiologists, we often work with microbes in axenic (pure) culture. Although microbes in nature almost always exist in complex, multi-species communities, it is generally easiest to work with, and identify, microbes when they are in axenic culture.
+
+::: {.discussion title="Why work with microbes in pure culture?"}
+
+**Questions to consider:**
+
+* Working as a clinical microbiologist, you perform a set of biochemical tests aimed at identifying an unknown pathogen (e.g., testing the ability of the microbe to ferment various sugars, testing whether particular enzymes are expressed...) However, you later discover that you were working with a mixed culture (not a pure one). How does this affect your interpretation of the biochemical test results?
+
+* Imagine that a colleague has given you a culture of a particular bacterial pathogen - say, for instance, a particular strain of *Yersinia pestis* that you are interested in working with. Of course you trust that your colleague is a good microbiologist and you have no reason to doubt their aseptic technique. However, just for the avoidance of doubt - how could you confirm that they have given you a pure culture that contains only your strain of interest?
+
+* As microbiologists, how can we work with microbes that do not grow in pure culture (e.g., facultative intracellular pathogens)?
+
+:::
+
+### Streaking and Plating for Single Colonies
+
+
+

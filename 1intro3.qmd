@@ -1,26 +1,6 @@
 ---
-title: "Basic Microbiology Skills"
+title: "Working with Bacterial Plasmids"
 ---
-
-## Introduction: Microbiology Skills
-
-In this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:
-
-1. You will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).
-
-2. You will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).
-
-## Working with Microbes in Axenic (Pure) Culture
-
-As microbiologists, we often work with microbes in axenic (pure) culture. Although microbes in nature almost always exist in complex, multi-species communities, it is generally easiest to work with, and identify, microbes when they are in axenic culture.
-
-::: {.discussion title="Why work with microbes in pure culture?"}
-
-:::
-
-### Streaking and Plating for Single Colonies
-
-### Quantifying the Number of Microbes in a Sample: Serial Dilutions
 
 ## Introduction: Pathogenicity Islands
 

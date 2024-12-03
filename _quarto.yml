@@ -36,7 +36,9 @@ book:
     - part: 1section.qmd
       chapters: 
         - 1aims.qmd
-        - 1intro.qmd
+        - 1intro1.qmd
+        - 1intro2.qmd
+        - 1intro3.qmd
         - 1protocols.qmd
         - 1data.qmd
         
