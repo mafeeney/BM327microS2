@@ -185,23 +185,56 @@
   {
     "objectID": "1aims.html",
     "href": "1aims.html",
-    "title": "9  Aims",
+    "title": "9  Aims and Overview",
     "section": "",
-    "text": "10 Learning Outcomes\nTo understand how to work with microorganisms, both safely and aseptically\nAt the end of this laboratory session, you should understand:",
+    "text": "9.1 Aims\nTo understand how to work with microorganisms, both safely and aseptically",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#learning-outcomes",
+    "href": "1aims.html#learning-outcomes",
+    "title": "9  Aims and Overview",
+    "section": "9.2 Learning Outcomes",
+    "text": "9.2 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to correctly use basic lab equipment including Bunsen burners and microscopes\nHow to isolate single colonies using the streak plate method and by plating serial dilutions",
+    "crumbs": [
+      "Laboratory 1 - Basic Microbiology Skills",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#competencies",
+    "href": "1aims.html#competencies",
+    "title": "9  Aims and Overview",
+    "section": "9.3 Competencies",
+    "text": "9.3 Competencies\n\nUsing aseptic technique.\nPipetting\nIsolating and analysing plasmid DNA from microorganisms\nDocumenting and reporting on experimental results and conclusions.",
+    "crumbs": [
+      "Laboratory 1 - Basic Microbiology Skills",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
+    ]
+  },
+  {
+    "objectID": "1aims.html#importance",
+    "href": "1aims.html#importance",
+    "title": "9  Aims and Overview",
+    "section": "9.4 Importance",
+    "text": "9.4 Importance\nThis laboratory session introduces key skills required for working safely and aseptically with microorganisms, which are fundamental for working as a microbiologist and used more broadly across a range of other disciplines in the life sciences.",
+    "crumbs": [
+      "Laboratory 1 - Basic Microbiology Skills",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
     ]
   },
   {
     "objectID": "1aims.html#overview-of-lab-1",
     "href": "1aims.html#overview-of-lab-1",
-    "title": "9  Aims",
-    "section": "12.1 Overview of Lab 1",
-    "text": "12.1 Overview of Lab 1\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).\nYou will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:",
+    "title": "9  Aims and Overview",
+    "section": "9.5 Overview of Lab 1",
+    "text": "9.5 Overview of Lab 1\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).\nYou will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).\n\n\n\n\n\n\n\nTo prepare for Lab 1\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
     ]
   },
   {
@@ -220,7 +253,7 @@
     "href": "1intro1.html#working-with-microbes-in-axenic-pure-culture",
     "title": "10  Axenic Culture",
     "section": "",
-    "text": "Questions to consider:\n\nWorking as a clinical microbiologist, you perform a set of biochemical tests aimed at identifying an unknown pathogen (e.g., testing the ability of the microbe to ferment various sugars, testing whether particular enzymes are expressed…) However, you later discover that you were working with a mixed culture (not a pure one). How does this affect your interpretation of the biochemical test results?\nImagine that a colleague has given you a culture of a particular bacterial pathogen - say, for instance, a particular strain of Yersinia pestis that you are interested in working with. Of course you trust that your colleague is a good microbiologist and you have no reason to doubt their aseptic technique. However, just for the avoidance of doubt - how could you confirm that they have given you a pure culture that contains only your strain of interest?\nAs microbiologists, how can we work with microbes that do not grow in pure culture (e.g., facultative intracellular pathogens)?\n\n\n\n10.1.1 Streaking and Plating for Single Colonies",
+    "text": "Discussion questions - Why work with microbes in pure culture?\n\n\n\nQuestions to consider:\n\nWorking as a clinical microbiologist, you perform a set of biochemical tests aimed at identifying an unknown pathogen (e.g., testing the ability of the microbe to ferment various sugars, testing whether particular enzymes are expressed…) However, you later discover that you were working with a mixed culture (not a pure one). How does this affect your interpretation of the biochemical test results?\nImagine that a colleague has given you a culture of a particular bacterial pathogen - say, for instance, a particular strain of Yersinia pestis that you are interested in working with. Of course you trust that your colleague is a good microbiologist and you have no reason to doubt their aseptic technique. However, just for the avoidance of doubt - how could you confirm that they have given you a pure culture that contains only your strain of interest?\nAs microbiologists, how can we work with microbes that do not grow in pure culture (e.g., facultative intracellular pathogens)?\n\n\n\n\n10.1.1 Streaking and Plating for Single Colonies",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Axenic Culture</span>"
@@ -253,7 +286,7 @@
     "href": "1intro3.html#introduction-pathogenicity-islands",
     "title": "12  Working with Bacterial Plasmids",
     "section": "",
-    "text": "There has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task\n\n\n12.1.1 Isolating and Analysing Plasmid DNA",
+    "text": "Case Study 1\n\n\n\nThere has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task\n\n\n\n12.1.1 Isolating and Analysing Plasmid DNA",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Working with Bacterial Plasmids</span>"
@@ -268,6 +301,17 @@
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Lab 1 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "1data.html",
+    "href": "1data.html",
+    "title": "14  Discussion with a different title",
+    "section": "",
+    "text": "Data Analysis\n\n\n\nYou collected all this. Time to analyse!\n\n\n\n\n\n\n\n\nDiscussion Questions:\n\n\n\nLet’s talk about it\n\n\n\n\n\n\n\n\nGreat job!\n\n\n\nWell done for being you!\n\n\n\n\n\n\n\n\nDiscussion Questions:\n\n\n\nLet’s talk about something else",
+    "crumbs": [
+      "Laboratory 1 - Basic Microbiology Skills",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Discussion with a different title</span>"
     ]
   },
   {
