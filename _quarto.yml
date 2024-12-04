@@ -132,3 +132,7 @@ custom-callout:
     icon-symbol: "📝"
     color: "pink"
     
+    
+
+filters:
+  - custom-callout

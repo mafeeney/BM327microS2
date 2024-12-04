@@ -6,7 +6,7 @@ title: "Axenic Culture"
 
 As microbiologists, we often work with microbes in axenic (pure) culture. Although microbes in nature almost always exist in complex, multi-species communities, it is generally easiest to work with, and identify, microbes when they are in axenic culture.
 
-::: {.discussion title="Why work with microbes in pure culture?"}
+::: {.discussion title="Discussion questions - Why work with microbes in pure culture?"}
 
 **Questions to consider:**
 

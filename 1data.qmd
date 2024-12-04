@@ -1,0 +1,18 @@
+
+::: {.data}
+You collected all this. Time to analyse!
+:::
+
+::: {.discussion}
+Let's talk about it
+:::
+
+::: {.thumbs-up}
+Well done for being you!
+:::
+
+::: {.discussion}
+## Discussion with a different title
+
+Let's talk about something else
+:::

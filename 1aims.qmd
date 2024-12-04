@@ -1,8 +1,12 @@
-# Aims 
+---
+title: "Aims and Overview"
+---
+
+## Aims 
 To understand how to work with microorganisms, both safely and aseptically
 
 
-# Learning Outcomes
+## Learning Outcomes
 At the end of this laboratory session, you should understand:
 
 - How to correctly use basic lab equipment including Bunsen burners and microscopes
@@ -10,11 +14,11 @@ At the end of this laboratory session, you should understand:
 - How to isolate single colonies using the streak plate method and by plating serial dilutions
 
 
-# Competencies 
+## Competencies 
 
 {{< include ./_includes/lab1comp.qmd >}}
 
-# Importance
+## Importance
 
 This laboratory session introduces key skills required for working safely and aseptically with microorganisms, which are fundamental for working as a microbiologist and used more broadly across a range of other disciplines in the life sciences.
 
