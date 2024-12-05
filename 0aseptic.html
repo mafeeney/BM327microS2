@@ -71,6 +71,50 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-discussion-hints.callout {
+  border-left-color: #952dae;
+}
+div.callout-discussion-hints.callout-style-default > .callout-header {
+  background-color: rgba(149, 45, 174, 0.13);
+}
+div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -93,28 +137,6 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-discussion-hints.callout {
-  border-left-color: #952dae;
-}
-div.callout-discussion-hints.callout-style-default > .callout-header {
-  background-color: rgba(149, 45, 174, 0.13);
-}
-div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
 div.callout-todo.callout {
   border-left-color: pink;
 }
@@ -124,28 +146,6 @@ div.callout-todo.callout-style-default > .callout-header {
 div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
   content: '📝';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
   background-image: none;
 }
 </style>
@@ -490,7 +490,7 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
 <section id="aseptic-technique" class="level2" data-number="7.1">
 <h2 data-number="7.1" class="anchored" data-anchor-id="aseptic-technique"><span class="header-section-number">7.1</span> Aseptic Technique</h2>
 <p>It is <strong>essential</strong> that you work aseptically when working in a microbiology lab. Microbes are ubiquitous in the environment (including in the air, and on your skin). Therefore, you must work aseptically so that your experiment contains only the organism(s) you are working with, and not unwanted contaminants!</p>
-<p>Most of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121C, 15 p.s.i.).</p>
+<p>Most of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121°C, 15 p.s.i.).</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -502,25 +502,49 @@ Tip
 </div>
 <div class="callout-body-container callout-body">
 <p>You will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves.</p>
+<div id="fig-autoclavetape" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-autoclavetape-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/autoclave-tape.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-autoclavetape-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7.1: The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: <a href="https://commons.wikimedia.org/wiki/File:Autoclavetape.jpg">Wikipedia</a>
+</figcaption>
+</figure>
+</div>
 </div>
 </div>
 <p>One of the cornerstone principles of aseptic technique is that any objects, even those that have previously been sterile, can no longer be considered sterile if they come into contact with non-sterile objects. Be careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles).</p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout callout-style-default callout-tip callout-titled" title="Top Tip for Good Aseptic Technique">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Tip
+Top Tip for Good Aseptic Technique
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>You should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated. Containers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open.</p>
+<p>You should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated.</p>
+<p>Containers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample.</p>
+<p>Tip boxes should <strong>not</strong> be left open. If you leave the box open, microbes present in the air can easily contaminate the tips.</p>
+<p><img src="images/pipettips.jpg" id="fig-pipettips" class="img-fluid" alt="A box of pipet tips that are no longer sterile. Image credit: Starlab"> You should therefore always: 1. Open tip box –&gt; 2. Take pipet tip –&gt; 3. Close tip box –&gt; 4. Use pipet tip</p>
 </div>
 </div>
 <section id="working-with-a-bunsen-burner" class="level3" data-number="7.1.1">
 <h3 data-number="7.1.1" class="anchored" data-anchor-id="working-with-a-bunsen-burner"><span class="header-section-number">7.1.1</span> Working with a Bunsen Burner</h3>
-<p>In order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame. The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.</p>
+<p>In order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (<a href="#fig-bunsen" class="quarto-xref">Figure&nbsp;<span>7.2</span></a>). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.</p>
+<div id="fig-bunsen" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-bunsen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Bunsen.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bunsen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7.2: A Bunsen burner set to a blue flame. Image credit: <a href="https://www.britannica.com/science/Bunsen-burner#/media/1/84759/113586
+">Encyclopedia Britannica</a>
+</figcaption>
+</figure>
+</div>
 <p>When working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:</p>
 <ul>
 <li><p>Turn off your Bunsen burner (or set it to a visible orange flame) if you are not actively using it.</p></li>
