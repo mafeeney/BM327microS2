@@ -8,7 +8,7 @@ Bacterial cultures can contain many, many trillions of cells (up to ~10<sup>9</s
 
 It is therefore necessary to perform **serial dilutions**, most commonly **decimal serial dilutions** (where the sample is diluted by a factor of 10 in each step), to obtain the desired culture density. You can see an example of this in @fig-serialdilution, where a bacterial culture is diluted 1:10 four times, ending in a final tube containing a 10<sup>-4</sup> dilution of the original culture. 
 
-![An example of a decimal serial dilution.](images/serial-dilution.JPG){#fig-serialdilution}
+![An example of a decimal serial dilution.](images/serial-dilution.jpg){#fig-serialdilution}
 
 ### Preparing decimal serial dilutions
 
@@ -46,17 +46,45 @@ Spreaders come in various forms, and can be made of plastic, glass, or metal. (G
 
 Plastic spreaders are usually purchased sterile, and intended for a single use (note however that they can be used to spread several plates, provided that they do not come into contact with anything in between plates. 
 
-The sample from your serial dilution should be pipetted onto the center of your agar plate, and the spreader used to distribute the sample evenly across the entirety of the agar plate (@fig-spreaderuse). The goal is for the entire sample to be absorbed onto the agar surface, and for it to be distributed evenly (so that colonies do not clump together). You can do this either by moving the spreader over the surface of the plate, or by rotating the plate itself while holding the spreader steady.
+The sample from your serial dilution should be pipetted onto the center of your agar plate, and the spreader used to distribute the sample evenly across the entirety of the agar plate (@fig-spreaderuse). 
+
+When removing the plastic spreader from its sterile packaging, make sure that the end (the part that will be used to spread the culture on your agar plate) does not come into contact with anything contaminated - e.g., the packaging, your fingers, the lab bench).
+
+The goal is for the entire sample to be absorbed onto the agar surface, and for it to be distributed evenly (so that colonies do not clump together). You can do this either by moving the spreader over the surface of the plate, or by rotating the plate itself while holding the spreader steady.
 
 ![Using a spreader. Image credit: <a href="https://en.wikipedia.org/wiki/Cell_spreader#/media/File:Uses_of_a_cell_spreader.jpg">Wikipedia</a>](images/spreaderuse.jpg){#fig-spreaderuse}
 
-::: {.callout-tip title="Top tips for using a spreader"}
+::: {.callout-tip title="Top tips for reusing a spreader"}
 
-* When removing the plastic spreader from its sterile packaging, make sure that the end (the part that will be used to spread the culture on your agar plate) does not come into contact with anything contaminated - e.g., the packaging, your fingers, the lab bench).
+* When reusing a disposable plastic spreader, do so only when it does not compromise your experiment. 
 
-* When reusing a disposable plastic spreader, do so only when it does not compromise your experiment. It is OK, for example, to spread triplicate samples on three different agar plates (so long as the spreader is not contaminated between plates). It is also OK to reuse a spreader across different samples in a serial dilution - so long as you are working from the most dilute to the most concentrated sample. Be careful and try to save on plastic where you can reasonably do so. 
+* It is OK, for example, to spread triplicate samples on three different agar plates (so long as the spreader is not contaminated between plates). 
+
+* It is also OK to reuse a spreader across different samples in a serial dilution - so long as you are working from the most dilute to the most concentrated sample. 
+
+* Be careful and try to save on plastic where you can reasonably do so - it's good for the planet!
 
 :::
 
 ### Quantifying the Number of Microbes in a Sample: Serial Dilutions {#sec-ennumeration}
 
+It is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of *viable* microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)
+
+We calculate and express the number of viable microbes in the original sample in **colony forming units** (cfu) - usually in cfu/mL. 
+
+For example, if you performed a decimal serial dilution, plated 0.1 mL of the 10<sup>-4</sup> dilution, and counted 173 colonies on the resulting plate (@fig-serialdilplated) - how many viable bacterial cells were present in the original culture? 
+
+![Examples of plating and counting colonies from a decimal serial dilution](images/serialdilplated.jpg){#fig-serialdilplated}
+
+Here, we had 173 colonies in 0.1 mL of the dilution present in the 10<sup>-4</sup> dilution tube. 
+
+To calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10<sup>-4</sup>) = 1.73 * 10<sup>7</sup> cfu/mL. 
+
+::: {.callout-tip title="Top tips for calculating cfu/mL"}
+
+* Make sure you use the correct number of significant figures in your answer - you can't be more precise than your initial measurement (number of colonies counted).
+
+* Make sure you express your answer in scientific notation (e.g., 1.73 * 10<sup>7</sup> cfu/mL, not 17300000) and include units.
+
+* When you've finished your calculation, double-check that your answer makes sense! For example, you can't have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10<sup>-7</sup> cfu/mL, you have probably gone awry with your handling of exponents somewhere.
+:::
