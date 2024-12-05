@@ -2,7 +2,11 @@
 title: "Working with Bacterial Plasmids"
 ---
 
-## Introduction: Pathogenicity Islands
+## Isolating and Analysing Plasmid DNA
+
+Bacterial plasmids are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research. 
+
+## Introduction: Bacterial Plasmids and Pathogenicity Islands
 
 There are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).
 
@@ -16,5 +20,4 @@ You have been called in as a consultant on the case because the microbiologists 
 
 :::
  
-### Isolating and Analysing Plasmid DNA
 

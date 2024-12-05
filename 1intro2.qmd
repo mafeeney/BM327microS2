@@ -4,11 +4,20 @@ title: "Serial Dilutions"
 
 ## Serial Dilutions {#sec-serialdilutions}
 
-Bacterial cultures can contain many, many trillions of cells (up to ~10<sup>9</sup>-10<sup>10</sup>). Microbiologists therefore often need to dilute them (in order to obtain a more workable number of cells, to ennumerate them - @sec-ennumeration - or for particular experimental purposes where a specific number or density of cells is required.
+Bacterial cultures can contain many, many trillions of cells (up to ~10<sup>9</sup>-10<sup>10</sup>). If you were to plate an undiluted sample of a bacterial culture on an agar plate, you would most likely observe a **confluent lawn** of cells on the plate (@fig-confluent)
 
-It is therefore necessary to perform **serial dilutions**, most commonly **decimal serial dilutions** (where the sample is diluted by a factor of 10 in each step), to obtain the desired culture density. You can see an example of this in @fig-serialdilution, where a bacterial culture is diluted 1:10 four times, ending in a final tube containing a 10<sup>-4</sup> dilution of the original culture. 
+Microbiologists therefore often need to dilute them (in order to obtain a more workable number of cells, to ennumerate them - @sec-ennumeration - or for particular experimental purposes where a specific number or density of cells is required.
 
-![An example of a decimal serial dilution.](images/serial-dilution.jpg){#fig-serialdilution}
+![An example of a confluent lawn - from plating an undiluted culture](images/confluent.jpg){#fig-confluent}
+
+It is therefore necessary to perform **serial dilutions**, most commonly **decimal serial dilutions** (where the sample is diluted by a factor of 10 in each step), to obtain the desired culture density. Ideally, you will obtain a plate like the one in @fig-colonies - where the colonies are well-separated and easy to count.
+
+![A diluted bacterial culture plated on nutrient agar - giving countable, well-separated single colonies](images/colonies.jpg){#fig-colonies}
+
+
+You can see an example of a serial dilution in @fig-serialdilution, where a bacterial culture is diluted 1:10 four times, ending in a final tube containing a 10<sup>-4</sup> dilution of the original culture. 
+
+![An example of a decimal serial dilution.](images/serialdilution.jpg){#fig-serialdilution}
 
 ### Preparing decimal serial dilutions
 
@@ -81,6 +90,10 @@ Here, we had 173 colonies in 0.1 mL of the dilution present in the 10<sup>-4</su
 To calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10<sup>-4</sup>) = 1.73 * 10<sup>7</sup> cfu/mL. 
 
 ::: {.callout-tip title="Top tips for calculating cfu/mL"}
+
+* Make sure you label your plates with the dilution factor - you will need this for the calculations!
+
+* Ideally, you want to count colonies on a plate that has 30-300 colonies. We normally consider <30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate. 
 
 * Make sure you use the correct number of significant figures in your answer - you can't be more precise than your initial measurement (number of colonies counted).
 
