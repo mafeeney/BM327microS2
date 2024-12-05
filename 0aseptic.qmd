@@ -6,22 +6,35 @@ title: Aseptic Technique
 
 It is **essential** that you work aseptically when working in a microbiology lab. Microbes are ubiquitous in the environment (including in the air, and on your skin). Therefore, you must work aseptically so that your experiment contains only the organism(s) you are working with, and not unwanted contaminants!
 
-Most of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121C, 15 p.s.i.). 
+Most of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121°C, 15 p.s.i.). 
 
 ::: {.callout-tip}
 You will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves. 
+
+![The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: <a href="https://commons.wikimedia.org/wiki/File:Autoclavetape.jpg">Wikipedia</a>](images/autoclave-tape.jpg){#fig-autoclavetape}
 :::
 
 One of the cornerstone principles of aseptic technique is that any objects, even those that have previously been sterile, can no longer be considered sterile if they come into contact  with non-sterile objects. Be careful not to allow your pipet tips to come into contact with any non-sterile surfaces (i.e., your bench top, fingers, the lids or outsides of bottles). 
 
-::: {.callout-tip} 
-You should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated. Containers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. Tip boxes should not be left open. 
+::: {.callout-tip title="Top Tip for Good Aseptic Technique"} 
+You should use good aseptic technique when working with all containers (including tip boxes, Eppendorf boxes, bottles of media, etc.), to prevent the contents from becoming contaminated. 
+
+Containers should be opened for the minimum amount of time possible (the longer they are open, the greater the chance of contamination!) Close them promptly when you have removed the tip/sample. 
+
+Tip boxes should **not** be left open. If you leave the box open, microbes present in the air can easily contaminate the tips. 
+
+![A box of pipet tips that are no longer sterile. Image credit: <a href="https://www.starlabgroup.com/GB-en/our-brands/pipettes/tipone-pipette-tips.html">Starlab</a>](images/pipettips.jpg){#fig-pipettips}
+You should therefore always: 1. Open tip box --> 2. Take pipet tip --> 3. Close tip box --> 4. Use pipet tip
+
 :::
 
 
 ### Working with a Bunsen Burner
 
-In order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame. The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.
+In order to keep your work sterile and free from contamination that could interfere with your experiments, you should work near a Bunsen burner set to a blue flame (@fig-bunsen). The Bunsen creates an updraft of air, helping to maintain a “clean” zone around it. Having the Bunsen burner lit, but working several meters away from this clean zone, is ineffective and will likely result in contamination of your experiments.
+
+![A Bunsen burner set to a blue flame. Image credit: <a href="https://www.britannica.com/science/Bunsen-burner#/media/1/84759/113586
+">Encyclopedia Britannica</a>](images/Bunsen.jpg){#fig-bunsen}
 
 When working with a Bunsen burner, however, it is essential that you follow the following safety guidelines, for the safety of yourself and those working near you:
 

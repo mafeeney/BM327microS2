@@ -54,6 +54,10 @@ Some general guidelines for good labeling practice:
 
 *	If labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!) and be sure to label the bottom of the plate (the bottom and lid may become separated, so labeling the lid is a bad idea.)
 
+![Label around the rim of the Petri plate - not across the centre](images/plate-labelling.jpg){#fig-platelabelling}
+![Label the bottom of the Petri plate, not the lid](images/plate-lid.jpg){#fig-platelid}
+
+
 ### Other tips for good lab practice
 
 *	Read through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed. Stay organised and keep your space clean.
