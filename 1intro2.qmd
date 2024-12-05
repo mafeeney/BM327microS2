@@ -8,7 +8,7 @@ Bacterial cultures can contain many, many trillions of cells (up to ~10<sup>9</s
 
 Microbiologists therefore often need to dilute them (in order to obtain a more workable number of cells, to ennumerate them - @sec-ennumeration - or for particular experimental purposes where a specific number or density of cells is required.
 
-![An example of a confluent lawn - from plating an undiluted culture](images/confluent.jpg){#fig-confluent}
+![An example of a confluent lawn - from plating an undiluted culture](images/confluentlawn.jpg){#fig-confluent}
 
 It is therefore necessary to perform **serial dilutions**, most commonly **decimal serial dilutions** (where the sample is diluted by a factor of 10 in each step), to obtain the desired culture density. Ideally, you will obtain a plate like the one in @fig-colonies - where the colonies are well-separated and easy to count.
 
