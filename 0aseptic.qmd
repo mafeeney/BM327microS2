@@ -31,7 +31,7 @@ When working with a Bunsen burner, however, it is essential that you follow the 
 
 - Never wear gloves when working with a Bunsen burner. 
 
-#### Using a platinum inoculating loop
+#### Using a platinum inoculating loop {#sec-sterileloop}
 
 In some cases you will need to use a platinum inoculating loop, e.g. to streak bacteria for single colonies on a new Petri plate. 
 

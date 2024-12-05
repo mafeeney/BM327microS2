@@ -99,6 +99,7 @@ format:
   html:
     theme: cosmo
     code-link: true
+    fig-cap: true
     author-meta: "Leighton Pritchard"
 
 # Freeze output before pushing modifications to the repository when publishing
@@ -120,6 +121,10 @@ custom-callout:
     title: "Discussion Questions:"
     icon-symbol: "✨"
     color: "#BA55D3"
+  discussion-hints:
+    title: "Hints for Discussion Questions"
+    icon-symbol: "✨"
+    color: "#952dae"
   microbe:
     title: "Microbe Profile"
     icon-symbol: "🧫"
