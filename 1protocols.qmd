@@ -2,5 +2,9 @@
 title: Lab 1 Protocols
 ---
 
+You can view the handout for lab 1 below, or download it [here](./handouts/Lab1.pdf). We will also be using the [Promega Wizard Miniprep protocol](./handouts/MiniprepProtocol.pdf).
+
 {{< pdf ./handouts/Lab1.pdf width=100% height=400 >}}
 
+
+{{< pdf ./handouts/MiniprepProtocol.pdf width=100% height=400 >}}

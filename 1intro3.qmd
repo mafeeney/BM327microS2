@@ -4,21 +4,51 @@ title: "Working with Bacterial Plasmids"
 
 ## Isolating and Analysing Plasmid DNA
 
-Bacterial plasmids are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research. 
+Bacterial plasmids^[Plasmids are typically (relatively) small, usually circular, autonomously replicating DNA molecules - unlike the chromosome, they usually do not contain essential  genes, but they can contain genes that help the host organism adapt to particular environmental conditions.] are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Being able to isolate plasmid DNA is also necessary for sequencing and other analytical techniques. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research. 
 
 ### Working as a molecular microbiologist
 
+As a molecular microbiologist (or any type of biologist working with nucleic acids), you will want to develop excellent lab skills - for pipetting accurately, keeping your experiments free from contamination and especially from nucleases^[Nucleases - enzymes that degrade DNA], and being very precise and accurate in your work.
+
+DNA can easily be sheared or degraded, so you want to take especial care to preserve its integrity. Most DNA will be stored at -20°C for long-term storage, and you will want to thaw it gently and avoid vortexing it. You should also always wear gloves to avoid introducing nucleases (present on your skin), and always use nuclease-free reagents. 
 
 ::: {.callout-tip title="Top tips for working with DNA"}
+
+* Read your protocol and ensure that everything is ready before you begin working. Perform any necessary calculations and if necessary, write down a recipe of exactly what you will be pipetting into each tube.
+
+* Work in a careful and organised fashion. You will often be pipetting small volumes of clear liquid from one container to another (often these volumes are so small that you won't be able to tell by eye whether you have done so or not). Therefore, you should keep careful track of your work, especially when setting up complicated PCRs or enzyme digests. Make sure you are following the protocol exactly.
+
+* Wear gloves and use nuclease-free reagents. 
+
+* Pipet carefully and accurately, taking especial care when pipetting viscous solutions. Mix solutions thoroughly when called for. Work on ice when necessary (e.g., when setting up PCRs). 
 
 :::
 
 ### The Plasmid "Mini-prep"
 
-describe what it is and how it works
+The first step (which will be performed for you) is culturing the cells that you wish to extract plasmid DNA from. You will be provided with cultures of three unknown UPEC strains (Case Study 1), as well as a positive control (a strain of *Escherichia coli* that we know for certain contains plasmid DNA). 
 
+You will need to pellet these cells using a microcentrifuge, and resuspend them in a buffer, to concentrate them.
+
+::: {.callout-important title="Using a microcentrifuge"}
+
+When using a microcentrifuge, you must make certain that your tubes are **balanced** - they should be exactly opposite one another in the rotor (and should be of equal mass). Please check with a demonstrator before you begin using a microcentrifuge - it damages the centrifuge (and, in the case of larger centrifuges, can be incredibly dangerous) to run a centrifuge that is not correctly ballanced.
+
+:::
+
+Next, you will be using an alkaline lysis method, which is a very commonly used method for extracting plasmid DNA. In this method, an alkaline solution lyses open the cell membrane and denatures the cell's proteins and genomic DNA. The pH is then lowered using a neutralization buffer, which causes the chromosomal DNA and proteins to precipitate. The small, supercoiled plasmids remain in solution. 
+
+This solution is then applied to a **spin column** (@fig-spincolumn), which contains a silica matrix. The plasmid DNA binds to the matrix, contaminants are washed away, and then the DNA is eluted using a suitable buffer. (N.B. The pH and salt concentration of the buffer are quite important - and for long-term storage, you would probably want to use a buffer that contains EDTA, as this chelates the metal ions required for the activity of most nucleases.)
+
+![Example of a spin column (Image credit: <a href="https://www.abpbio.com/product/easysc-spin-column/">ABPBiosciences</a>.](images/spin-column.gif){#fig-spincolumn}
+
+When choosing a protocol/kit for extracting plasmid DNA, it is important to consider the downstream applications (e.g., how much DNA do you need, what buffers are compatible with your downstream steps...)
 
 ::: {.callout-tip title="Miniprep kits"}
+
+While it is perfectly possible to prepare all the reagents needed for an alkaline lysis miniprep, many researchers use miniprep kits for convenience and ease. A number of different companies produce and sell such kits - the one we will use in this lab is the <a href="https://www.promega.co.uk/products/nucleic-acid-extraction/plasmid-purification/wizard-plus-sv-minipreps-dna-purification-systems/?catNum=A1330">Promega Wizard® Plus SV Minipreps DNA Purification Systems</a>. 
+
+There are also kits available for larger-scale plasmid DNA purification (midi-, maxi-, mega-, and giga-prep kits).
 
 :::
 
@@ -32,8 +62,7 @@ In this lab, you will be looking at pathogens of the urinary tract and determini
 
 There has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.
 
-You have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task 
+You have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task 1B). 
 
 :::
  
-
