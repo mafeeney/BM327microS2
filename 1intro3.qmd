@@ -6,11 +6,27 @@ title: "Working with Bacterial Plasmids"
 
 Bacterial plasmids are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research. 
 
+### Working as a molecular microbiologist
+
+
+::: {.callout-tip title="Top tips for working with DNA"}
+
+:::
+
+### The Plasmid "Mini-prep"
+
+describe what it is and how it works
+
+
+::: {.callout-tip title="Miniprep kits"}
+
+:::
+
 ## Introduction: Bacterial Plasmids and Pathogenicity Islands
 
 There are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).
 
-In this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A). 
+In this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Case Study 1, Task 1B). 
 
 ::: {.case-study title="Case Study 1"}
 

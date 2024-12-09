@@ -2,10 +2,40 @@
 title: Lab 1 - Data Analysis
 ---
 
-## Task 1A - Evaluating your Streak Plates
+## Task 1A
+
+In the next lab session, you will be able to observe your streak and spread plates. You will examine the colony morphology on each plate in order to learn about how colony morphology can aid in @sec-microbialID. 
+
+You will also want to evaluate your plates to understand how competently you performed the tasks - whether and how you can improve your technique for preparing and plating serial dilutions, and streaking for single colonies.
+
+### Task 1A - Evaluating your Streak Plates
+
+We will help you to evaluate your streak plates and determine how you can improve your technique (if necessary). 
+
+A good streak plate has the following characteristics:
+
+* It has well-separated, distinct individual colonies
+
+* It makes good use of all of the available space on the plate
+
+* It is clearly and legibly labelled, with the label not obscuring the centre of the plate
+
+::: {#discussion-streak .discussion title="What's wrong with my streak?"}
+
+Eight examples of streak plates have been provided in @fig-shame for you. Can you diagnose the error(s) - if any - that were made in streaking out each plate?
+
+![Examples of streak plates](images/streak-shame.jpg){#fig-shame}
+
+:::
+
+::: {.discussion-hints title="Hints - diagnosing streak plate woes" collapse="true"}
+
+When trying to evaluate a streak plate, try to think of what actions could have produced that plate: which sector (quadrant) was streaked first? when/how often was the loop flamed? were any of the sectors inoculated with too many bacterial cells? 
+
+:::
 
 
-## Task 1A - Quantifying the Number of Microbes in a Sample: Serial Dilutions {#sec-ennumeration}
+### Task 1A - Quantifying the Number of Microbes in a Sample: Serial Dilutions {#sec-ennumeration}
 
 It is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of *viable* microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)
 
@@ -33,3 +63,4 @@ To calculate the number of cfu/mL present in the original sample, divide the num
 :::
 
 ## Task 1B - Interpreting your Gel Results
+

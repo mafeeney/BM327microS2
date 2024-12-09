@@ -1,4 +1,4 @@
-# Microbial Identification
+# Microbial Identification {#sec-microbialID}
 
 The techniques used to identify microbes can broadly be divided into molecular or culture based techniques. Molecular techniques rely on the identification of microbial macromolecules (usually DNA or proteins): examples include whole-genome sequencing, detection of specific sequences using polymerase chain reaction (PCR), and proteomic analysis using matrix-assisted laser desorption ionization-time of flight MS (MALDI-TOF MS). Culture-based techniques use differential stains, such as the Gram stain, selective and differential media, and biochemical tests to identify organisms based on their phenotypes. 
 
