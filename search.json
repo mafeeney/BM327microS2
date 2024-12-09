@@ -177,7 +177,7 @@
     "href": "1section.html",
     "title": "Laboratory 1 - Basic Microbiology Skills",
     "section": "",
-    "text": "Being a Biomolecular Scientist 3\nMicrobiology Laboratory Sessions\nSemester 2\nLaboratory 1\nBasic Microbiology Skills\n\n\n\nAims and Overview | Background | Protocols | Data Analysis",
+    "text": "Being a Biomolecular Scientist 3\nMicrobiology Laboratory Sessions\nSemester 2\nLaboratory 1\nBasic Microbiology Skills\n\n\n\nAims and Overview | Background: Axenic culture; Serial Dilutions; Plasmid DNA | Protocols | Data Analysis",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills"
     ]
@@ -231,7 +231,7 @@
     "href": "1aims.html#overview-of-lab-1",
     "title": "9  Aims and Overview",
     "section": "9.5 Overview of Lab 1",
-    "text": "9.5 Overview of Lab 1\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).\nYou will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).\n\n\n\n\n\n\n\nTo prepare for Lab 1\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:",
+    "text": "9.5 Overview of Lab 1\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will prepare a number of different bacterial cultures, using the streak plate and spread plate methods (Task 1A).\nYou will extract plasmid DNA from bacterial cultures and analyse it using agarose gel electrophoresis (Task 1B).\n\n\n\n\n\n\n\nTo prepare for Lab 1\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering Good Lab Practice and Aseptic Technique\nThe introductory sections covering the theory on Axenic culture, Serial Dilutions, and Plasmid DNA\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Aims and Overview</span>"
@@ -286,7 +286,7 @@
     "href": "1intro3.html",
     "title": "12  Working with Bacterial Plasmids",
     "section": "",
-    "text": "12.1 Isolating and Analysing Plasmid DNA\nBacterial plasmids are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research.",
+    "text": "12.1 Isolating and Analysing Plasmid DNA\nBacterial plasmids1 are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Being able to isolate plasmid DNA is also necessary for sequencing and other analytical techniques. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research.",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Working with Bacterial Plasmids</span>"
@@ -297,7 +297,7 @@
     "href": "1intro3.html#isolating-and-analysing-plasmid-dna",
     "title": "12  Working with Bacterial Plasmids",
     "section": "",
-    "text": "12.1.1 Working as a molecular microbiologist\n\n\n\n\n\n\nTop tips for working with DNA\n\n\n\n\n\n\n\n\n12.1.2 The Plasmid “Mini-prep”\ndescribe what it is and how it works\n\n\n\n\n\n\nMiniprep kits",
+    "text": "12.1.1 Working as a molecular microbiologist\nAs a molecular microbiologist (or any type of biologist working with nucleic acids), you will want to develop excellent lab skills - for pipetting accurately, keeping your experiments free from contamination and especially from nucleases2, and being very precise and accurate in your work.\nDNA can easily be sheared or degraded, so you want to take especial care to preserve its integrity. Most DNA will be stored at -20°C for long-term storage, and you will want to thaw it gently and avoid vortexing it. You should also always wear gloves to avoid introducing nucleases (present on your skin), and always use nuclease-free reagents.\n\n\n\n\n\n\nTop tips for working with DNA\n\n\n\n\nRead your protocol and ensure that everything is ready before you begin working. Perform any necessary calculations and if necessary, write down a recipe of exactly what you will be pipetting into each tube.\nWork in a careful and organised fashion. You will often be pipetting small volumes of clear liquid from one container to another (often these volumes are so small that you won’t be able to tell by eye whether you have done so or not). Therefore, you should keep careful track of your work, especially when setting up complicated PCRs or enzyme digests. Make sure you are following the protocol exactly.\nWear gloves and use nuclease-free reagents.\nPipet carefully and accurately, taking especial care when pipetting viscous solutions. Mix solutions thoroughly when called for. Work on ice when necessary (e.g., when setting up PCRs).\n\n\n\n\n\n12.1.2 The Plasmid “Mini-prep”\nThe first step (which will be performed for you) is culturing the cells that you wish to extract plasmid DNA from. You will be provided with cultures of three unknown UPEC strains (Case Study 1), as well as a positive control (a strain of Escherichia coli that we know for certain contains plasmid DNA).\nYou will need to pellet these cells using a microcentrifuge, and resuspend them in a buffer, to concentrate them.\n\n\n\n\n\n\nUsing a microcentrifuge\n\n\n\nWhen using a microcentrifuge, you must make certain that your tubes are balanced - they should be exactly opposite one another in the rotor (and should be of equal mass). Please check with a demonstrator before you begin using a microcentrifuge - it damages the centrifuge (and, in the case of larger centrifuges, can be incredibly dangerous) to run a centrifuge that is not correctly ballanced.\n\n\nNext, you will be using an alkaline lysis method, which is a very commonly used method for extracting plasmid DNA. In this method, an alkaline solution lyses open the cell membrane and denatures the cell’s proteins and genomic DNA. The pH is then lowered using a neutralization buffer, which causes the chromosomal DNA and proteins to precipitate. The small, supercoiled plasmids remain in solution.\nThis solution is then applied to a spin column (Figure 12.1), which contains a silica matrix. The plasmid DNA binds to the matrix, contaminants are washed away, and then the DNA is eluted using a suitable buffer. (N.B. The pH and salt concentration of the buffer are quite important - and for long-term storage, you would probably want to use a buffer that contains EDTA, as this chelates the metal ions required for the activity of most nucleases.)\n\n\n\n\n\n\nFigure 12.1: Example of a spin column (Image credit: ABPBiosciences.\n\n\n\nWhen choosing a protocol/kit for extracting plasmid DNA, it is important to consider the downstream applications (e.g., how much DNA do you need, what buffers are compatible with your downstream steps…)\n\n\n\n\n\n\nMiniprep kits\n\n\n\nWhile it is perfectly possible to prepare all the reagents needed for an alkaline lysis miniprep, many researchers use miniprep kits for convenience and ease. A number of different companies produce and sell such kits - the one we will use in this lab is the Promega Wizard® Plus SV Minipreps DNA Purification Systems.\nThere are also kits available for larger-scale plasmid DNA purification (midi-, maxi-, mega-, and giga-prep kits).",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Working with Bacterial Plasmids</span>"
@@ -308,7 +308,18 @@
     "href": "1intro3.html#introduction-bacterial-plasmids-and-pathogenicity-islands",
     "title": "12  Working with Bacterial Plasmids",
     "section": "12.2 Introduction: Bacterial Plasmids and Pathogenicity Islands",
-    "text": "12.2 Introduction: Bacterial Plasmids and Pathogenicity Islands\nThere are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).\nIn this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Case Study 1, Task 1B).\n\n\n\n\n\n\nCase Study 1\n\n\n\nThere has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task",
+    "text": "12.2 Introduction: Bacterial Plasmids and Pathogenicity Islands\nThere are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).\nIn this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Case Study 1, Task 1B).\n\n\n\n\n\n\nCase Study 1\n\n\n\nThere has recently been a large number of urinary tract infections in a local care home. The microbiologists investigating these cases have identified the aetiological agent as uropathogenic E. coli (UPEC). However, they are not sure why these UPEC strains seem to be more virulent than usual.\nYou have been called in as a consultant on the case because the microbiologists were impressed by your hypothesis that these UPEC strains might be acquiring virulence plasmids via horizontal gene transfer. Your task is to determine whether the isolated pathogens carry any plasmids (Task 1B).",
+    "crumbs": [
+      "Laboratory 1 - Basic Microbiology Skills",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Working with Bacterial Plasmids</span>"
+    ]
+  },
+  {
+    "objectID": "1intro3.html#footnotes",
+    "href": "1intro3.html#footnotes",
+    "title": "12  Working with Bacterial Plasmids",
+    "section": "",
+    "text": "Plasmids are typically (relatively) small, usually circular, autonomously replicating DNA molecules - unlike the chromosome, they usually do not contain essential genes, but they can contain genes that help the host organism adapt to particular environmental conditions.↩︎\nNucleases - enzymes that degrade DNA↩︎",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Working with Bacterial Plasmids</span>"
@@ -319,7 +330,7 @@
     "href": "1protocols.html",
     "title": "13  Lab 1 Protocols",
     "section": "",
-    "text": "Download PDF file.",
+    "text": "You can view the handout for lab 1 below, or download it here. We will also be using the Promega Wizard Miniprep protocol.\nDownload PDF file.\nDownload PDF file.",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Lab 1 Protocols</span>"
@@ -337,8 +348,8 @@
     ]
   },
   {
-    "objectID": "1data.html#task-1a",
-    "href": "1data.html#task-1a",
+    "objectID": "1data.html#sec-1Adata",
+    "href": "1data.html#sec-1Adata",
     "title": "14  Lab 1 - Data Analysis",
     "section": "",
     "text": "14.1.1 Task 1A - Evaluating your Streak Plates\nWe will help you to evaluate your streak plates and determine how you can improve your technique (if necessary).\nA good streak plate has the following characteristics:\n\nIt has well-separated, distinct individual colonies\nIt makes good use of all of the available space on the plate\nIt is clearly and legibly labelled, with the label not obscuring the centre of the plate\n\n\n\n\n\n\n\nWhat's wrong with my streak?\n\n\n\nEight examples of streak plates have been provided in Figure 14.1 for you. Can you diagnose the error(s) - if any - that were made in streaking out each plate?\n\n\n\n\n\n\nFigure 14.1: Examples of streak plates\n\n\n\n\n\n\n\n\n\n\n\nHints - diagnosing streak plate woes\n\n\n\n\n\nWhen trying to evaluate a streak plate, try to think of what actions could have produced that plate: which sector (quadrant) was streaked first? when/how often was the loop flamed? were any of the sectors inoculated with too many bacterial cells?\n\n\n\n\n\n14.1.2 Task 1A - Quantifying the Number of Microbes in a Sample: Serial Dilutions\nIt is often necessary or desirable to work backwards from the number of colonies on a plate, in order to work out the number of viable microbes that were present in the original (undiluted) sample. (Note that any microbes present in the sample that were dead, or viable-but-not-culturable, will not give rise to colonies on the plate - so you are enumerating the number of viable microbes, not the number of cells.)\nWe calculate and express the number of viable microbes in the original sample in colony forming units (cfu) - usually in cfu/mL.\nFor example, if you performed a decimal serial dilution, plated 0.1 mL of the 10-4 dilution, and counted 173 colonies on the resulting plate (Figure 14.2) - how many viable bacterial cells were present in the original culture?\n\n\n\n\n\n\nFigure 14.2: Examples of plating and counting colonies from a decimal serial dilution\n\n\n\nHere, we had 173 colonies in 0.1 mL of the dilution present in the 10-4 dilution tube.\nTo calculate the number of cfu/mL present in the original sample, divide the number of colonies on your plate by the total dilution factor: in this case, 173 colonies/(0.1 mL * 10-4) = 1.73 * 107 cfu/mL.\n\n\n\n\n\n\nTop tips for calculating cfu/mL\n\n\n\n\nMake sure you label your plates with the dilution factor - you will need this for the calculations!\nIdeally, you want to count colonies on a plate that has 30-300 colonies. We normally consider &lt;30 colonies to be Too Few To Count (TFTC) and more than 300 colonies to be Too Numerous To Count (TNTC). You will get more accurate estimates of your viable cell count if you use a countable plate.\nMake sure you use the correct number of significant figures in your answer - you can’t be more precise than your initial measurement (number of colonies counted).\nMake sure you express your answer in scientific notation (e.g., 1.73 * 107 cfu/mL, not 17300000) and include units.\nWhen you’ve finished your calculation, double-check that your answer makes sense! For example, you can’t have a fraction of a colony forming unit - so if your answer looks like 1.73 * 10-7 cfu/mL, you have probably gone awry with your handling of exponents somewhere.",
@@ -348,11 +359,11 @@
     ]
   },
   {
-    "objectID": "1data.html#task-1b---interpreting-your-gel-results",
-    "href": "1data.html#task-1b---interpreting-your-gel-results",
+    "objectID": "1data.html#sec-1Bdata",
+    "href": "1data.html#sec-1Bdata",
     "title": "14  Lab 1 - Data Analysis",
     "section": "14.2 Task 1B - Interpreting your Gel Results",
-    "text": "14.2 Task 1B - Interpreting your Gel Results",
+    "text": "14.2 Task 1B - Interpreting your Gel Results\nWhen your gels have finished running, the technicians will place them on the UV transilluminator and take photographs of them for you. These will them be uploaded to MyPlace, where you will be able to download them.\n\n\n\n\n\n\nFigure 14.3: Examples of plasmid miniprep DNA run on an agarose gel.\n\n\n\nYou should annotate your gel (label the DNA ladder and wells with their sample names), as for example in Figure 14.4.\n\n\n\n\n\n\nFigure 14.4: Example of an annotated gel.\n\n\n\nYou can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the manufacturer’s website.\n\n\n\n\n\n\nInterpreting the results from your agarose gels\n\n\n\nQuestions to consider/discuss with your lab partners:\n\nIn the example gel in Figure 14.4, how many of the 6 UPEC strains contain plasmid DNA? Do any strains contain more than one plasmid?\nWhat can you conclude about the number and size of the plasmid(s)?\nWhat about in your gel?\nWhat experiments could you perform to determine whether any of the plasmids contain pathogenicity islands?\n\n\n\n\n\n\n\n\n\nHints - interpreting the example gel results\n\n\n\n\n\n1-3. Remember that most bacterial plasmids are circular, and that circular and linear DNA molecules migrate differently in agarose gels.\n\nA good experiment here would keep in mind the definition of a pathogenicity island and would include any necessary experimental controls.",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Lab 1 - Data Analysis</span>"
