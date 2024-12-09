@@ -71,37 +71,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-data.callout {
+  border-left-color: #32CD32;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-discussion-hints.callout {
-  border-left-color: #952dae;
-}
-div.callout-discussion-hints.callout-style-default > .callout-header {
-  background-color: rgba(149, 45, 174, 0.13);
-}
-div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -126,15 +104,26 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
   content: '🔍';
   background-image: none;
 }
-div.callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
 }
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
 }
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-discussion-hints.callout {
+  border-left-color: #952dae;
+}
+div.callout-discussion-hints.callout-style-default > .callout-header {
+  background-color: rgba(149, 45, 174, 0.13);
+}
+div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-thumbs-up.callout {
@@ -146,6 +135,17 @@ div.callout-thumbs-up.callout-style-default > .callout-header {
 div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
   content: '👍';
+  background-image: none;
+}
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -457,7 +457,11 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#isolating-and-analysing-plasmid-dna" id="toc-isolating-and-analysing-plasmid-dna" class="nav-link active" data-scroll-target="#isolating-and-analysing-plasmid-dna"><span class="header-section-number">12.1</span> Isolating and Analysing Plasmid DNA</a></li>
+  <li><a href="#isolating-and-analysing-plasmid-dna" id="toc-isolating-and-analysing-plasmid-dna" class="nav-link active" data-scroll-target="#isolating-and-analysing-plasmid-dna"><span class="header-section-number">12.1</span> Isolating and Analysing Plasmid DNA</a>
+  <ul class="collapse">
+  <li><a href="#working-as-a-molecular-microbiologist" id="toc-working-as-a-molecular-microbiologist" class="nav-link" data-scroll-target="#working-as-a-molecular-microbiologist"><span class="header-section-number">12.1.1</span> Working as a molecular microbiologist</a></li>
+  <li><a href="#the-plasmid-mini-prep" id="toc-the-plasmid-mini-prep" class="nav-link" data-scroll-target="#the-plasmid-mini-prep"><span class="header-section-number">12.1.2</span> The Plasmid “Mini-prep”</a></li>
+  </ul></li>
   <li><a href="#introduction-bacterial-plasmids-and-pathogenicity-islands" id="toc-introduction-bacterial-plasmids-and-pathogenicity-islands" class="nav-link" data-scroll-target="#introduction-bacterial-plasmids-and-pathogenicity-islands"><span class="header-section-number">12.2</span> Introduction: Bacterial Plasmids and Pathogenicity Islands</a></li>
   </ul>
 </nav>
@@ -487,11 +491,44 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
 <section id="isolating-and-analysing-plasmid-dna" class="level2" data-number="12.1">
 <h2 data-number="12.1" class="anchored" data-anchor-id="isolating-and-analysing-plasmid-dna"><span class="header-section-number">12.1</span> Isolating and Analysing Plasmid DNA</h2>
 <p>Bacterial plasmids are particularly useful for a number of applications in scientific research - e.g., as vectors for cloning genes and expressing them heterologously in different organisms for synthetic biology purposes. Therefore, being able to isolate and work with plasmid DNA from bacteria is a key skill across many fields of biological research.</p>
+<section id="working-as-a-molecular-microbiologist" class="level3" data-number="12.1.1">
+<h3 data-number="12.1.1" class="anchored" data-anchor-id="working-as-a-molecular-microbiologist"><span class="header-section-number">12.1.1</span> Working as a molecular microbiologist</h3>
+<div class="callout callout-style-default callout-tip callout-titled" title="Top tips for working with DNA">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Top tips for working with DNA
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+</section>
+<section id="the-plasmid-mini-prep" class="level3" data-number="12.1.2">
+<h3 data-number="12.1.2" class="anchored" data-anchor-id="the-plasmid-mini-prep"><span class="header-section-number">12.1.2</span> The Plasmid “Mini-prep”</h3>
+<p>describe what it is and how it works</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Miniprep kits">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Miniprep kits
+</div>
+</div>
+<div class="callout-body-container callout-body">
+
+</div>
+</div>
+</section>
 </section>
 <section id="introduction-bacterial-plasmids-and-pathogenicity-islands" class="level2" data-number="12.2">
 <h2 data-number="12.2" class="anchored" data-anchor-id="introduction-bacterial-plasmids-and-pathogenicity-islands"><span class="header-section-number">12.2</span> Introduction: Bacterial Plasmids and Pathogenicity Islands</h2>
 <p>There are many different factors that affect the virulence of a pathogen. Some of these are found on pathogenicity islands and can be transmitted horizontally from one bacterial species to another (thus increasing virulence in the recipient).</p>
-<p>In this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Task 5A).</p>
+<p>In this lab, you will be looking at pathogens of the urinary tract and determining whether they carry any plasmids, which might carry antibiotic resistance determinants or contribute to bacterial virulence (Case Study 1, Task 1B).</p>
 <div class="callout callout-style-default callout-case-study callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">

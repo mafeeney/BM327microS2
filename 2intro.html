@@ -71,15 +71,26 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-data.callout {
+  border-left-color: #32CD32;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
   background-image: none;
 }
 div.callout-thumbs-up.callout {
@@ -93,6 +104,17 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -104,17 +126,6 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
   content: '✨';
   background-image: none;
 }
-div.callout-data.callout {
-  border-left-color: #32CD32;
-}
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
-}
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
-  background-image: none;
-}
 div.callout-todo.callout {
   border-left-color: pink;
 }
@@ -124,17 +135,6 @@ div.callout-todo.callout-style-default > .callout-header {
 div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
   content: '📝';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -470,7 +470,7 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./2section.html">Laboratory 2</a></li><li class="breadcrumb-item"><a href="./2intro.html"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Microbial Identification</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Microbial Identification</span></h1>
+<h1 class="title"><span id="sec-microbialID" class="quarto-section-identifier"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Microbial Identification</span></span></h1>
 </div>
 
 
