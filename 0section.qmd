@@ -1,13 +1,6 @@
 ---
 title: Introduction
 ---
-<center><h1>Being a Biomolecular Scientist 3
-
-Microbiology Laboratory Sessions
-
-Semester 2
-
-Introduction</h1></center>
 
 
 <center>| [Lab Safety](./0safety.qmd) | [Aims](./0intro.qmd) | [Competencies and Learning Outcomes](./0competencies.qmd) | [Schedule of Experimental Tasks](./0schedule.qmd) | [Assessment](./0assessment.qmd)

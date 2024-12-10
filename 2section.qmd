@@ -1,16 +1,6 @@
 ---
-title: "Laboratory 2"
+title: "Laboratory 2 - Microbial Identification"
 ---
-
-<center><h1>Being a Biomolecular Scientist 3
-
-Microbiology Laboratory Sessions
-
-Semester 2
-
-Laboratory 2
-
-Microbial Identification</h1></center>
 
 
 <center>| [Aims](./2aims.qmd) | [Intro](./2intro.qmd) | [Protocols](./2protocols.qmd) | [Data Analysis](./2data.qmd) </center>

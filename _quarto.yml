@@ -8,7 +8,7 @@ book:
   favicon: icon_32.png
   author: "Dr Morgan Feeney"
   date: "22/11/2024"
-    
+  footer: "BM327 Microbiology Semester 2 - 2024/2025"
   # Define chapters and sections here
   # [E] CHAPTERS AND SECTIONS
   chapters:

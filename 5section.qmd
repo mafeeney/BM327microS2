@@ -1,16 +1,6 @@
 ---
-title: "Laboratory 5"
+title: "Laboratory 5 - Pathogens of the Respiratory Tract"
 ---
-
-<center><h1>Being a Biomolecular Scientist 3
-
-Microbiology Laboratory Sessions
-
-Semester 2
-
-Laboratory 5
-
-Pathogens of the Respiratory Tract</h1></center>
 
 
 <center>| [Aims](./5aims.qmd) | [Intro](./5intro.qmd) | [Protocols](./5protocols.qmd) | [Data Analysis](./5data.qmd) </center>

@@ -8,7 +8,7 @@ It is **essential** that you work aseptically when working in a microbiology lab
 
 Most of the materials you will be working with (pipet tips, microcentrifuge (Eppendorf) tubes, culture media, etc. will have been sterilised for you by autoclaving: the autoclave sterilises these items by subjecting them to pressurised steam (121°C, 15 p.s.i.). 
 
-::: {.callout-tip}
+::: {.callout-tip title="Autoclaved items"}
 You will be able to recognise that items such as tips or Eppendorf tubes have been autoclaved based on the use of autoclave tape on the containers for these items. Autoclave tape changes colour when subjected to high heat and pressure. It is essential that you use these sterilised items: do not take unsterilised pipet tips or microcentrifuge tubes from the shelves. 
 
 ![The use of autoclave tape to show that the contents of a container have been sterilised (compared to unautoclaved tape, on the right). Image credit: <a href="https://commons.wikimedia.org/wiki/File:Autoclavetape.jpg">Wikipedia</a>](images/autoclave-tape.jpg){#fig-autoclavetape}

@@ -1,16 +1,6 @@
 ---
-title: "Laboratory 4"
+title: "Laboratory 4 - Pathogens of the Circulatory System and Skin"
 ---
-
-<center><h1>Being a Biomolecular Scientist 3
-
-Microbiology Laboratory Sessions
-
-Semester 2
-
-Laboratory 4
-
-Pathogens of the Circulatory System and Skin</h1></center>
 
 
 <center>| [Aims](./4aims.qmd) | [Intro](./4intro.qmd) | [Protocols](./4protocols.qmd) | [Data Analysis](./4data.qmd) </center>

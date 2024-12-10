@@ -1,15 +1,6 @@
 ---
 title: Laboratory 1 - Basic Microbiology Skills
 ---
-<center><h1>Being a Biomolecular Scientist 3
-
-Microbiology Laboratory Sessions
-
-Semester 2
-
-Laboratory 1
-
-Basic Microbiology Skills</h1></center>
 
 
 <center>| [Aims and Overview](./1aims.qmd) | Background: [Axenic culture](./1intro1.qmd); [Serial Dilutions](./1intro2.qmd); [Plasmid DNA](./1intro3.qmd) | [Protocols](./1protocols.qmd) | [Data Analysis](./1data.qmd) </center>
