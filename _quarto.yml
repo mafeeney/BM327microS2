@@ -6,9 +6,17 @@ book:
   title: "BM327 Microbiology Semester 2 Lab Manual"
   cover-image: sipbs_compbio_800.png
   favicon: icon_32.png
+  
+  # Sets the page footer text/images
+  # [B] FOOTER TEXT
+  page-footer:
+    left: |
+      BM327 Microbiology Semester 2
+    right: |
+      2024-25
   author: "Dr Morgan Feeney"
   date: "22/11/2024"
-  footer: "BM327 Microbiology Semester 2 - 2024/2025"
+
   # Define chapters and sections here
   # [E] CHAPTERS AND SECTIONS
   chapters:
