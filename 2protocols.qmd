@@ -1,8 +1,2 @@
-In Lab 2, you will perform the following tasks:
 
-* Task 2A: Observation of macroscopic characteristics
-
-* Task 2B: Observation of microscopic characteristics
-
-* Task 2C: Differential media - use of blood agar to differentiate bacteria based on their haemolytic activity
 

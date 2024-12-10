@@ -1,0 +1,49 @@
+---
+title: "Selective and Differential Media"
+---
+
+# Microbial Growth Media {#sec-media}
+
+
+Careful selection of growth media is necessary when working with microbes in the lab, as different microbes often require very different growth conditions. Researchers must provide microbes with supportive conditions for growth (Figure 8). All of the nutrients required for the cells to produce energy and the building blocks required for the synthesis of biological macromolecules and cell growth and division must be present (i.e., carbon, nitrogen, phosphorous, sulphur, etc.). In addition, researchers must take care to ensure that the physical environment supports the growth of the microbe they are trying to culture (e.g., pH, oxygen, temperature, etc.) Most of the human pathogens that you will encounter in this course grow well at 37˚C (human body temperature), and are able to grow well in the presence of oxygen. However, a number of clinically important microbes are anaerobic and grow only in anoxic conditions.
+
+## Categorization of Microbial Growth Media
+
+Microbial growth media can be categorized in different ways: based on their composition (rich/complex or defined media) or based on their function (selective or differential). **Rich growth media** provide all the essential nutrients required for the growth of a wide range of microorganisms. They contain complex ingredients like peptones, extracts, and sugars, which support the growth of various organisms without specific nutritional requirements. On the other hand, **defined growth media** have precisely known compositions, with each component specified in exact quantities. They are used to study the nutritional requirements of specific microorganisms, to control the growth conditions precisely, to study an organism’s metabolism, and in studies of auxotrophic mutants. 
+
+Growth media can also be selective or differential. **Selective media** are designed to encourage the growth of specific groups of microorganisms while inhibiting the growth of others. They contain substances such as antibiotics, dyes, or inhibitors that selectively suppress the growth of certain microorganisms, allowing the desired ones to grow. **Differential media**, on the other hand, contain indicators, such as dyes or pH indicators, that allow different microorganisms to be visually distinguished based on their metabolic activities. These media exploit the ability of certain bacteria to produce specific enzymes or metabolize specific substrates, leading to observable changes in the appearance of the medium. Some media, including the Mannitol Salt Agar (Figure 9) and MacConkey/lactose agar (Figure 10) that we will be using in this experiment, are both differential and selective.
+
+We can take advantage of the inability of certain microbes to grow in specific conditions in our efforts to identify them (e.g., using their phenotypes in a dichotomous key). Clinical microbiologists have developed a number of different media that are useful for the identification of unknown microorganisms. Overall, the choice of growth media for a particular experiment will depend on the organism(s) being cultivated and the specific objectives of the experiment.
+
+
+
+In this lab, you will be using blood agar as a differential medium to identify bacteria based on their haemolytic ability (CASE STUDY 2).
+
+ 
+
+Blood agar plates are a differential medium used to detect haemolytic activity in different microorganisms. They are also useful for the clinical microbiologist, as this medium is enriched with mammalian blood and thus supports the growth of many nutritionally fastidious organisms. Several pathogenic bacteria can produce a haemolysin capable of lysing red blood cells, and thus a zone of lysed cells appears around these bacteria when they are grown on blood agar plates. This diagnostic test is particularly useful for the identification of Streptococcal species.
+
+There are three types of haemolysis as illustrated in Figure 7. Beta haemolysis is complete haemolysis: the blood cells are lysed and a clear zone forms around the colony. In alpha haemolysis (sometimes called incomplete haemolysis), the blood cells are not actually lysed; instead, the haemoglobin is reduced to methaemoglobin, causing a greenish or brownish discoloration. Gamma haemolysis is the lack of haemolysis, with no change to the surrounding medium after bacterial growth. Note that some bacteria may produce more than one more haemolysin, and also some haemolysins are oxygen-sensitive and only function in anaerobic conditions).
+
+
+::: {.callout-note icon=false title="Case Study 2"}
+
+## CASE STUDY 2: Strep throat?
+
+Patient history: young child with a sore throat, mild fever, swollen lymph nodes, no history of previous Strep throat.
+
+The clinician suspects that the child may have a Group A Strep (*Streptococcus pyogenes*) infection. However, many sore throats are caused by viruses instead. Before starting the child on a course of antibiotics, the clinician takes a throat swab culture and sends it to the lab for analysis.
+
+Gram staining and microscopic observation showed the presence of a Gram-positive coccus-shaped bacterium. Your task is to identify the bacterial species causing this infection (Task 2C).
+
+:::
+
+Differential media - use of blood agar to differentiate bacteria based on their haemolytic activity
+
+Blood agar plates are a differential medium used to detect haemolytic activity in different microorganisms. They are also useful for the clinical microbiologist, as this medium is enriched with mammalian blood and thus supports the growth of many nutritionally fastidious organisms. Several pathogenic bacteria can produce a haemolysin capable of lysing red blood cells, and thus a zone of lysed cells appears around these bacteria when they are grown on blood agar plates. This diagnostic test is particularly useful for the identification of Streptococcal sp.
+
+There are three types of haemolysis as illustrated in Figure 2.4. Beta haemolysis is complete haemolysis: the blood cells are lysed and a clear zone forms around the colony. In alpha haemolysis (sometimes called incomplete haemolysis), the blood cells are not actually lysed; instead, the haemoglobin is reduced to methaemoglobin, causing a greenish or brownish discoloration. Gamma haemolysis is the lack of haemolysis, with no change to the surrounding medium after bacterial growth. Note that some bacteria may produce more than one more haemolysin, and also some haemolysins are oxygen-sensitive and only function in anaerobic conditions).
+
+You will be given an unknown Streptococcus sp. to identify based on its haemolytic activity, as well as a set of controls (strains with known alpha, beta, and gamma haemolytic activities).
+
+:::

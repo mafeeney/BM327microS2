@@ -1,0 +1,16 @@
+---
+title: "Differential Stains - Gram Staining"
+---
+
+The first step in identification of a pathogen is isolating that pathogen in pure culture. In clinical microbiology, we very often begin with a Gram stain (Figure 5) and use a dichotomous key (Figure 6) to identify organisms based on their phenotypes (e.g., ability to grow on particular media, phenotype(s) in certain biochemical test(s), etc.). The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (Figure 7) can help to narrow down a preliminary identification. 
+
+## Identification of microorganisms by microscopic characterisation
+
+The individual cells of typical bacteria are very small. To be seen clearly, they must be fixed to a glass slide, stained, and then examined using a microscope fitted with an oil-immersion lens (x100) which is capable of producing an overall magnification of at least x1000. The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e. it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics). 
+
+
+
+The individual cells of typical bacteria are very small. To be seen clearly, they must be fixed to a glass slide, stained, and then examined using a microscope fitted with an oil-immersion lens (x100) which is capable of producing an overall magnification of at least x1000. (Note that the total magnification is the product of the objective and the ocular lenses – e.g., for many commonly used light microscopes, objective magnification (x100) * ocular magnification (x10) = x1000 magnification.) The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e. it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics). The size, shape, and arrangement of the cells (Figure 3) can also be helpful in bacterial identification (i.e. with the use of a dichotomous key).
+
+
+

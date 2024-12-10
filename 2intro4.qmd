@@ -1,0 +1,9 @@
+---
+title: "Moulds and Fungi"
+---
+
+Introduction: Staining and microscopy of fungal cells
+
+Microscopic characteristics of fungi
+
+Moulds are multicellular fungi. They are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores @fig-name may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.

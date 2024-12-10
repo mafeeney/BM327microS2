@@ -22,10 +22,8 @@ book:
     
     - part: 0section.qmd
       chapters:
-        - text: "Aims"
+        - text: "Overall Aims and Competencies"
           href: 0intro.qmd
-        - text: "Competencies"
-          href: 0competencies.qmd
         - text: "Schedule of Experimental Tasks"
           href: 0schedule.qmd
         - text: "Assessment"
@@ -52,9 +50,13 @@ book:
     - part: 2section.qmd
       chapters: 
         - 2aims.qmd
-        - 2intro.qmd
+        - 2intro1.qmd
+        - 2intro2.qmd
+        - 2intro3.qmd
+        - 2intro4.qmd
         - 2protocols.qmd
         - 2data.qmd
+        - 2further.qmd
     
     - part: 3section.qmd
       chapters: 

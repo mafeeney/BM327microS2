@@ -1,0 +1,34 @@
+---
+title: "Microbial Identification"
+---
+
+# Microbial Identification {#sec-microbialID}
+
+Much of clinical microbiology revolves around the question of microbial identification - when presented with a patient (or a patient sample), are we able to identify the infectious agent causing their disease? Being able to identify the infectious agent is the first (and a very necessary) step in being able to prescribe the correct treatment. 
+
+Unfortunately, unknown microbes do not come with labels explaining their identity (@fig-microbialID). As clinical microbiologists, we therefore need to do some detective work in order to identify these unknowns.
+
+![An unknown microbe with an existential question. Image credit: Bing Image Creator.](images/microbialID.jpg){#fig-microbialID}
+
+The techniques used to identify microbes can broadly be divided into molecular or culture based techniques. 
+
+Molecular techniques rely on the identification of microbial macromolecules (usually DNA or proteins): examples include whole-genome sequencing, detection of specific sequences using polymerase chain reaction (PCR), and proteomic analysis using matrix-assisted laser desorption ionization-time of flight MS (MALDI-TOF MS). 
+
+Culture-based techniques use differential stains, such as the Gram stain, selective and differential media, and biochemical tests to identify organisms based on their phenotypes^[Phenotype: the observable characteristics of an organism, produced by the interaction of their genome (genotype) with the environment.]. 
+
+In the last lab session, you learned about the importance of isolating microbes in monoculture (@sec-axenic), the first step required for most culture-based identification techniques (and often helpful for molecular-based approaches as well).
+
+## The use of colony morphology in microbial identification
+
+Macroscopic observations of bacterial colony morphology can be useful in the identification of different species, as you will see in this laboratory session when you examine the plates you streaked/spread in the last lab. 
+
+![Bacterial colony morphology.](images/colonymorphology.jpg){#fig-colonymorph}
+::: {.callout-tip title="Top tips for using colony morphology as an aid in unknown identification"}
+
+* Resources like the <a href="https://www.rcpath.org/profession/publications/standards-for-microbiology-investigations/identification.html>UK Standards for Microbiology Identification</a> or Bergey's Manual of Systematic Bacteriology (available through the library) provide diagnostic information (not just colony morphology, but many other phenotypic tests) for many of the bacterial species you will encounter in this course (and more). Make sure you are using credible resources such as these texts (or other peer-reviewed literature) - don't rely on Google or generative AI, which can make mistakes.
+
+* Remember that colony morphology is unlikely to be enough to make a final or definitive diagnosis - many bacterial pathogens produce small, off-white, convex, circular colonies with entire margins. 
+
+* Keep in mind that the colony morphology of a bacterial species can vary quite a bit depending on the type of growth medium used, the length of time the plates were incubated for, the incubation temperature, etc. - always precisely record the conditions and compare to an appropriate reference. You'll learn more about using different kinds of growth media in @sec-media.
+
+:::

@@ -2,13 +2,19 @@
 title: "Axenic Culture"
 ---
 
-## Working with Microbes in Axenic (Pure) Culture
+## Working with Microbes in Axenic (Pure) Culture {#sec-axenic}
 
 As microbiologists, we often work with microbes in axenic (pure) culture (@fig-purecultures). Although microbes in nature almost always exist in complex, multi-species communities, it is generally easiest for microbiologists to work with, and identify, microbes when they are in axenic culture.
 
+Being able to work with pure cultures is therefore an essential technique for any microbiologist, and is useful in many other disciplines as well (e.g., for any experimenter who wishes to clone or manipulate genes in their model organism; for the production and purification of proteins for structural or biochemical analysis; etc.)
+
 ![A set of axenic cultures, with each culture containing only 1 microbial species. Image credit: Bing Image Creator.](images/pureculture.jpg){#fig-purecultures}
 
-To work with microbes in axenic culture, we normally would work with single colonies. Tthe **asumption** is that a single colony is derived from a single cell, and that if you start a new culture from a single colony, it should contain a pure culture. (Note that this may not always be the case.)
+To work with microbes in axenic culture, we normally would work with single colonies. The **asumption** is that a single colony is derived from a single cell, and that if you start a new culture from a single colony, it should contain a pure culture. (Note that this may not always be the case.)
+
+::: {.callout-note title="A note about mixed cultures"}
+Although microbiologists often work with pure cultures in the laboratory, and it can be simpler to study a single organism grown in pure culture, as a discipline, we are beginning to realise the importance of complex microbial communities and have begun to utilise co-cultures to study these communities in the lab. However, this is beyond the scope of your labs this semester.
+:::
 
 You will want to read and discuss the discussion questions below - perhaps with your lab partners - to make sure you really understand these points. 
 
@@ -30,9 +36,6 @@ You will want to read and discuss the discussion questions below - perhaps with 
 
 ![A mixed culture of *Corynebacterium* on Tinsdale agar medium, with some colonies producing a halo due to cysteinase activity. Image credit: PHIL 15191](images/mixedculture.jpg){#fig-mixedculture}
 Figure D1. A mixed culture of *Corynebacterium* on Tinsdale agar medium, with some colonies producing a halo due to cysteinase activity. Image credit: PHIL 15191.
-
-
-
 
 2. Consider the micrograph showing Gram-stained *Y. pestis* cells (Figure D2). What sort of tests could you perform to determine if these are all genetically identical cells?
 
