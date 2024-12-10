@@ -1,0 +1,9 @@
+---
+title: "Additional Resources/Further Reading"
+---
+
+## Streak Plates
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/The-Streak-Plate-Protocol.pdf">The Streak Plate Protocol (American Society for Microbiology)</a>: Some good historical background and a detailed protocol
+
+## Bacterial Plasmids

@@ -3,6 +3,6 @@ title: Laboratory 1 - Basic Microbiology Skills
 ---
 
 
-<center>| [Aims and Overview](./1aims.qmd) | Background: [Axenic culture](./1intro1.qmd); [Serial Dilutions](./1intro2.qmd); [Plasmid DNA](./1intro3.qmd) | [Protocols](./1protocols.qmd) | [Data Analysis](./1data.qmd) </center>
+<center>| [Aims and Overview](./1aims.qmd) | Background: [Axenic culture](./1intro1.qmd); [Serial Dilutions](./1intro2.qmd); [Plasmid DNA](./1intro3.qmd) | [Protocols](./1protocols.qmd) | [Data Analysis](./1data.qmd) | [Additional Resources/Further Reading](./1further.qmd) </center>
 
 

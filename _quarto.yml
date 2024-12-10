@@ -10,10 +10,8 @@ book:
   # Sets the page footer text/images
   # [B] FOOTER TEXT
   page-footer:
-    left: |
-      BM327 Microbiology Semester 2
-    right: |
-      2024-25
+    center: |
+      BM327 Microbiology Semester 2 · 2024-25 · Dr Morgan Feeney
   author: "Dr Morgan Feeney"
   date: "22/11/2024"
 
@@ -49,6 +47,7 @@ book:
         - 1intro3.qmd
         - 1protocols.qmd
         - 1data.qmd
+        - 1further.qmd
         
     - part: 2section.qmd
       chapters: 
