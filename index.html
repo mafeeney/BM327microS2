@@ -71,15 +71,26 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -93,28 +104,6 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -126,15 +115,26 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
   content: '✨';
   background-image: none;
 }
-div.callout-todo.callout {
-  border-left-color: pink;
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
 }
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
 }
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
+}
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
+}
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
   background-image: none;
 }
 div.callout-data.callout {
@@ -310,7 +310,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./2section.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Laboratory 2</span></a>
+ <span class="menu-text">Laboratory 2 - Microbial Identification</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -345,7 +345,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./3section.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Laboratory 3</span></a>
+ <span class="menu-text">Laboratory 3 - Pathogens of the Intestinal Tract</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -380,7 +380,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./4section.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Laboratory 4</span></a>
+ <span class="menu-text">Laboratory 4 - Pathogens of the Circulatory System and Skin</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -415,7 +415,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./5section.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Laboratory 5</span></a>
+ <span class="menu-text">Laboratory 5 - Pathogens of the Respiratory Tract</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -462,6 +462,8 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
   <li><a href="#introduction-to-the-bm327-microbiology-semester-2-lab-manual" id="toc-introduction-to-the-bm327-microbiology-semester-2-lab-manual" class="nav-link" data-scroll-target="#introduction-to-the-bm327-microbiology-semester-2-lab-manual">Introduction to the BM327 Microbiology Semester 2 Lab Manual</a>
   <ul class="collapse">
   <li><a href="#how-to-use-this-manual" id="toc-how-to-use-this-manual" class="nav-link" data-scroll-target="#how-to-use-this-manual">How to use this manual</a></li>
+  <li><a href="#how-to-prepare-for-each-lab-session" id="toc-how-to-prepare-for-each-lab-session" class="nav-link" data-scroll-target="#how-to-prepare-for-each-lab-session">How to prepare for each lab session</a></li>
+  <li><a href="#how-to-deal-with-any-problems-questions-or-concerns" id="toc-how-to-deal-with-any-problems-questions-or-concerns" class="nav-link" data-scroll-target="#how-to-deal-with-any-problems-questions-or-concerns">How to deal with any problems, questions, or concerns</a></li>
   </ul></li>
   </ul></li>
   </ul>
@@ -512,8 +514,48 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
 <p>You can navigate through this manual using the sidebar on the left.</p>
 <p>The introductory section is a general section containing helpful information on good laboratory technique, working with microorganisms safely and aseptically, etc. - it also contains general information about the module, including the assessment. You should read through this section before the first lab and refer back to it when needed to refresh your memory.</p>
 <p>Each of the laboratory sections 1-5 contain a brief explanation of the theory underpinning the practical lab session, the protocols that will be used in that lab, and an explanation of any data analysis tasks that need to be performed after the lab. Links to the protocols (handouts) for each lab are provided, but please note that you do not need to print these out - they will be provided for you in the laboratories.</p>
+</section>
+<section id="how-to-prepare-for-each-lab-session" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-prepare-for-each-lab-session">How to prepare for each lab session</h3>
 <p>You should read through the relevant theory/introductory material before coming to each practical lab session, and make sure you understand it. In some instances you may wish to review the material covered in BM329 before the lab as well (the two modules are linked, and intend to give you practical experience with working with some of the organisms discussed in your lectures).</p>
-<p>If you notice any errors (including typos, broken links, etc.) please feel free to notify Dr Feeney, either by e-mail or by <a href="https://github.com/mafeeney/BM327microS2/issues/new">raising an issue</a> on this lab manual’s github page.</p>
+<div class="callout callout-style-default callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To prepare for each lab
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Each section will have a “To do” box like this, with a summary of the reading/tasks necessary to prepare for the lab.</p></li>
+<li><p>The data analysis pages will have a “To do” box too - for the tasks you need to complete after the lab.</p></li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled" title="Tips for success">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tips for success
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>You will also find boxes throughout this lab manual with Tips, Important notes, Discussion Questions, etc (such as this one). These are intended to help you prepare for each lab (and for the assessment), so you should make sure to read through all the material.</p></li>
+<li><p>As Benjamin Franklin said, “By failing to prepare, you are preparing to fail.” It is really important that you come prepared to each lab! A little bit of time spent reading through the material and performing any necessary tasks or calculations will really pay off.</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="how-to-deal-with-any-problems-questions-or-concerns" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-deal-with-any-problems-questions-or-concerns">How to deal with any problems, questions, or concerns</h3>
+<p>If you have any problems or questions, please feel free to speak with Dr.&nbsp;Feeney during the lab sessions or by e-mail.</p>
+<p>If you are going to miss a lab session (for whatever reason), you should e-mail Dr.&nbsp;Feeney and also log your absence with the university using the Pegasus Personal Circumstances tool. More details can be found in your student handbook.</p>
+<p>If you notice any errors (including typos, broken links, etc.) in this lab manual, please notify Dr Feeney, either by e-mail or by <a href="https://github.com/mafeeney/BM327microS2/issues/new">raising an issue</a> on this lab manual’s github page.</p>
 
 
 </section>
@@ -948,6 +990,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>BM327 Microbiology Semester 2</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>2024-25</p>
+</div>
+  </div>
+</footer>
 
 
 
