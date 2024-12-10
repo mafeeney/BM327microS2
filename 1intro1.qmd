@@ -54,7 +54,7 @@ There are many different ways to streak a plate for single colonies; typically, 
 
 In this lab, you will be learning how to make a *quadrant streak plate*. You will divide the plate into (typically 4) sectors, and essentially perform a serial dilution - streaking fewer and fewer bacteria out across the agar in each sector. 
 
-![Making a quadrant streak plate.](images/streak-series.JPG){#fig-streakseries}
+![Making a quadrant streak plate.](images/streak-series.jpg){#fig-streakseries}
 
 You will initially inoculate the first quadrant (1 in @fig-streakseries), usually with a single colony or a loopful of culture or sample. 
 
