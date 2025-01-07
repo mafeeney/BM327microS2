@@ -714,7 +714,7 @@
     "href": "3section.html",
     "title": "Laboratory 3 - Pathogens of the Intestinal Tract",
     "section": "",
-    "text": "Aims | Intro | Protocols | Data Analysis",
+    "text": "Aims | Background: Identification of Intestinal Pathogens | More Examples of Selective and Differential Media | API-20E Tests | Biochemical Tests - Oxidase and Catalase |Oxygen and Microbial Growth | Protocols | Data Analysis | Additional Resources/Further Reading",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract"
     ]
@@ -731,14 +731,113 @@
     ]
   },
   {
-    "objectID": "3intro.html",
-    "href": "3intro.html",
-    "title": "24  Introduction: Identification of enterobacteria",
+    "objectID": "3intro1.html",
+    "href": "3intro1.html",
+    "title": "24  Identification of Intestinal Pathogens",
     "section": "",
-    "text": "There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them.\nIn this laboratory session, you will be identifying pathogens of the intestinal tract (CASE STUDY 3) using differential and selective media (TASK 3A), and an API-20E set of biochemical tests (Task 3B). In CASE STUDY 4, you will be looking at some of the enzymes involved in aerobic metabolism using biochemical assays (TASK 3B), and at the ability of microbes to grow aerobically or anaerobically (TASK 3C).\nPathogenic enterobacteriaceae like Salmonella, Shigella, and E. coli are all relatively closely related, and they share a number of common characteristics – they are Gram-negative rods, non-spore-forming, facultative aerobes. However, they can be distinguished from one another by molecular methods or based on a number of biochemical tests, as can be seen in Table 5.",
+    "text": "24.1 Identification of Intestinal Pathogens\nThere are a number of different pathogens that can infect the intestinal tract, including bacteria, fungi, protozoa, and viruses; however, we will only be considering the enterobacteria and the clostridia in this lab. Intestinal pathogens such as these can cause diseases which range from rather mild, self-limiting infections, to those which have much more serious consequences.\nRemember that it is important, in most identification methods, to first isolate the unknown in axenic culture (Section 9.1), and that the intestinal microbiome (gut flora) of humans is generally quite complex - thus, identifying a particular pathogen from a clinical sample (e.g. a faecal sample) can be sometimes challenging.\nThe techniques discussed here for identification of enterobacteria are useful for clinical diagnoses, but are also more broadly applied in public health/water monitoring - for example, coliform counts are used to monitor water quality/the presence of faecal contamination in waterways.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Introduction: Identification of enterobacteria</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Identification of Intestinal Pathogens</span>"
+    ]
+  },
+  {
+    "objectID": "3intro1.html#identification-of-intestinal-pathogens",
+    "href": "3intro1.html#identification-of-intestinal-pathogens",
+    "title": "24  Identification of Intestinal Pathogens",
+    "section": "",
+    "text": "24.1.1 Identification of enterobacteria\nPathogenic enterobacteriaceae like Salmonella, Shigella, and Escherichia are all relatively closely related, and they share a number of common characteristics – they are Gram-negative rods, non-spore-forming, facultative aerobes.\nIndeed, if you were to streak these three organisms on nutrient agar, or LB1 agar, you would find that all three produce colonies with very similar morphologies (Figure 24.1). Likewise, a Gram stain would not be able to distinguish between these different organisms.\n\n\n\n\n\n\nFigure 24.1: Escherichia coli and Salmonella typhimurium grown on LB agar at 37°C.\n\n\n\nHowever, these organisms can be distinguished from one another by molecular methods or based on a number of biochemical tests, as can be seen in Figure 24.2.\n\n\n\n\n\n\nFigure 24.2: Typical characteristics of Escherichia coli, Shigella dysenteriae and Salmonella typhimurium. Note: A = acid; AG = acid and gas; ± = variable reaction\n\n\n\nIn this lab, we will be using differential media (Section 25.1.1) and an API-20E test (Section 26.1) to identify an unknown enterobacterium (Case Study 3). Which other tests/experiments could you perform?\n\n\n\n\n\n\nCase Study 3\n\n\n\nThe epidemiologists have linked a sudden outbreak of diaorrheal diseases to a particular batch of frozen spinach, but the aetiological agent has not yet been confirmed.\nYou are working as a microbiologist with the Food Standards Agency, which is looking into the case. You suspect that it may be one of the common culprits – E. coli, Salmonella, or Shigella – but you need to figure out which.\nA small portion of the spinach was homogenized and plated out on non-selective nutrient agar, and isolated colonies then grown in pure culture.\nYour task is to determine whether the isolated pathogen is E. coli, Salmonella, or Shigella using selective and differential media (Task 3A), and an API-20E strip (Section 26.1).\n\n\n\n\n24.1.2 Identification of clostridia\n\n\n\n\n\n\nCase Study 4\n\n\n\nCASE STUDY 4. The case of the careless clinician.\nYou are working in a clinical microbiology with a friend, who has just left for holiday – leaving you to record the results from the last sample he was processing. You think he said that it was C. diff– or maybe E. coli – he was definitely working on faecal samples earlier that morning. But you aren’t entirely sure and he isn’t answering his phone. (You need to get better friends.)\nThe patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is Clostridium or E. coli using biochemical assays (TASK 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (TASK 3C).",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Identification of Intestinal Pathogens</span>"
+    ]
+  },
+  {
+    "objectID": "3intro1.html#footnotes",
+    "href": "3intro1.html#footnotes",
+    "title": "24  Identification of Intestinal Pathogens",
+    "section": "",
+    "text": "Lysogeny Broth↩︎",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Identification of Intestinal Pathogens</span>"
+    ]
+  },
+  {
+    "objectID": "3intro2.html",
+    "href": "3intro2.html",
+    "title": "25  More Examples of Selective and Differential Media",
+    "section": "",
+    "text": "25.1 Selective and Differential Media\nAs we have already seen, microbial growth media can be categorised as being selective or differential (Section 17.1). You have previously used nutrient agar, for growing different bacterial species, and Sabouraud/dextrose agar, for growing different fungal species - both relatively non-selective media. You have also used blood agar as a differential medium.\nIn this lab, we will be using two growth media that are both selective and differential: MacConkey agar, for the identification of enterobacteria, and Mannitol Salt Agar (MSA), for the identification of streptococci (to set up an experiment for our next lab).",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>More Examples of Selective and Differential Media</span>"
+    ]
+  },
+  {
+    "objectID": "3intro2.html#selective-and-differential-media",
+    "href": "3intro2.html#selective-and-differential-media",
+    "title": "25  More Examples of Selective and Differential Media",
+    "section": "",
+    "text": "25.1.1 MacConkey Agar\nMacConkey agar is a selective differential medium that is used for primary isolation of Enterobacteriaceae and related enteric Gram-negative bacilli and to aid in the identification of potentially pathogenic microorganisms.\nMacConkey agar is differential as it contains a sugar and the pH indicator neutral red, which can help to distinguish between bacteria which are able to metabolise the sugar, and those which cannot. It is often supplemented with lactose, but can also be supplemented with other sugars, such as sorbitol. Fermentation of the sugar in the medium produces acid, causing precipitation of the bile salts present in the medium and a change in colour due to the pH indicator. Bacteria that are not able to ferment the sugar will instead utilise the amino acids present in the medium, producing ammonia and causing the pH to increase.\nTherefore, following culture on MacConkey/lactose medium, strong lactose fermenters such as Escherichia species will produce red colonies with a surrounding zone of precipitated bile sometimes observable. The red colour is due to the indicator changing colour in response to acid production following lactose fermentation.\nSlow or weak lactose fermenters such as Citrobacter and Serratia species may appear colourless after 24 hours or slightly pink after 24 - 48 hours.\nNon-lactose fermenting microorganisms such as Proteus, Salmonella and Shigella species, with rare exceptions produce colourless or clear transparent colonies.\n\n\n25.1.2 Mannitol Salt Agar",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>More Examples of Selective and Differential Media</span>"
+    ]
+  },
+  {
+    "objectID": "3intro3.html",
+    "href": "3intro3.html",
+    "title": "26  API-20E Tests",
+    "section": "",
+    "text": "26.1 Using an API-20E test for the identification of Escherichia, Salmonella, and Shigella sp.\nTASK 3B:\nThis diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae (i.e. Gram negative rods). Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them. By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.\nBecause of the long time between two laboratory sessions in this course (2 weeks), we are unable to perform the API-20E test (instead, this experiment has been performed for you and the results posted on MyPlace.\nProtocol 3.2: Setting up an API-20E strip test.\nInterpretation of API 20E Protocol 5.3: Completing the API 20E strip assay.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>API-20E Tests</span>"
+    ]
+  },
+  {
+    "objectID": "3intro3.html#sec-API20E",
+    "href": "3intro3.html#sec-API20E",
+    "title": "26  API-20E Tests",
+    "section": "",
+    "text": "Working in groups, place a small amount of water in the incubation tray (under the API strip itself) to provide humidity during incubation.\nPrepare a milky (visibly turbid) suspension of your organism in sterile water.\nUse a plastic sterile pipette to half-fill test wells of your API strip with the above suspension (Holding the strip at a slight angle as well as letting the end of the pipette touch the side of a well will make this easier. Make sure all air bubbles are eliminated).\nWhen there is a line under a well (ADH, LDC, ODC, H2S, URE), add sterile mineral oil to completely fill in the well.\nWhen there is a box under a well (CIT, VP and GEL), add some more bacterial suspension to completely fill in the well.\nPlace the plastic lid back on and label the tray with your name, date and organism code.\nIncubate at 37°C for 24 hours.\n\n\n\nAdd one drop of reagent TDA (10% ferric chloride) to the well labelled as TDA.\nAdd one drop of reagent IND (Kovacs’ reagent) to the well labelled as IND.\nAdd one drop of reagent VP1 (40% KOH), THEN add one drop of reagent VP2 (6% alpha-naphtol) to the well labelled as VP.\nWait for 10 min to observe colour changes.\nRead the colour reactions obtained for each well, and record your results (as positive or negative) on the provided slip.\nGive either 1, 2, or 4 points for positive reactions, 0 points for a negative reaction. Three test reactions are added together at a time to give your 7-digit API number which can be looked up in the codebook.\nYou will be given an API 20E score sheet. Stick this into your laboratory notebook and use it to generate a profile number for the unknown culture. Look up the profile number in the API 20E index book to identify the organism. Record your results in Table 5.2.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>API-20E Tests</span>"
+    ]
+  },
+  {
+    "objectID": "3intro4.html",
+    "href": "3intro4.html",
+    "title": "27  Biochemical tests: Oxidase and Catalase",
+    "section": "",
+    "text": "27.1 The Use of Biochemical Tests in Microbial Identification\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen, as we have already seen (Section 16.1). Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Biochemical tests: Oxidase and Catalase</span>"
+    ]
+  },
+  {
+    "objectID": "3intro4.html#the-use-of-biochemical-tests-in-microbial-identification",
+    "href": "3intro4.html#the-use-of-biochemical-tests-in-microbial-identification",
+    "title": "27  Biochemical tests: Oxidase and Catalase",
+    "section": "",
+    "text": "27.1.1 Oxidase Test\n\n\n27.1.2 Catalase Test",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Biochemical tests: Oxidase and Catalase</span>"
+    ]
+  },
+  {
+    "objectID": "3intro5.html",
+    "href": "3intro5.html",
+    "title": "28  Oxygen and Microbial Growth",
+    "section": "",
+    "text": "28.1 Oxygen and Microbial Growth",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Oxygen and Microbial Growth</span>"
     ]
   },
   {
@@ -749,7 +848,40 @@
     "text": "In Lab 3, you will perform the following tasks:",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>3protocols.html</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>3protocols.html</span>"
+    ]
+  },
+  {
+    "objectID": "3data.html",
+    "href": "3data.html",
+    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "section": "",
+    "text": "Discussion questions - identification of enterobacteria?\n\n\n\nQuestions to consider/discuss with your lab partners:\n\n\n\n\n\n\n\n\nHints - identification of enterobacteria",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>3data.html</span>"
+    ]
+  },
+  {
+    "objectID": "3further.html",
+    "href": "3further.html",
+    "title": "31  Additional Resources/Further Reading for Lab 3",
+    "section": "",
+    "text": "31.1 header",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 3</span>"
+    ]
+  },
+  {
+    "objectID": "3further.html#header",
+    "href": "3further.html#header",
+    "title": "31  Additional Resources/Further Reading for Lab 3",
+    "section": "",
+    "text": "MacConkey Agar Plates Protocols (ASM)",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 3</span>"
     ]
   },
   {
@@ -765,12 +897,12 @@
   {
     "objectID": "4aims.html",
     "href": "4aims.html",
-    "title": "27  Learning Outcomes",
+    "title": "32  Learning Outcomes",
     "section": "",
-    "text": "Aims\n\nTo understand how to identify unknown microorganisms using molecular and media-based techniques\nTo understand how to isolate and analyse plasmid DNA from microorganisms\nTo understand how to carry out PCR and interpret the results from multiplexed reactions\n\nAt the end of this laboratory session, you should understand:\n\nHow to use differential media to identify microorganisms\nHow to use MVLA typing to identify microorganisms\nHow to use PCR to identify microorganisms\n\n\n28 Competencies\n\n\n29 Importance\nThis laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.",
+    "text": "Aims\n\nTo understand how to identify unknown microorganisms using molecular and media-based techniques\nTo understand how to isolate and analyse plasmid DNA from microorganisms\nTo understand how to carry out PCR and interpret the results from multiplexed reactions\n\nAt the end of this laboratory session, you should understand:\n\nHow to use differential media to identify microorganisms\nHow to use MVLA typing to identify microorganisms\nHow to use PCR to identify microorganisms\n\n\n33 Competencies\n\n\n34 Importance\nThis laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Learning Outcomes</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Learning Outcomes</span>"
     ]
   },
   {
@@ -781,7 +913,7 @@
     "text": "Introduction: Identification of staphylococci\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (TASK 4A), biochemical assays (TASK 4B), and a PCR-based technique called MVLA typing (TASK 4C).\nStaphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although Staphylococcus aureus and Staphylococcus epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you carried out in laboratory session 1), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 14).\nCASE STUDY 5: Epidemiology of an MRSA outbreak\nA number of patients at the local hospital have been acquiring secondary infections after seeing Dr. X for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.\nAs a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).\nYou have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (TASK 4A).\nYour goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (Appendix 03); you will next determine whether they are Staphylococcus aureus or other Staphylococci using a diagnostic coagulase test (TASK 4B). Finally, you will further identify your Staphylococcus aureus isolate using MVLA typing (TASK 4C).\nIntroduction: MLVA typing\nadd intro hereeeeeee",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>28</span>  <span class='chapter-title'>4intro.html</span>"
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>4intro.html</span>"
     ]
   },
   {
@@ -792,7 +924,7 @@
     "text": "TASK 4A: Microbial colonies on MSA plates (from Task 2E)\nYou will analyse the growth and colony morphology of the unknown pathogen on MSA agar, and also the growth and colony morphology of your own nasal flora (from the plates you inoculated in laboratory session 2, Task 2E). You have also been provided with cultures of type strains of Staphylococcus aureus and Staphylococcus epidermidis grown on MSA agar as controls. Record your observations in Table 4.2.\nProtocol 4.2: Coagulase slide test.\n\nPlace a drop of sterile water on a glass slide.\nUsing a flamed loop, that has been allowed to cool, remove an isolated colony from the culture plate and gently emulsify on the slide with the drop of sterile water. \nPlace a drop of plasma immediately adjacent to the bacterial suspension and mix the two samples together.\nGently tilt the slide back and forwards, observing for the immediate formation of a white precipitate.\n\nInterpretation\nA positive reaction (formation of white precipitate) is typically detected 15 – 20 seconds. The test is considered negative if clumping is not observed within 2 – 3 minutes.\nSetting up PCR reaction mixtures\n• Work on ice. • Pipet carefully and accurately. • Watch what you touch – you are covered with nucleases and your own Staphylococcus aureus! • Stay organized – keep track of what you have added to your reaction and what still needs to be added. • Label your tubes – there will be 96 on the thermocycler altogether!\nProtocol 4.3: Set up single PCR (spa gene).\nThe spa gene must be amplified separately as these primers do not perform well in the multiplex PCR reaction. The single PCR mixture contains: primers for the gene to be amplified (the spa gene), the template DNA, the polymerase enzyme (Taq), dNTPs, the reaction buffer, and PCR-grade water.\n\nLabel your PCR tube carefully with the gene name (spa) and your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step (thermocycler).\n\nProtocol 4.4: Set up multiplex PCR (clfA, clfB, sdr and ssp genes).\nThe multiplex PCR mixture contains: primers for each of the genes to be amplified (the cflA, cflB, sdr, and ssp genes), the template DNA, the polymerase enzyme (Taq polymerase), dNTPs, and the reaction buffer.\n\nLabel your PCR tube carefully, including your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step.\n\nPCR amplification for both reactions\nAmplification of DNA fragments will be performed with an initial denaturation at 94°C for 10 minutes followed by 25 cycles of 30 seconds at 94°C, 30 seconds at 55°C, and one minute at 72°C, with a final extension at 72°C for 5 minutes on a Bio-Rad DNA-Engine thermocycler. This PCR programme takes about 2½ hours to run.\nProtocol 4.5: Make an agarose gel.\n\nPrepare a gel tray. Use tape to seal off the top and bottom ends. Insert the comb in the slots in the tray. Check with a demonstrator before proceeding.\nA 2% agarose solution has been made for you as follows: 2 g of agarose were added to a glass flask, and 100 ml 1X TAE buffer. The agarose solution was heated in a microwave till agarose is completely dissolved in the buffer, and then cooled down to about 50°C.\nPour the agarose into your prepared gel tray and leave it to set.\n\nGel electrophoresis\nAfter the thermocycler run has finished, your samples will be run on your gel for you as follows: we will add 5 µl of spa PCR product to the multiplex PCR products and then run 16 µl of the combined reaction on the 2% agarose gel. Bioline 100bp DNA ladder (BIO-33056) will be used for each of the gels. We will then take gel images with the “gel doc system” and post your data to the BM327 microbiology class sub-page.\nYou will need to observe the growth of your unknown and control strains on selective/differential media and record your results in Table 4.8.\nProtocol 4.6: Determining the minimal inhibitory concentration of an antibiotic\n\nPrepare a seed lawn for each of your three Pseudomonas aeruginosa isolate as follows: pipette 100 µl of the supplied culture onto the centre of a Mueller Hinton agar plate and use a sterile plastic spreader to distribute the culture evenly over the surface of the agar. The liquid should be completely absorbed into the agar before you add the antibiotic disks in step 5.\nObtain an empty petri dish containing fifteen sterile filter discs.\nIn four sterile 1.5 ml tubes, prepare dilutions of the supplied solution of gentamicin (1 mg/ml). You will be adding 20 µl of each dilution to a filter disk, but it is always a good idea to prepare a slightly larger volume to account for any pipetting errors - e.g. prepare 25 µl for each filter disk. Prepare the dilutions so that you will end up with 4 µg, 8 µg, 12 µg and 16 µg of gentamicin when you add 20 µl of the dilution to a filter disk.\n\nEquation: C1 x V1 = C2 x V2 [C, concentration; V, volume]\nExample: 4 µg/20 µl x 25 µl = 1 mg/ml x ???\nUsing this equation, complete the following table and then prepare the dilutions:\nTable 4.11: Calculation of antibiotic dilutions",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>4protocols.html</span>"
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>4protocols.html</span>"
     ]
   },
   {
@@ -808,12 +940,12 @@
   {
     "objectID": "5aims.html",
     "href": "5aims.html",
-    "title": "31  Aims",
+    "title": "36  Aims",
     "section": "",
-    "text": "To understand how to identify unknown microorganisms using molecular and media-based techniques.\n\n32 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to characterise bacterial species from their ability to form biofilms.\nHow to characterise bacteria species from their antibiotic resistance.\nHow to identify a potential pathogen using differential staining.\n\n\n\n33 Competencies\n\n\n34 Importance\nThis laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.",
+    "text": "To understand how to identify unknown microorganisms using molecular and media-based techniques.\n\n37 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to characterise bacterial species from their ability to form biofilms.\nHow to characterise bacteria species from their antibiotic resistance.\nHow to identify a potential pathogen using differential staining.\n\n\n\n38 Competencies\n\n\n39 Importance\nThis laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
   {
@@ -824,7 +956,7 @@
     "text": "There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be looking at some of the phenotypic properties of bacteria that can contribute to their virulence (CASE STUDY 6, TASK 5A and TASK 5B) and using a differential stain to identify a potential pathogen (CASE STUDY 7, TASK 5C).\nYou will also\nIntroduction: Biofilm formation and antibiotic resistance\nTASK 5A: Analysing biofilm attachment of P. aeruginosa isolates\nBiofilm formation is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell (Figure 10). This surface attachment is what you will measure using a crystal violet stain that binds to the bacteria.\nFigure 12. Biofilm formation by Pseudomonas.\n  You will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay.\nCrystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (Figure 11). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.\nFigure 13. Biofilm formation measured using a crystal violet stain. Biofilm formation can be scored qualitatively e.g. +++: strong, ++: moderate, +: weak, 0: no formation.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>5intro.html</span>"
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>5intro.html</span>"
     ]
   },
   {
@@ -835,7 +967,7 @@
     "text": "Protocol 5.1: Biofilm formation assay.\n\nPipette 100 µl of medium into well A1: this is your negative control. Pipette 100 µl into three separate wells for each of the three Pseudomonas cultures. This will ensure you have triplicate samples for each culture. As you will be sharing a 96-well plate, be sure to carefully record the location of each sample - i.e. culture 1, wells B1, B2 and B3 etc.\nIncubate the cells at 30°C for 30 minutes.\nAdd 25 µl of 1% crystal violet solution to each well.\nIncubate the plate for a further 15 minutes at room temperature.\nAfter this time, rinse the wells thoroughly with water and invert the tray over some blue-roll paper to let the wells drain carefully.\nRecord your observations in Table 2.1 using the qualitative scores given above (+++, ++, +, 0).\n\nTASK 5B: Analysing antibiotic resistance assay (from Task 2B)\nYou should carefully measure the diameter of each zone of inhibition in millimetres. Put your results in Table 5.2.\nCASE STUDY 3. Tuberculosis?\nPatient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.\nThe patient is positive for the Tb skin test, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by Mycobacterium tuberculosis, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.\nYour task is to identify the bacterial species causing this infection (Task 2C).\nTASK 5C: Using differential stain to identify a respiratory tract pathogen\nCertain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.\nProtocol 5.2: Modified Ziehl-Neelson stain.\n\nHold a glass slide with metal forceps and flame thoroughly its operational upper surface using a Bunsen flame. Allow the slide to cool. Flame a loop until red hot and leave it to cool. Place a loopful of sterile water on the upper surface of the slide. Flame the loop again and allow it to cool, then use it to pick up a speck of a colony from the culture provided. Mix this speck thoroughly into the drop of water to form a dilute milky suspension covering an area of about the size of a 20p coin.\nAllow the film to dry completely. You may need to do this by warming the slide gently, holding it in forceps well above the Bunsen’s flame.\nFix the film of cells to the slide by passing the lower surface of the slide through the Bunsen flame slowly twice. The slide will now be hot to the touch; allow it to cool.\nPlace the slide on the staining rack over the sink.\nCover the slide with carbol fuchsin solution (this contains phenol, so take care to avoid contact with skin. Wash hands immediately if this happens). Allow to stand for 5 min.\nRinse with water.\n\nTake great care, wear protective gloves and safety spectacles now to handle the next solution (hydrochloric acid in ethanol) which is corrosive!\n\nDecolourise the slide by covering it with hydrochloric acid in ethanol solution, and allow to stand for 15 - 30 seconds.\nImmediately remove excess acid by running slide in tap water.\nCounterstain with malachite green solution for one minute.\nRemove excess stain with water.\nGently blot dry and examine with the oil-immersion lens (x100).",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>5protocols.html</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>5protocols.html</span>"
     ]
   }
 ]
