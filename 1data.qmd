@@ -14,7 +14,7 @@ After attending the practical lab, you should:
 
 ## Task 1A {#sec-1Adata}
 
-In the next lab session, you will be able to observe your streak and spread plates. You will examine the colony morphology on each plate in order to learn about how colony morphology can aid in @sec-microbialID. 
+In the next lab session, you will be able to observe your streak and spread plates. You will examine the colony morphology on each plate in order to learn about how colony morphology can aid in microbial identification (@sec-microbialID). 
 
 You will also want to evaluate your plates to understand how competently you performed the tasks - whether and how you can improve your technique for preparing and plating serial dilutions, and streaking for single colonies.
 

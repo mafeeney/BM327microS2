@@ -2,7 +2,7 @@
 title: "Selective and Differential Media"
 ---
 
-# Microbial Growth Media {#sec-media}
+## Microbial Growth Media {#sec-media}
 
 Thus far, you have seen a range of different bacteria grown on nutrient agar. However, you will also find a wide range of different media used in clinical microbiology (@fig-culturemedia). 
 
@@ -12,7 +12,7 @@ Thus far, you have seen a range of different bacteria grown on nutrient agar. Ho
 
 Microbial growth media can be categorized in different ways: based on their composition (rich/complex or defined media) or based on their function (selective or differential). 
 
-**Rich growth media** provide all the essential nutrients required for the growth of a wide range of microorganisms. They contain complex ingredients like peptones, extracts, and sugars, which support the growth of various organisms without specific nutritional requirements. On the other hand, **defined growth media** have precisely known compositions, with each component specified in exact quantities. They are used to study the nutritional requirements of specific microorganisms, to control the growth conditions precisely, to study an organism’s metabolism, and in studies of auxotrophic mutants. 
+**Rich growth media** provide all the essential nutrients required for the growth of a wide range of microorganisms. They contain complex ingredients like peptones, extracts, and sugars, which support the growth of various organisms without specific nutritional requirements^[Because these are complex mixtures - e.g., proteolytic digests of proteins - these ingredients can be quite variable. You may observe different results (phenotypes) when using a new batch or new supplier of e.g., peptone.]. On the other hand, **defined growth media** have precisely known compositions, with each component specified in exact quantities. They are used to study the nutritional requirements of specific microorganisms, to control the growth conditions precisely, to study an organism’s metabolism, and in studies of auxotrophic mutants. 
 
 Growth media can also be selective or differential. **Selective media** are designed to encourage the growth of specific groups of microorganisms while inhibiting the growth of others. They contain substances such as antibiotics, dyes, or inhibitors that selectively suppress the growth of certain microorganisms, allowing the desired ones to grow. 
 
@@ -46,7 +46,7 @@ Gram staining and microscopic observation showed the presence of a Gram-positive
 
 :::
 
-### Blood agar plates
+### Blood agar plates {#sec-bloodagar}
 
 Blood agar plates are a differential medium used to detect haemolytic activity in different microorganisms. Several pathogenic bacteria can produce a haemolysin capable of lysing red blood cells, and thus a zone of lysed cells appears around these bacteria when they are grown on blood agar plates. This diagnostic test is particularly useful for the identification of Streptococcal species.
 

@@ -1,13 +1,75 @@
-Do these results align with your knowledge of these five bacteria based on the literature? If you observed anything expected – what might account for your results?
+---
+title: Lab 2 - Data Analysis
+---
+
+::: {.todo title="Lab 2 - Data Analysis Tasks"}
+
+After attending the practical lab, you should:
+
+* Compare the results of your macroscopic and microscopic observations of the bacteria and fungi with what is known in the literature (@sec-2ABdata).
+
+* In lab 3, you will examine and record the results from your blood agar plates. You should read @sec-2Cdata and @sec-bloodagar to make sure you understand what to expect in the next lab session, and how to interpret your data.
+
+:::
+
+## Task 2A and Task 2B Data Analysis {#sec-2ABdata}
+
+Do your results align with your knowledge of these five bacteria and three fungi based on the literature? 
+
+If you observed anything expected – what might account for your results?
+
+If you were not able to attend the lab, or if something occurred to disrupt your experiments, you should download the class data (macroscopic and microscopic observations) from MyPlace. 
+
+::: {#discussion-streak .discussion title="Interpreting the results from your macroscopic and microscopic observations"}
+
+**Questions to consider/discuss with your lab partners:**
+
+1. Are Gram-stain reaction and cell morphology sufficient for bacterial identification in these cases, or not? 
+
+2. What other experiments might help you to identify these bacteria?
+
+3. How might understanding the cell wall structure of an unknown pathogen help you to prescribe the correct antibiotic treatment for a patient?
+
+4. What about the fungal identifications - are the macroscopic/microscopic identifications sufficient for a definitive identification, or not? What other experiments could you do to identify these fungi?
+
+:::
+
+::: {.discussion-hints title="Hints - interpreting the macroscopic/microscopic observation results" collapse="true"}
+
+1. Can you think of any other bacterial pathogens that have the same characteristics?
+
+2. You might find it helpful to refer to your lecture notes, the UK SMIDs for these organisms, or taxonomic resources such as Bergey's.
+
+3. Consider the target(s) of different antibiotics, and whether they are present/accessible in different pathogens.
+
+4. Similar to questions 1-2: refer to your lecture notes, the UK SMIDs, and other taxonomic resources. 
+
+:::
 
 
+## Task 2C Data Analysis {#sec-2Cdata}
 
+In the next lab session, you will be able to observe your blood agar plates. You will examine the colony morphology and haemolysis patterns on each plate in order to learn about how the use of differential media and colony morphology can aid in microbial identification (@sec-microbialID). 
 
-Are Gram-stain reaction and cell morphology sufficient for bacterial identification in these cases, or not? What other experiments might help you to identify these bacteria?
+You will also want to evaluate your plates to understand how competently you performed the task (streaking for single colonies; see @sec-1Adata if you need a reminder of how to do this).
 
+If you were not able to attend the lab, or if something occurred to disrupt your experiments, you should download the class data (blood agar plate images) from MyPlace. 
 
-Discussion questions: selective and differential media
+::: {#discussion-streak .discussion title="Interpreting the results from your blood agar plates"}
 
-Q. What is the role of haemolysins in a bacterial infection?
+**Questions to consider/discuss with your lab partners:**
 
-Q. 
+1. What is the role(s) of haemolysins in a bacterial infection?
+
+2. What other experiments might help you to identify this unknown bacterium? Do you think it is (as the clinician suspected in Case Study 2) <i>Streptococcus pyogenes</i>?
+
+:::
+
+::: {.discussion-hints title="Hints - interpreting the results from your blood agar plates" collapse="true"}
+
+1. Can you imagine what would happen if a bloodborne pathogen was able to lyse red blood cells nearby? What about pathogens that infect other tissues?
+
+2. What other pathogens might cause the symptoms presented in this case study? Refer to your lecture notes, the relevant UK SMID(s), and any other relevant taxonomic information for these organisms.
+
+:::
+

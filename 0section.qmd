@@ -5,4 +5,4 @@ title: Introduction
 
 <center>| [Lab Safety](./0safety.qmd) | [Aims](./0intro.qmd) | [Competencies and Learning Outcomes](./0competencies.qmd) | [Schedule of Experimental Tasks](./0schedule.qmd) | [Assessment](./0assessment.qmd)
 <br><br>
- [Good Laboratory Technique](./goodlab.qmd) |[Aseptic Technique](./aseptic.qmd) |[Using a Microscope](./microscope.qmd) |</center>
+ [Good Laboratory Technique](./0goodlab.qmd) |[Aseptic Technique](./0aseptic.qmd) |[Using a Microscope](./0microscope.qmd) </center>

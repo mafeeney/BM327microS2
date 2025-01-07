@@ -1,3 +1,9 @@
+---
+title: "Additional Resources/Further Reading for Lab 2"
+---
 
+## Microbial Identification
 
 * <a href="https://www.rcpath.org/static/eb4ead78-776a-4f5c-97ca9405b82a5476/uk-smi-id-1i3-Introduction-to-the-preliminary-identification-of-medically-important-bacteria-and-fungi-from-culture-September-2021.pdf">UK Standards for Microbiology Investigations: Introduction to the preliminary identification of medically important bacteria and fungi from culture</a>
+
+* <a href="https://www.rcpath.org/static/ce35b1b6-9d79-4125-a0f64ba28e9a3584/UK-SMI-ID-4i4-Identification-of-Streptococcus-species-Enterococcus-species-and-morphologically-similar-organisms-September-2021.pdf">UK Standards for Microbiology Investigations: Identification of <i>Streptococcus</i> species, <i>Enterococcus</i> species and morphologically similar organisms</a>

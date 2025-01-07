@@ -2,7 +2,7 @@
 title: "Microbial Identification"
 ---
 
-# Microbial Identification {#sec-microbialID}
+## Microbial Identification {#sec-microbialID}
 
 Much of clinical microbiology revolves around the question of microbial identification - when presented with a patient (or a patient sample), are we able to identify the infectious agent causing their disease? Being able to identify the infectious agent is the first (and a very necessary) step in being able to prescribe the correct treatment. 
 
@@ -18,11 +18,20 @@ Culture-based techniques use differential stains, such as the Gram stain, select
 
 In the last lab session, you learned about the importance of isolating microbes in monoculture (@sec-axenic), the first step required for most culture-based identification techniques (and often helpful for molecular-based approaches as well).
 
-## The use of colony morphology in microbial identification
+## The use of dichotomous keys in microbial identification {#sec-dichotomouskey}
 
-Macroscopic observations of bacterial colony morphology can be useful in the identification of different species, as you will see in this laboratory session when you examine the plates you streaked/spread in the last lab. 
+Clinical microbiologists often use *dichotomous keys* in microbial identification (@fig-key). These allow them to perform tests in a logical order, to narrow down identification of an unknown organism more quickly. 
+
+In the example shown in @fig-key, the microbiologist first performs a Gram stain and identifies that the unknown organism is Gram-positive and coccus-shaped (you will learn more about this in @sec-microid). They would then test whether the organism depends on oxygen for its growth: if it is capable of growing only under anaerobic conditions, it is likely <i>Peptostreptococcus</i> or <i>Gemella morbillorum</i>. If it is capable of aerobic growth (either a strict or facultative aerobe), the microbiologist would perform a catalase test to further narrow down the potential identification. 
+
+![Example of a dichotomouskey. Figure reproduced from UK SMI ID 01. ](images/dichotomouskey.png){#fig-key}
+
+## The use of colony morphology in microbial identification {#sec-colony}
+
+Macroscopic observations of bacterial colony morphology can be useful in the identification of different species, as you will see in this laboratory session when you examine the plates you streaked/spread in the last lab. While some microbes have quite striking colonial appearances, many of the bacterial pathogens you will encounter have very similar appearances (at least on nutrient agar). Therefore, colony morphology is seldom sufficient to make a definitive identification of an unknown.
 
 ![Bacterial colony morphology.](images/colonymorphology.jpg){#fig-colonymorph}
+
 ::: {.callout-tip title="Top tips for using colony morphology as an aid in unknown identification"}
 
 * Resources like the <a href="https://www.rcpath.org/profession/publications/standards-for-microbiology-investigations/identification.html>UK Standards for Microbiology Identification</a> or Bergey's Manual of Systematic Bacteriology (available through the library) provide diagnostic information (not just colony morphology, but many other phenotypic tests) for many of the bacterial species you will encounter in this course (and more). Make sure you are using credible resources such as these texts (or other peer-reviewed literature) - don't rely on Google or generative AI, which can make mistakes.

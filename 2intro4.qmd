@@ -2,8 +2,29 @@
 title: "Moulds and Fungi"
 ---
 
-Introduction: Staining and microscopy of fungal cells
+##Introduction: Fungal Identification {#sec-fungalid}
 
-Microscopic characteristics of fungi
+Just as we have seen for bacterial identification in the previous sections, macroscopic and microscopic characteristics of fungi can be helpful in identifying an unknown fungus, although again it may be necessary to perform additional tests for a definitive identification. 
 
-Moulds are multicellular fungi. They are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores @fig-name may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.
+Of course, while all the general principles discussed in @sec-microbialID hold true for fungi as well as bacteria, keep in mind that there are some important differences: for example, fungi don't have a 16S rRNA gene!
+
+### Macroscopic characteristics of moulds and fungi
+
+Moulds and fungi can sometimes have distinctive colonial appearances when observed on agar plates. Filamentous fungi, in particular, tend to produce colonies with striking appearances: they are often large/spreading, sometimes across the entire surface of a standard-sized Petri dish, and they often produce distinctive pigments, which can be useful in identification.
+
+As with bacteria, differential and selective agars can also be useful in fungal identification. However, in this lab you will be observing fungal colonies grown on <a href="http://www.oxoid.com/UK/blue/prod_detail/prod_detail.asp?pr=CM0041">Sabouraud/dextrose agar</a>, a medium which is commonly used for the growth of fungi and moulds and which is not particularly selective. 
+
+::: {.callout-important title="Safety note for working with fungal cultures"}
+
+Because fungi often produce spores that can be easily and readily dispersed through the air, you should take especial care when working with these cultures. The plates should be kept closed as much as possible, and you should never sniff/smell the cultures - you do not want to inadvertently inhale fungal spores or disperse them throughout the lab!
+
+You will need to open the Petri plates containing the fungal cultures briefly to take some samples for microscopy. Please note that you should take care when doing this – open each plate narrowly, and for the minimum amount of time required to take a sample of the culture.
+
+:::
+
+
+### Microscopic characteristics of moulds and fungi
+
+As moulds are multicellular fungi, they are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores @fig-fungi may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.
+
+![Structures of typical moulds.](images/fungi.jpg){#fig-fungi}
