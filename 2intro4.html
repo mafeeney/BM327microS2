@@ -71,15 +71,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
   background-image: none;
 }
 div.callout-todo.callout {
@@ -93,6 +93,17 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
   content: '📝';
   background-image: none;
 }
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -102,6 +113,17 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-discussion-hints.callout {
@@ -124,28 +146,6 @@ div.callout-thumbs-up.callout-style-default > .callout-header {
 div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
   content: '👍';
-  background-image: none;
-}
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
   background-image: none;
 }
 </style>
@@ -349,7 +349,7 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">2protocols.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Lab 2 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -481,8 +481,11 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#macroscopic-characteristics-of-moulds-and-fungi" id="toc-macroscopic-characteristics-of-moulds-and-fungi" class="nav-link active" data-scroll-target="#macroscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.0.1</span> Macroscopic characteristics of moulds and fungi</a></li>
-  <li><a href="#microscopic-characteristics-of-moulds-and-fungi" id="toc-microscopic-characteristics-of-moulds-and-fungi" class="nav-link" data-scroll-target="#microscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.0.2</span> Microscopic characteristics of moulds and fungi</a></li>
+  <li><a href="#sec-fungalid" id="toc-sec-fungalid" class="nav-link active" data-scroll-target="#sec-fungalid"><span class="header-section-number">19.1</span> Introduction: Fungal Identification</a>
+  <ul class="collapse">
+  <li><a href="#macroscopic-characteristics-of-moulds-and-fungi" id="toc-macroscopic-characteristics-of-moulds-and-fungi" class="nav-link" data-scroll-target="#macroscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.1.1</span> Macroscopic characteristics of moulds and fungi</a></li>
+  <li><a href="#microscopic-characteristics-of-moulds-and-fungi" id="toc-microscopic-characteristics-of-moulds-and-fungi" class="nav-link" data-scroll-target="#microscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.1.2</span> Microscopic characteristics of moulds and fungi</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -508,11 +511,12 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
 </header>
 
 
-<p>##Introduction: Fungal Identification {#sec-fungalid}</p>
+<section id="sec-fungalid" class="level2" data-number="19.1">
+<h2 data-number="19.1" class="anchored" data-anchor-id="sec-fungalid"><span class="header-section-number">19.1</span> Introduction: Fungal Identification</h2>
 <p>Just as we have seen for bacterial identification in the previous sections, macroscopic and microscopic characteristics of fungi can be helpful in identifying an unknown fungus, although again it may be necessary to perform additional tests for a definitive identification.</p>
 <p>Of course, while all the general principles discussed in <a href="2intro1.html#sec-microbialID" class="quarto-xref"><span>Section 16.1</span></a> hold true for fungi as well as bacteria, keep in mind that there are some important differences: for example, fungi don’t have a 16S rRNA gene!</p>
-<section id="macroscopic-characteristics-of-moulds-and-fungi" class="level3" data-number="19.0.1">
-<h3 data-number="19.0.1" class="anchored" data-anchor-id="macroscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.0.1</span> Macroscopic characteristics of moulds and fungi</h3>
+<section id="macroscopic-characteristics-of-moulds-and-fungi" class="level3" data-number="19.1.1">
+<h3 data-number="19.1.1" class="anchored" data-anchor-id="macroscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.1.1</span> Macroscopic characteristics of moulds and fungi</h3>
 <p>Moulds and fungi can sometimes have distinctive colonial appearances when observed on agar plates. Filamentous fungi, in particular, tend to produce colonies with striking appearances: they are often large/spreading, sometimes across the entire surface of a standard-sized Petri dish, and they often produce distinctive pigments, which can be useful in identification.</p>
 <p>As with bacteria, differential and selective agars can also be useful in fungal identification. However, in this lab you will be observing fungal colonies grown on <a href="http://www.oxoid.com/UK/blue/prod_detail/prod_detail.asp?pr=CM0041">Sabouraud/dextrose agar</a>, a medium which is commonly used for the growth of fungi and moulds and which is not particularly selective.</p>
 <div class="callout callout-style-default callout-important callout-titled" title="Safety note for working with fungal cultures">
@@ -530,8 +534,8 @@ Safety note for working with fungal cultures
 </div>
 </div>
 </section>
-<section id="microscopic-characteristics-of-moulds-and-fungi" class="level3" data-number="19.0.2">
-<h3 data-number="19.0.2" class="anchored" data-anchor-id="microscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.0.2</span> Microscopic characteristics of moulds and fungi</h3>
+<section id="microscopic-characteristics-of-moulds-and-fungi" class="level3" data-number="19.1.2">
+<h3 data-number="19.1.2" class="anchored" data-anchor-id="microscopic-characteristics-of-moulds-and-fungi"><span class="header-section-number">19.1.2</span> Microscopic characteristics of moulds and fungi</h3>
 <p>As moulds are multicellular fungi, they are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores <a href="#fig-fungi" class="quarto-xref">Figure&nbsp;<span>19.1</span></a> may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.</p>
 <div id="fig-fungi" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -545,6 +549,7 @@ Figure&nbsp;19.1: Structures of typical moulds.
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -972,8 +977,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./2protocols.html" class="pagination-link" aria-label="2protocols.html">
-        <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">2protocols.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./2protocols.html" class="pagination-link" aria-label="Lab 2 Protocols">
+        <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Lab 2 Protocols</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

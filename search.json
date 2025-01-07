@@ -418,7 +418,7 @@
     "href": "2section.html",
     "title": "Laboratory 2 - Microbial Identification",
     "section": "",
-    "text": "Aims | Intro | Protocols | Data Analysis",
+    "text": "Aims | Background: Microbial Identification | Differential and Selective Media | Differential Staining - the Gram Stain | Moulds and Fungi | Protocols | Data Analysis | Additional Resources/Further Reading",
     "crumbs": [
       "Laboratory 2 - Microbial Identification"
     ]
@@ -582,7 +582,7 @@
     "href": "2intro3.html#sec-microid",
     "title": "18  Differential Stains - Gram Staining",
     "section": "",
-    "text": "Figure 18.1: A range of different culture media used in microbiology. Image credit: ATCC.",
+    "text": "Figure 18.1: Bacterial cell shapes",
     "crumbs": [
       "Laboratory 2 - Microbial Identification",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Differential Stains - Gram Staining</span>"
@@ -615,7 +615,7 @@
     "href": "2intro3.html#footnotes",
     "title": "18  Differential Stains - Gram Staining",
     "section": "",
-    "text": "a mordant helps the dye to bind and fixes it in place↩︎",
+    "text": "A mordant helps the dye to bind and fixes it in place.↩︎",
     "crumbs": [
       "Laboratory 2 - Microbial Identification",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Differential Stains - Gram Staining</span>"
@@ -626,10 +626,32 @@
     "href": "2intro4.html",
     "title": "19  Moulds and Fungi",
     "section": "",
-    "text": "##Introduction: Fungal Identification {#sec-fungalid}\nJust as we have seen for bacterial identification in the previous sections, macroscopic and microscopic characteristics of fungi can be helpful in identifying an unknown fungus, although again it may be necessary to perform additional tests for a definitive identification.\nOf course, while all the general principles discussed in Section 16.1 hold true for fungi as well as bacteria, keep in mind that there are some important differences: for example, fungi don’t have a 16S rRNA gene!\n\n19.0.1 Macroscopic characteristics of moulds and fungi\nMoulds and fungi can sometimes have distinctive colonial appearances when observed on agar plates. Filamentous fungi, in particular, tend to produce colonies with striking appearances: they are often large/spreading, sometimes across the entire surface of a standard-sized Petri dish, and they often produce distinctive pigments, which can be useful in identification.\nAs with bacteria, differential and selective agars can also be useful in fungal identification. However, in this lab you will be observing fungal colonies grown on Sabouraud/dextrose agar, a medium which is commonly used for the growth of fungi and moulds and which is not particularly selective.\n\n\n\n\n\n\nSafety note for working with fungal cultures\n\n\n\nBecause fungi often produce spores that can be easily and readily dispersed through the air, you should take especial care when working with these cultures. The plates should be kept closed as much as possible, and you should never sniff/smell the cultures - you do not want to inadvertently inhale fungal spores or disperse them throughout the lab!\nYou will need to open the Petri plates containing the fungal cultures briefly to take some samples for microscopy. Please note that you should take care when doing this – open each plate narrowly, and for the minimum amount of time required to take a sample of the culture.\n\n\n\n\n19.0.2 Microscopic characteristics of moulds and fungi\nAs moulds are multicellular fungi, they are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores Figure 19.1 may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.\n\n\n\n\n\n\nFigure 19.1: Structures of typical moulds.",
+    "text": "19.1 Introduction: Fungal Identification\nJust as we have seen for bacterial identification in the previous sections, macroscopic and microscopic characteristics of fungi can be helpful in identifying an unknown fungus, although again it may be necessary to perform additional tests for a definitive identification.\nOf course, while all the general principles discussed in Section 16.1 hold true for fungi as well as bacteria, keep in mind that there are some important differences: for example, fungi don’t have a 16S rRNA gene!",
     "crumbs": [
       "Laboratory 2 - Microbial Identification",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Moulds and Fungi</span>"
+    ]
+  },
+  {
+    "objectID": "2intro4.html#sec-fungalid",
+    "href": "2intro4.html#sec-fungalid",
+    "title": "19  Moulds and Fungi",
+    "section": "",
+    "text": "19.1.1 Macroscopic characteristics of moulds and fungi\nMoulds and fungi can sometimes have distinctive colonial appearances when observed on agar plates. Filamentous fungi, in particular, tend to produce colonies with striking appearances: they are often large/spreading, sometimes across the entire surface of a standard-sized Petri dish, and they often produce distinctive pigments, which can be useful in identification.\nAs with bacteria, differential and selective agars can also be useful in fungal identification. However, in this lab you will be observing fungal colonies grown on Sabouraud/dextrose agar, a medium which is commonly used for the growth of fungi and moulds and which is not particularly selective.\n\n\n\n\n\n\nSafety note for working with fungal cultures\n\n\n\nBecause fungi often produce spores that can be easily and readily dispersed through the air, you should take especial care when working with these cultures. The plates should be kept closed as much as possible, and you should never sniff/smell the cultures - you do not want to inadvertently inhale fungal spores or disperse them throughout the lab!\nYou will need to open the Petri plates containing the fungal cultures briefly to take some samples for microscopy. Please note that you should take care when doing this – open each plate narrowly, and for the minimum amount of time required to take a sample of the culture.\n\n\n\n\n19.1.2 Microscopic characteristics of moulds and fungi\nAs moulds are multicellular fungi, they are much larger than yeasts and they do not require the use of an oil-immersion lens to be seen clearly. The characteristics of their mycelia can usually be seen using the microscope’s low power objective lens (x10); the characteristics of their hyphae, conidiophores and spores Figure 19.1 may be seen using the high power lens (x40). Although no stains are required to visualise the sample, simple stains such as iodine solution or lactophenol cotton blue reagent are sometimes applied to highlight cellular morphology more clearly.\n\n\n\n\n\n\nFigure 19.1: Structures of typical moulds.",
+    "crumbs": [
+      "Laboratory 2 - Microbial Identification",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Moulds and Fungi</span>"
+    ]
+  },
+  {
+    "objectID": "2protocols.html",
+    "href": "2protocols.html",
+    "title": "20  Lab 2 Protocols",
+    "section": "",
+    "text": "You can view the handout for lab 2 below, or download it here.\nDownload PDF file.",
+    "crumbs": [
+      "Laboratory 2 - Microbial Identification",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Lab 2 Protocols</span>"
     ]
   },
   {
