@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Leighton Pritchard">
 
-<title>data – BM327 Microbiology Semester 2 Lab Manual</title>
+<title>21&nbsp; Lab 2 - Data Analysis – BM327 Microbiology Semester 2 Lab Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cd7de1037569933fbb609f06423bd096.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-78faf54a06e50be45dc6d83ab59297a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -82,6 +82,17 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
   content: '🔍';
   background-image: none;
 }
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
 div.callout-todo.callout {
   border-left-color: pink;
 }
@@ -91,17 +102,6 @@ div.callout-todo.callout-style-default > .callout-header {
 div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
   content: '📝';
-  background-image: none;
-}
-div.callout-discussion-hints.callout {
-  border-left-color: #952dae;
-}
-div.callout-discussion-hints.callout-style-default > .callout-header {
-  background-color: rgba(149, 45, 174, 0.13);
-}
-div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
-  content: '✨';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -115,14 +115,14 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-discussion-hints.callout {
+  border-left-color: #952dae;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-discussion-hints.callout-style-default > .callout-header {
+  background-color: rgba(149, 45, 174, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
   content: '✨';
   background-image: none;
 }
@@ -153,7 +153,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
 
 </head>
 
-<body class="nav-sidebar floating fullcontent">
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -162,7 +162,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./2section.html">Laboratory 2 - Microbial Identification</a></li><li class="breadcrumb-item"><a href="./2data.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">2data.html</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./2section.html">Laboratory 2 - Microbial Identification</a></li><li class="breadcrumb-item"><a href="./2data.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lab 2 - Data Analysis</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -302,7 +302,7 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading</span></span></a>
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 1</span></span></a>
   </div>
 </li>
       </ul>
@@ -355,13 +355,13 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2data.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">2data.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lab 2 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">2further.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 2</span></span></a>
   </div>
 </li>
       </ul>
@@ -476,22 +476,145 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#sec-2ABdata" id="toc-sec-2ABdata" class="nav-link active" data-scroll-target="#sec-2ABdata"><span class="header-section-number">21.1</span> Task 2A and Task 2B Data Analysis</a></li>
+  <li><a href="#sec-2Cdata" id="toc-sec-2Cdata" class="nav-link" data-scroll-target="#sec-2Cdata"><span class="header-section-number">21.2</span> Task 2C Data Analysis</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./2section.html">Laboratory 2 - Microbial Identification</a></li><li class="breadcrumb-item"><a href="./2data.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">2data.html</span></a></li></ol></nav></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./2section.html">Laboratory 2 - Microbial Identification</a></li><li class="breadcrumb-item"><a href="./2data.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lab 2 - Data Analysis</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lab 2 - Data Analysis</span></h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<p>Do these results align with your knowledge of these five bacteria based on the literature? If you observed anything expected – what might account for your results?</p>
-<p>Are Gram-stain reaction and cell morphology sufficient for bacterial identification in these cases, or not? What other experiments might help you to identify these bacteria?</p>
-<p>Discussion questions: selective and differential media</p>
-<p>Q. What is the role of haemolysins in a bacterial infection?</p>
-<ol start="17" type="A">
-<li></li>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="callout callout-style-default callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Lab 2 - Data Analysis Tasks
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>After attending the practical lab, you should:</p>
+<ul>
+<li><p>Compare the results of your macroscopic and microscopic observations of the bacteria and fungi with what is known in the literature (<a href="#sec-2ABdata" class="quarto-xref"><span>Section 21.1</span></a>).</p></li>
+<li><p>In lab 3, you will examine and record the results from your blood agar plates. You should read <a href="#sec-2Cdata" class="quarto-xref"><span>Section 21.2</span></a> and <a href="2intro2.html#sec-bloodagar" class="quarto-xref"><span>Section 17.4.1</span></a> to make sure you understand what to expect in the next lab session, and how to interpret your data.</p></li>
+</ul>
+</div>
+</div>
+<section id="sec-2ABdata" class="level2" data-number="21.1">
+<h2 data-number="21.1" class="anchored" data-anchor-id="sec-2ABdata"><span class="header-section-number">21.1</span> Task 2A and Task 2B Data Analysis</h2>
+<p>Do your results align with your knowledge of these five bacteria and three fungi based on the literature?</p>
+<p>If you observed anything expected – what might account for your results?</p>
+<p>If you were not able to attend the lab, or if something occurred to disrupt your experiments, you should download the class data (macroscopic and microscopic observations) from MyPlace.</p>
+<div class="callout callout-style-default callout-discussion callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Interpreting the results from your macroscopic and microscopic observations
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Questions to consider/discuss with your lab partners:</strong></p>
+<ol type="1">
+<li><p>Are Gram-stain reaction and cell morphology sufficient for bacterial identification in these cases, or not?</p></li>
+<li><p>What other experiments might help you to identify these bacteria?</p></li>
+<li><p>How might understanding the cell wall structure of an unknown pathogen help you to prescribe the correct antibiotic treatment for a patient?</p></li>
+<li><p>What about the fungal identifications - are the macroscopic/microscopic identifications sufficient for a definitive identification, or not? What other experiments could you do to identify these fungi?</p></li>
 </ol>
+</div>
+</div>
+<div class="callout callout-style-default callout-discussion-hints callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hints - interpreting the macroscopic/microscopic observation results
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>Can you think of any other bacterial pathogens that have the same characteristics?</p></li>
+<li><p>You might find it helpful to refer to your lecture notes, the UK SMIDs for these organisms, or taxonomic resources such as Bergey’s.</p></li>
+<li><p>Consider the target(s) of different antibiotics, and whether they are present/accessible in different pathogens.</p></li>
+<li><p>Similar to questions 1-2: refer to your lecture notes, the UK SMIDs, and other taxonomic resources.</p></li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+<section id="sec-2Cdata" class="level2" data-number="21.2">
+<h2 data-number="21.2" class="anchored" data-anchor-id="sec-2Cdata"><span class="header-section-number">21.2</span> Task 2C Data Analysis</h2>
+<p>In the next lab session, you will be able to observe your blood agar plates. You will examine the colony morphology and haemolysis patterns on each plate in order to learn about how the use of differential media and colony morphology can aid in microbial identification (<a href="2intro1.html#sec-microbialID" class="quarto-xref"><span>Section 16.1</span></a>).</p>
+<p>You will also want to evaluate your plates to understand how competently you performed the task (streaking for single colonies; see <a href="1data.html#sec-1Adata" class="quarto-xref"><span>Section 13.1</span></a> if you need a reminder of how to do this).</p>
+<p>If you were not able to attend the lab, or if something occurred to disrupt your experiments, you should download the class data (blood agar plate images) from MyPlace.</p>
+<div class="callout callout-style-default callout-discussion callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Interpreting the results from your blood agar plates
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Questions to consider/discuss with your lab partners:</strong></p>
+<ol type="1">
+<li><p>What is the role(s) of haemolysins in a bacterial infection?</p></li>
+<li><p>What other experiments might help you to identify this unknown bacterium? Do you think it is (as the clinician suspected in Case Study 2) <i>Streptococcus pyogenes</i>?</p></li>
+</ol>
+</div>
+</div>
+<div class="callout callout-style-default callout-discussion-hints callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hints - interpreting the results from your blood agar plates
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>Can you imagine what would happen if a bloodborne pathogen was able to lyse red blood cells nearby? What about pathogens that infect other tissues?</p></li>
+<li><p>What other pathogens might cause the symptoms presented in this case study? Refer to your lecture notes, the relevant UK SMID(s), and any other relevant taxonomic information for these organisms.</p></li>
+</ol>
+</div>
+</div>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -918,8 +1041,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./2further.html" class="pagination-link" aria-label="2further.html">
-        <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">2further.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./2further.html" class="pagination-link" aria-label="Additional Resources/Further Reading for Lab 2">
+        <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 2</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

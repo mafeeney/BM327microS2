@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cd7de1037569933fbb609f06423bd096.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-78faf54a06e50be45dc6d83ab59297a7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,15 +71,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-case-study.callout {
@@ -104,17 +126,6 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
   content: '✨';
   background-image: none;
 }
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
 div.callout-thumbs-up.callout {
   border-left-color: #008000;
 }
@@ -126,26 +137,15 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-data.callout {
+  border-left-color: #32CD32;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 </style>
@@ -302,7 +302,7 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading</span></span></a>
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 1</span></span></a>
   </div>
 </li>
       </ul>
@@ -355,13 +355,13 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">2data.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lab 2 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">2further.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 2</span></span></a>
   </div>
 </li>
       </ul>
@@ -481,7 +481,9 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#identification-of-microorganisms-by-microscopic-characterisation" id="toc-identification-of-microorganisms-by-microscopic-characterisation" class="nav-link active" data-scroll-target="#identification-of-microorganisms-by-microscopic-characterisation"><span class="header-section-number">18.1</span> Identification of microorganisms by microscopic characterisation</a></li>
+  <li><a href="#sec-microid" id="toc-sec-microid" class="nav-link active" data-scroll-target="#sec-microid"><span class="header-section-number">18.1</span> Identification of microorganisms by microscopic characterisation</a></li>
+  <li><a href="#differential-stains" id="toc-differential-stains" class="nav-link" data-scroll-target="#differential-stains"><span class="header-section-number">18.2</span> Differential Stains</a></li>
+  <li><a href="#sec-gramstain" id="toc-sec-gramstain" class="nav-link" data-scroll-target="#sec-gramstain"><span class="header-section-number">18.3</span> The Gram Stain</a></li>
   </ul>
 </nav>
     </div>
@@ -507,13 +509,65 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
 </header>
 
 
-<p>The first step in identification of a pathogen is isolating that pathogen in pure culture. In clinical microbiology, we very often begin with a Gram stain (Figure 5) and use a dichotomous key (Figure 6) to identify organisms based on their phenotypes (e.g., ability to grow on particular media, phenotype(s) in certain biochemical test(s), etc.). The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (Figure 7) can help to narrow down a preliminary identification.</p>
-<section id="identification-of-microorganisms-by-microscopic-characterisation" class="level2" data-number="18.1">
-<h2 data-number="18.1" class="anchored" data-anchor-id="identification-of-microorganisms-by-microscopic-characterisation"><span class="header-section-number">18.1</span> Identification of microorganisms by microscopic characterisation</h2>
-<p>The individual cells of typical bacteria are very small. To be seen clearly, they must be fixed to a glass slide, stained, and then examined using a microscope fitted with an oil-immersion lens (x100) which is capable of producing an overall magnification of at least x1000. The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e.&nbsp;it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics).</p>
-<p>The individual cells of typical bacteria are very small. To be seen clearly, they must be fixed to a glass slide, stained, and then examined using a microscope fitted with an oil-immersion lens (x100) which is capable of producing an overall magnification of at least x1000. (Note that the total magnification is the product of the objective and the ocular lenses – e.g., for many commonly used light microscopes, objective magnification (x100) * ocular magnification (x10) = x1000 magnification.) The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e.&nbsp;it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics). The size, shape, and arrangement of the cells (Figure 3) can also be helpful in bacterial identification (i.e.&nbsp;with the use of a dichotomous key).</p>
+<section id="sec-microid" class="level2" data-number="18.1">
+<h2 data-number="18.1" class="anchored" data-anchor-id="sec-microid"><span class="header-section-number">18.1</span> Identification of microorganisms by microscopic characterisation</h2>
+<p>The individual cells of typical bacteria are very small. To be seen clearly with a light microscope, they must be fixed to a glass slide, stained, and then examined using a microscope fitted with an oil-immersion lens (x100) which is capable of producing an overall magnification of at least x1000. (Note that the total magnification is the product of the objective and the ocular lenses – e.g., for many commonly used light microscopes, objective magnification (x100) * ocular magnification (x10) = x1000 magnification.)</p>
+<p>The size, shape, and arrangement of the cells (<a href="#fig-cellshapes" class="quarto-xref">Figure&nbsp;<span>18.1</span></a>) can be helpful in bacterial identification. However, this information is rarely enough to make a definitive diagnosis - there are, for example, many rod-shaped bacterial pathogens. You will need to take other information into account (often using a dichotomous key, as discussed in <a href="2intro1.html#sec-dichotomouskey" class="quarto-xref"><span>Section 16.2</span></a>)</p>
+<div id="fig-cellshapes" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cellshapes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/cellshapes.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cellshapes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;18.1: A range of different culture media used in microbiology. Image credit: <a href="https://www.atcc.org/resources/culture-guides/bacteriology-culture-guide">ATCC</a>.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="differential-stains" class="level2" data-number="18.2">
+<h2 data-number="18.2" class="anchored" data-anchor-id="differential-stains"><span class="header-section-number">18.2</span> Differential Stains</h2>
+<p>Differential stains use multiple different chemicals which stain different cells, or cell structures, in a way which helps us to differentiate between them. Some common examples (and ones that you will see in this module) are the Gram stain and the acid-fast stain (which differentiate bacteria based on their cell wall structures).</p>
+</section>
+<section id="sec-gramstain" class="level2" data-number="18.3">
+<h2 data-number="18.3" class="anchored" data-anchor-id="sec-gramstain"><span class="header-section-number">18.3</span> The Gram Stain</h2>
+<p>The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e.&nbsp;it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics - <a href="2intro1.html#sec-colony" class="quarto-xref"><span>Section 16.3</span></a>).</p>
+<p>The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (<a href="#fig-cellshapes" class="quarto-xref">Figure&nbsp;<span>18.1</span></a>) can help to narrow down a preliminary identification. In the Gram stain (<span class="quarto-unresolved-ref">?fig-GramStain</span>), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.</p>
+<div id="fig-Gramstain" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-Gramstain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/GramStain.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Gramstain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;18.2: The steps in a Gram stain.
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled" title="Tips for making an excellent Gram stain">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tips for making an excellent Gram stain
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Do not put too many cells on the slide - you will need to be able to observe the cells under the microscope (which means that light must penetrate through the film of cells - if it is too thick, you won’t be able to see anything)</p></li>
+<li><p>Follow the protocol precisely - good attention to the timing of each step is very important, you do not want to overstain or over-destain, as this can give false results.</p></li>
+<li><p>Do not “overcook” the slide in the flame when you are fixing your bacteria - boiling the cells can change their arrangement and excessive heat can damage the cell walls</p></li>
+<li><p>Make sure you are wearing gloves when working with the stains, and removing your gloves when working with the Bunsen burners!!!</p></li>
+</ul>
+</div>
+</div>
 
 
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>a mordant helps the dye to bind and fixes it in place<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
 </section>
 
 </main> <!-- /main -->
