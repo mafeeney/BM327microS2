@@ -2,7 +2,7 @@
 title: "Moulds and Fungi"
 ---
 
-##Introduction: Fungal Identification {#sec-fungalid}
+## Introduction: Fungal Identification {#sec-fungalid}
 
 Just as we have seen for bacterial identification in the previous sections, macroscopic and microscopic characteristics of fungi can be helpful in identifying an unknown fungus, although again it may be necessary to perform additional tests for a definitive identification. 
 

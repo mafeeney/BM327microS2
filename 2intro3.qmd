@@ -8,7 +8,7 @@ The individual cells of typical bacteria are very small. To be seen clearly with
 
 The size, shape, and arrangement of the cells (@fig-cellshapes) can be helpful in bacterial identification. However, this information is rarely enough to make a definitive diagnosis - there are, for example, many rod-shaped bacterial pathogens. You will need to take other information into account (often using a dichotomous key, as discussed in @sec-dichotomouskey)
 
-![A range of different culture media used in microbiology. Image credit: <a href="https://www.atcc.org/resources/culture-guides/bacteriology-culture-guide">ATCC</a>.](images/cellshapes.jpg){#fig-cellshapes}
+![Bacterial cell shapes](images/cellshapes.jpg){#fig-cellshapes}
 
 ## Differential Stains 
 
@@ -19,7 +19,7 @@ Differential stains use multiple different chemicals which stain different cells
 The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e. it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics - @sec-colony).
 
 The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (@fig-cellshapes) can help to narrow down a preliminary identification. 
-In the Gram stain (@fig-GramStain), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant^[a mordant helps the dye to bind and fixes it in place]. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.
+In the Gram stain (@fig-GramStain), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant^[A mordant helps the dye to bind and fixes it in place.]. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.
 
 ![The steps in a Gram stain.](images/GramStain.png){#fig-Gramstain}
 
