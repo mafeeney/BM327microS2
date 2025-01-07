@@ -61,9 +61,14 @@ book:
     - part: 3section.qmd
       chapters: 
         - 3aims.qmd
-        - 3intro.qmd
+        - 3intro1.qmd
+        - 3intro2.qmd
+        - 3intro3.qmd
+        - 3intro4.qmd
+        - 3intro5.qmd
         - 3protocols.qmd
         - 3data.qmd
+        - 3further.qmd
         
     - part: 4section.qmd
       chapters: 

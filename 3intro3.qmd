@@ -1,4 +1,10 @@
-TASK 3B:	Using an API-20E test for the identification of Escherichia, Salmonella, and Shigella sp.
+---
+title: "API-20E Tests"
+---
+
+## Using an API-20E test for the identification of <i>Escherichia, Salmonella, and Shigella</i> sp. {#sec-API20E}
+
+TASK 3B:	
 
 This diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae (i.e. Gram negative rods). Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them. By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.
 

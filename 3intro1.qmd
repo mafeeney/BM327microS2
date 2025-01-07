@@ -1,0 +1,56 @@
+---
+title: "Identification of Intestinal Pathogens"
+---
+
+## Identification of Intestinal Pathogens
+
+There are a number of different pathogens that can infect the intestinal tract, including bacteria, fungi, protozoa, and viruses; however, we will only be considering the enterobacteria and the clostridia in this lab. Intestinal pathogens such as these can cause diseases which range from rather mild, self-limiting infections, to those which have much more serious consequences. 
+
+Remember that it is important, in most identification methods, to first isolate the unknown in axenic culture (@sec-axenic), and that the intestinal microbiome (gut flora) of humans is generally quite complex - thus, identifying a particular pathogen from a clinical sample (e.g. a faecal sample) can be sometimes challenging.
+
+The techniques discussed here for identification of enterobacteria are useful for clinical diagnoses, but are also more broadly applied in public health/water monitoring - for example, coliform counts are used to monitor water quality/the presence of faecal contamination in waterways. 
+
+### Identification of enterobacteria {#sec-enterobacteria}
+
+Pathogenic enterobacteriaceae like <i>Salmonella, Shigella,</i> and <i>Escherichia</i> are all relatively closely related, and they share a number of common characteristics – they are Gram-negative rods, non-spore-forming, facultative aerobes. 
+
+Indeed, if you were to streak these three organisms on nutrient agar, or LB^[Lysogeny Broth] agar, you would find that all three produce colonies with very similar morphologies (@fig-colisalmonella). Likewise, a Gram stain would not be able to distinguish between these different organisms.
+
+![<i>Escherichia coli</i> and <i>Salmonella typhimurium</i> grown on LB agar at 37°C.](images/EcoliSalmonella.png){#fig-colisalmonella}
+
+However, these organisms can be distinguished from one another by molecular methods or based on a number of biochemical tests, as can be seen in @fig-enterobacteria.
+
+![Typical characteristics of <i>Escherichia coli, Shigella dysenteriae</i> and <i>Salmonella typhimurium</i>. Note: A = acid; AG = acid and gas; ± = variable reaction](images/enterobacteria.jpg){#fig-enterobacteria}
+
+In this lab, we will be using differential media (@sec-MacConkey) and an API-20E test (@sec-API20E) to identify an unknown enterobacterium (Case Study 3). Which other tests/experiments could you perform?
+
+::: {.case-study title="Case Study 3"}
+
+## CASE STUDY 3: The case of the contaminated spinach
+
+The epidemiologists have linked a sudden outbreak of diaorrheal diseases to a particular batch of frozen spinach, but the aetiological agent has not yet been confirmed.
+
+You are working as a microbiologist with the Food Standards Agency, which is looking into the case. You suspect that it may be one of the common culprits – <i>E. coli, Salmonella</i>, or <i>Shigella</i> – but you need to figure out which.
+
+A small portion of the spinach was homogenized and plated out on non-selective nutrient agar, and isolated colonies then grown in pure culture.
+
+Your task is to determine whether the isolated pathogen is <i>E. coli, Salmonella</i>, or <i>Shigella</i> using selective and differential media (Task 3A), and an API-20E strip (@sec-API20E).
+
+
+:::
+
+
+
+### Identification of clostridia {#sec-clostridia}
+
+
+::: {.case-study title="Case Study 4"}
+
+CASE STUDY 4. The case of the careless clinician.
+
+You are working in a clinical microbiology with a friend, who has just left for holiday – leaving you to record the results from the last sample he was processing. You think he said that it was <i>C. diff</i>– or maybe <i>E. coli</i> – he was definitely working on faecal samples earlier that morning. But you aren’t entirely sure and he isn’t answering his phone. (You need to get better friends.)
+
+The patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is <i>Clostridium</i> or <i>E. coli</i> using biochemical assays (TASK 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (TASK 3C).
+
+::: 
+

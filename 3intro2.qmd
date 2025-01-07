@@ -1,0 +1,24 @@
+---
+title: "More Examples of Selective and Differential Media"
+---
+
+## Selective and Differential Media
+
+As we have already seen, microbial growth media can be categorised as being selective or differential (@sec-media). You have previously used nutrient agar, for growing different bacterial species, and Sabouraud/dextrose agar, for growing different fungal species - both relatively non-selective media. You have also used blood agar as a differential medium.
+
+In this lab, we will be using two growth media that are *both* selective *and* differential: MacConkey agar, for the identification of enterobacteria, and Mannitol Salt Agar (MSA), for the identification of streptococci (to set up an experiment for our next lab). 
+
+### MacConkey Agar {#sec-MacConkey}
+
+MacConkey agar is a selective differential medium that is used for primary isolation of Enterobacteriaceae and related enteric Gram-negative bacilli and to aid in the identification of potentially pathogenic microorganisms. 
+
+MacConkey agar is differential as it contains a sugar and the pH indicator neutral red, which can help to distinguish between bacteria which are able to metabolise the sugar, and those which cannot. It is often supplemented with lactose, but can also be supplemented with other sugars, such as sorbitol. Fermentation of the sugar in the medium produces acid, causing precipitation of the bile salts present in the medium and a change in colour due to the pH indicator. Bacteria that are not able to ferment the sugar will instead utilise the amino acids present in the medium, producing ammonia and causing the pH to increase.
+
+Therefore, following culture on MacConkey/lactose medium, strong lactose fermenters such as <i>Escherichia</i> species will produce red colonies with a surrounding zone of precipitated bile sometimes observable. The red colour is due to the indicator changing colour in response to acid production following lactose fermentation.
+
+Slow or weak lactose fermenters such as <i>Citrobacter</i> and <i>Serratia</i> species may appear colourless after 24 hours or slightly pink after 24 - 48 hours.
+
+Non-lactose fermenting microorganisms such as <i>Proteus, Salmonella</i> and <i>Shigella</i> species, with rare exceptions produce colourless or clear transparent colonies.
+
+
+### Mannitol Salt Agar {#sec-MSA}

@@ -3,4 +3,4 @@ title: "Laboratory 3 - Pathogens of the Intestinal Tract"
 ---
 
 
-<center>| [Aims](./3aims.qmd) | [Intro](./3intro.qmd) | [Protocols](./3protocols.qmd) | [Data Analysis](./3data.qmd) </center>
+<center>| [Aims](./3aims.qmd) | Background: [Identification of Intestinal Pathogens](./3intro1.qmd) | [More Examples of Selective and Differential Media](./3intro2.qmd) | [API-20E Tests](./3intro3.qmd) | [Biochemical Tests - Oxidase and Catalase](./3intro4.qmd) |[Oxygen and Microbial Growth](./3intro5.qmd) | [Protocols](./3protocols.qmd) | [Data Analysis](./3data.qmd) | [Additional Resources/Further Reading](./3further.qmd) </center>

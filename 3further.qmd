@@ -1,0 +1,7 @@
+---
+title: "Additional Resources/Further Reading for Lab 3"
+---
+
+## header
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/MacConkey-Agar-Plates-Protocols.pdf?ext=.pdf">MacConkey Agar Plates Protocols (ASM)</a>

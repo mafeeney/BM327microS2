@@ -1,0 +1,13 @@
+---
+title: "Biochemical tests: Oxidase and Catalase"
+---
+
+## The Use of Biochemical Tests in Microbial Identification
+
+There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen, as we have already seen (@sec-microbialID). Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them.
+
+### Oxidase Test
+
+### Catalase Test
+
+
