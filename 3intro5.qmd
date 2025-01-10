@@ -3,3 +3,11 @@ title: "Oxygen and Microbial Growth"
 ---
 
 ## Oxygen and Microbial Growth {#sec-oxygen}
+
+There are a number of different techniques used in microbiology laboratories for achieving anaerobic conditions to permit the growth of different microbes. In this lab, you will use two different techniques: use of thioglycollate medium and use of an anaerobic jar. Working as a group of 4(??), you will inoculate your unknown microorganism and appropriate control organisms in thioglycollate medium and you will streak these on blood agar plates that will be incubated ± O2. 
+
+Introduction: Thioglycollate medium
+
+This medium (Table 11) contains a reducing agent, sodium thioglycollate, that binds to and consumes O2 and thus maintains a low oxygen tension in the medium. The medium also contains a redox indicator, resazurin, which turns pink in an oxidized environment. It is essential to use fresh thioglycollate medium (as indicated by the absence of pink colour). Growth of organisms in thioglycollate medium will depend on their oxygen requirements, as illustrated in Figure 7.
+
+This system uses a sealed jar and a GasPak, which generates carbon dioxide and hydrogen; a palladium catalyst in the jar combines the hydrogen with oxygen (generating water); this then creates an anaerobic atmosphere in the jar (Figure 8). An indicator strip is used to verify that anaerobic conditions have been established: it contains methylene blue, which becomes colourless in the absence of oxygen.

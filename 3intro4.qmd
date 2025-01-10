@@ -8,6 +8,14 @@ There are many different techniques available to the clinical microbiologist who
 
 ### Oxidase Test
 
+<a href="https://pdb101.rcsb.org/motm/5">Cytochrome oxidase</a> is a haemprotein enzyme that is involved in the terminal chain of aerobic respiration by transferring electrons (hydrogen) to oxygen, to form water. It is possessed by aerobic and facultative anaerobic microorganisms. The test is helpful in screening Enterobacteriaceae (all negative), Pseudomonas (positive) or Neisseria (positive) species. 
+
+The oxidase test (@fig-oxidase) uses a dye that can substitute for oxygen as an electron acceptor. In the reduced state the dye is colourless. However, in the presence of cytochrome oxidase and atmospheric oxygen it becomes oxidized and converts to a coloured derivative.
+
+![Oxidase strip tests for Pseudomonas aeruginosa (positive) and E. coli (negative)](images/oxidase.jpg){#fig-oxidase}
+
 ### Catalase Test
 
+<a href="https://pdb101.rcsb.org/motm/57">Catalase</a> is an enzyme that breaks down hydrogen peroxide into oxygen and water. The enzyme is a haem protein expressed by most aerobic and facultatively anaerobic bacteria (excluding Streptococci species) and used to degrade any hydrogen peroxide that is generated during aerobic carbohydrate metabolism.
 
+![Catalase tests for Streptococcus pyogenes (negative) and E. coli (positive)](images/catalase.jpg){#fig-catalase}

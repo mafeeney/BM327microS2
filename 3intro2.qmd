@@ -10,7 +10,9 @@ In this lab, we will be using two growth media that are *both* selective *and* d
 
 ### MacConkey Agar {#sec-MacConkey}
 
-MacConkey agar is a selective differential medium that is used for primary isolation of Enterobacteriaceae and related enteric Gram-negative bacilli and to aid in the identification of potentially pathogenic microorganisms. 
+MacConkey agar (@fig-Mac) is a selective differential medium that is used for primary isolation of Enterobacteriaceae and related enteric Gram-negative bacilli and to aid in the identification of potentially pathogenic microorganisms. 
+
+![MacConkey agar (uninoculated plate)](images/MacConkey-uninoculated.jpg){#fig-Mac}
 
 MacConkey agar is differential as it contains a sugar and the pH indicator neutral red, which can help to distinguish between bacteria which are able to metabolise the sugar, and those which cannot. It is often supplemented with lactose, but can also be supplemented with other sugars, such as sorbitol. Fermentation of the sugar in the medium produces acid, causing precipitation of the bile salts present in the medium and a change in colour due to the pH indicator. Bacteria that are not able to ferment the sugar will instead utilise the amino acids present in the medium, producing ammonia and causing the pH to increase.
 
@@ -20,5 +22,15 @@ Slow or weak lactose fermenters such as <i>Citrobacter</i> and <i>Serratia</i> s
 
 Non-lactose fermenting microorganisms such as <i>Proteus, Salmonella</i> and <i>Shigella</i> species, with rare exceptions produce colourless or clear transparent colonies.
 
+As you can see in @fig-Macmixed, MacConkey agar can thus be used to distinguish different bacteria based on their ability to ferment (or not) lactose.
+
+![MacConkey agar inoculated with a mixture of faecal flora](images/MacConkey-mixed.png){#fig-Macmixed}
+
 
 ### Mannitol Salt Agar {#sec-MSA}
+
+Mannitol salt agar (MSA) is a selective differential medium that is used for primary isolation and identification of potentially pathogenic <i>Staphylococcus aureus</i> from non-pathogenic commensal microorganisms from the genus <i>Micrococcus</i>. MSA contains a relatively high sodium chloride content of 7.5% (w/v) which allows selection for microorganisms that can tolerate this level of sodium chloride. This makes the test selective. In addition, it contains mannitol and an indicator, phenol red. If a microorganism can ferment the mannitol, acid will be produced and the indicator will turn from red to yellow in response to the pH drop. This makes the test differential.
+
+![Mannitol Salt Agar inoculated with A)Staphylococcus aureus, B)Staphylococcus epidermidis, C)Staphylococcus saprophyticus, D)Escherichia coli (no growth)](images/MSA.png){#fig-MSA}
+
+<i>Staphylococcus aureus</i> grows on MSA and ferments mannitol, turning the plate yellow. <i>Staphylococcus epidermis</i>, commonly present in the human skin flora, do not ferment mannitol, although they are capable of growth on MSA. Microbes that are not tolerant to the high concentrations of salt present in this medium (e.g., members of the genus Micrococcus such as <i>M. luteus</i>) cannot grow on MSA.

@@ -43,6 +43,19 @@ Your task is to determine whether the isolated pathogen is <i>E. coli, Salmonell
 
 ### Identification of clostridia {#sec-clostridia}
 
+Most clostridia are Gram-positive, endospore-forming, obligate anaerobes, and some are pathogenic to humans. <i>Clostridioides difficile</i> (sometimes still called <i>Clostridium difficile</i>) can cause serious infections in the intestine, particularly when the gut microbiome is perturbed (e.g., by antibiotic treatment). (Note in the endospores in @fig-Cdiff (here seen as paler regions in the stain - endospores can also be visualised by <a href="https://asm.org/ASM/media/Protocol-Images/Endospore-Stain-Protocol.pdf?ext=.pdf">differential stains</a>.))
+
+![<i>Clostridioides difficile</i> endospores from a blood agar plate incubated anaerobically (Image credit: <a href="https://phil.cdc.gov/Details.aspx?pid=3876">CDC PHIL</a>)](images/Cdiff.jpg){#fig-Cdiff}
+
+::: {.callout-note title="Note about other pathogenic clostridia"}
+
+You may recall that in first year, you identified some isolates of <i>Clostridium</i> spp. using 16S rRNA sequences (the BM110 Montrose Murders case). In that case, we were investigating the possibility that <i>Clostridium botulinum</i> isolates had been used to produce the toxin involved in the murder. 
+
+Other well-known pathogenic clostridia include <i>Clostridium tetani</i> (tetanus), and <i>Clostridium perfringens</i> (gas gangrene, and food poisoning).
+
+:::
+
+In this lab, we will be using biochemical tests, and studying the ability to grow aerobically/anaerobically, to determine whether an unknown organism is likely to be <i>Escherichia coli</i> or <i>C. difficile</i> (Case Study 4). Which other tests/experiments could you perform? How could you make a definitive identification?
 
 ::: {.case-study title="Case Study 4"}
 
@@ -50,7 +63,7 @@ CASE STUDY 4. The case of the careless clinician.
 
 You are working in a clinical microbiology with a friend, who has just left for holiday – leaving you to record the results from the last sample he was processing. You think he said that it was <i>C. diff</i>– or maybe <i>E. coli</i> – he was definitely working on faecal samples earlier that morning. But you aren’t entirely sure and he isn’t answering his phone. (You need to get better friends.)
 
-The patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is <i>Clostridium</i> or <i>E. coli</i> using biochemical assays (TASK 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (TASK 3C).
+The patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is <i>Clostridium</i> or <i>E. coli</i> using biochemical assays (Task 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (Task 3C).
 
 ::: 
 
