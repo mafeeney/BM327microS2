@@ -71,6 +71,17 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -80,28 +91,6 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
   background-image: none;
 }
 div.callout-discussion.callout {
@@ -115,6 +104,17 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
   content: '✨';
   background-image: none;
 }
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -126,6 +126,17 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
   content: '✨';
   background-image: none;
 }
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
 div.callout-thumbs-up.callout {
   border-left-color: #008000;
 }
@@ -135,17 +146,6 @@ div.callout-thumbs-up.callout-style-default > .callout-header {
 div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
   content: '👍';
-  background-image: none;
-}
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
   background-image: none;
 }
 </style>
@@ -591,6 +591,32 @@ Case Study 3
 </section>
 <section id="sec-clostridia" class="level3" data-number="24.1.2">
 <h3 data-number="24.1.2" class="anchored" data-anchor-id="sec-clostridia"><span class="header-section-number">24.1.2</span> Identification of clostridia</h3>
+<p>Most clostridia are Gram-positive, endospore-forming, obligate anaerobes, and some are pathogenic to humans. <i>Clostridioides difficile</i> (sometimes still called <i>Clostridium difficile</i>) can cause serious infections in the intestine, particularly when the gut microbiome is perturbed (e.g., by antibiotic treatment). (Note in the endospores in <a href="#fig-Cdiff" class="quarto-xref">Figure&nbsp;<span>24.3</span></a> (here seen as paler regions in the stain - endospores can also be visualised by <a href="https://asm.org/ASM/media/Protocol-Images/Endospore-Stain-Protocol.pdf?ext=.pdf">differential stains</a>.))</p>
+<div id="fig-Cdiff" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-Cdiff-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Cdiff.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Cdiff-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;24.3: <i>Clostridioides difficile</i> endospores from a blood agar plate incubated anaerobically (Image credit: <a href="https://phil.cdc.gov/Details.aspx?pid=3876">CDC PHIL</a>)
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Note about other pathogenic clostridia">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note about other pathogenic clostridia
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You may recall that in first year, you identified some isolates of <i>Clostridium</i> spp. using 16S rRNA sequences (the BM110 Montrose Murders case). In that case, we were investigating the possibility that <i>Clostridium botulinum</i> isolates had been used to produce the toxin involved in the murder.</p>
+<p>Other well-known pathogenic clostridia include <i>Clostridium tetani</i> (tetanus), and <i>Clostridium perfringens</i> (gas gangrene, and food poisoning).</p>
+</div>
+</div>
+<p>In this lab, we will be using biochemical tests, and studying the ability to grow aerobically/anaerobically, to determine whether an unknown organism is likely to be <i>Escherichia coli</i> or <i>C. difficile</i> (Case Study 4). Which other tests/experiments could you perform? How could you make a definitive identification?</p>
 <div class="callout callout-style-default callout-case-study callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -603,7 +629,7 @@ Case Study 4
 <div class="callout-body-container callout-body">
 <p>CASE STUDY 4. The case of the careless clinician.</p>
 <p>You are working in a clinical microbiology with a friend, who has just left for holiday – leaving you to record the results from the last sample he was processing. You think he said that it was <i>C. diff</i>– or maybe <i>E. coli</i> – he was definitely working on faecal samples earlier that morning. But you aren’t entirely sure and he isn’t answering his phone. (You need to get better friends.)</p>
-<p>The patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is <i>Clostridium</i> or <i>E. coli</i> using biochemical assays (TASK 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (TASK 3C).</p>
+<p>The patient can’t wait for a diagnosis until your friend gets back from his holiday, so you’d better figure it out for him. Your task is to determine whether the isolated pathogen is <i>Clostridium</i> or <i>E. coli</i> using biochemical assays (Task 3B) and by testing whether the pathogen is an obligate or facultative anaerobe (Task 3C).</p>
 </div>
 </div>
 
