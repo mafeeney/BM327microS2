@@ -122,7 +122,7 @@
     "href": "0goodlab.html#keeping-a-laboratory-notebook",
     "title": "5  Good Laboratory Practice",
     "section": "6.1 Keeping a Laboratory Notebook",
-    "text": "6.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n6.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n6.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!) and be sure to label the bottom of the plate (the bottom and lid may become separated, so labeling the lid is a bad idea.)\n\n \n\n\n6.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).\nChange pipet tips between different samples.\n\nNever set a pipet down, or hold it horizontally/at an angle, with a pipet tip attached. It will damage a pipet if liquid comes up into the barrel.",
+    "text": "6.1 Keeping a Laboratory Notebook\nIt is essential to keep an accurate record of experiments, with details of every experiment performed, the data collected, and the data analysis that was performed. It is just as important to keep a lab notebook for experiments performed in silico as it is for experiments performed at the lab bench.\nYou should be able to come back to your notebook six months later, read your notes, and be able to recreate the experiment/understand the analyses that you performed. Human memory is fallible and it is important to keep clear, accurate records.\nMoreover, an appropriately kept lab notebook is a legal document, important for protecting your intellectual property. You should therefore be in the habit of keeping your lab notebook up to date and accurate.\n\n6.1.1 Some guidelines for keeping a good lab notebook:\n\nYour notebook may be kept in the form of a physical notebook (kept on paper) or an electronic notebook. The former should be written in clearly and legibly, using indelible ink. The latter should be saved often, with backup copies stored securely.\nInclude the date for each entry.\nEach experiment should include a title, a hypothesis or aim, a brief description of the background, protocols and details of any reagents/equipment used, observations, and any data or statistical analysis that was performed.\nAny protocols or methods should be described in enough detail that a colleague (or you in six months’ time!) can repeat the same experiment, starting from the same dataset/materials, and reach the same results.\nAny mistakes should be crossed out and explained (not erased).\nAll data should always be recorded in your lab notebook (even “failed” experiments or “outliers”).\n\n\n\n\n\n\n\nElectronic Lab Notebooks\n\n\n\n\n\nIncreasingly, researchers are using electronic lab notebooks instead of paper ones - these are more impervious to physical destruction (e.g., chemical spills, lab fires) and often more convenient (more easily legible, searchable, etc.) However, care must be taken to ensure that the data stored in an electronic lab notebook is secure and backed up.\nThere are many options for lab notebooks. One popular and widely used electronic lab notebook is Benchling.\n\nYou can join Benchling by creating an account at http://benchling.com/signup\nFor help with Benchling, including training kits and best practice guides, please see https://help.benchling.com/hc/en-us.\n\n\n\n\n\n\n6.1.2 Good Labelling Technique\nIt is essential that all tubes and plates be clearly and legibly labelled. You will often be working with these over a period of several weeks, and you will be unable to interpret/analyse the results from a previous week’s experiments if you have not labelled your samples correctly.\nSome general guidelines for good labeling practice:\n\nInclude your initials and the date of the experiment (if directed by your instructors, also include your bench number).\nIf working with microorganisms, always include the species name (abbreviations, e.g. E. coli are fine).\nIf labeling Petri plates, label around the outside rim of the plate (do not obscure the plate as it will make it hard to count colonies!), as shown in ?fig-platelabelling. You should also be sure to label the bottom of the plate (?fig-platelid). The bottom and lid may become separated, so labeling the lid is a bad idea!\n\n \n\n\n6.1.3 Other tips for good lab practice\n\nRead through each protocol thoroughly before beginning an experiment. Label all tubes and prepare any reagents needed before you begin. Stay organised and keep your space clean.\nTurn off your Bunsen burner (or set it to a visible orange flame) if you are not working aseptically.\nNever walk away from your bench and leave a lit Bunsen burner unattended.\nNever wear gloves when working with a Bunsen burner.\nPipet as accurately as possible:\n\nUse the correct pipet for the volume you intend to pipet and make sure it is set correctly (if uncertain, ask a demonstrator or member of staff)\nPipet down to the first stop when drawing up liquid into the pipet; pipet down to the second stop when expelling liquid.\nAvoid bubbles when pipetting.\nOnly insert the very tip of the pipet into the liquid when pipetting particularly viscous mixtures (e.g., polymerase or enzyme stocks).\nChange pipet tips between different samples.\n\nNever set a pipet down, or hold it horizontally/at an angle, with a pipet tip attached. It will damage a pipet if liquid comes up into the barrel.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Good Laboratory Technique</span>"
@@ -177,7 +177,7 @@
     "href": "1section.html",
     "title": "Laboratory 1 - Basic Microbiology Skills",
     "section": "",
-    "text": "Aims and Overview | Background: Axenic culture; Serial Dilutions; Plasmid DNA | Protocols | Data Analysis | Additional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 1.\n\nAims and Overview |\nBackground: Axenic culture; Serial Dilutions; Plasmid DNA\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills"
     ]
@@ -363,7 +363,7 @@
     "href": "1data.html#sec-1Bdata",
     "title": "13  Lab 1 - Data Analysis",
     "section": "13.2 Task 1B - Interpreting your Gel Results",
-    "text": "13.2 Task 1B - Interpreting your Gel Results\nWhen your gels have finished running, the technicians will place them on the UV transilluminator and take photographs of them for you. These will them be uploaded to MyPlace, where you will be able to download them.\n\n\n\n\n\n\nFigure 13.3: Examples of plasmid miniprep DNA run on an agarose gel.\n\n\n\nYou should annotate your gel (label the DNA ladder and wells with their sample names), as for example in Figure 13.4.\n\n\n\n\n\n\nFigure 13.4: Example of an annotated gel.\n\n\n\nYou can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the manufacturer’s website.\n\n\n\n\n\n\nInterpreting the results from your agarose gels\n\n\n\nQuestions to consider/discuss with your lab partners:\n\nIn the example gel in Figure 13.4, how many of the 6 UPEC strains contain plasmid DNA? Do any strains contain more than one plasmid?\nWhat can you conclude about the number and size of the plasmid(s)?\nWhat about in your gel?\nWhat experiments could you perform to determine whether any of the plasmids contain pathogenicity islands?\n\n\n\n\n\n\n\n\n\nHints - interpreting the example gel results\n\n\n\n\n\n1-3. Remember that most bacterial plasmids are circular, and that circular and linear DNA molecules migrate differently in agarose gels.\n\nA good experiment here would keep in mind the definition of a pathogenicity island and would include any necessary experimental controls.",
+    "text": "13.2 Task 1B - Interpreting your Gel Results\nWhen your gels have finished running, the technicians will place them on the UV transilluminator and take photographs of them for you. These will them be uploaded to MyPlace, where you will be able to download them. Your results will probably look something like this: Figure 13.3.\n\n\n\n\n\n\nFigure 13.3: Examples of plasmid miniprep DNA run on an agarose gel.\n\n\n\nYou should annotate your gel (label the DNA ladder and wells with their sample names), as for example in Figure 13.4.\n\n\n\n\n\n\nFigure 13.4: Example of an annotated gel.\n\n\n\nYou can find the product information sheet for the DNA ladder which we used in this lab, including the size of each band, on the manufacturer’s website.\n\n\n\n\n\n\nInterpreting the results from your agarose gels\n\n\n\nQuestions to consider/discuss with your lab partners:\n\nIn the example gel in Figure 13.4, how many of the 6 UPEC strains contain plasmid DNA? Do any strains contain more than one plasmid?\nWhat can you conclude about the number and size of the plasmid(s)?\nWhat about in your gel?\nWhat experiments could you perform to determine whether any of the plasmids contain pathogenicity islands?\n\n\n\n\n\n\n\n\n\nHints - interpreting the example gel results\n\n\n\n\n\n1-3. Remember that most bacterial plasmids are circular, and that circular and linear DNA molecules migrate differently in agarose gels.\n\nA good experiment here would keep in mind the definition of a pathogenicity island and would include any necessary experimental controls.",
     "crumbs": [
       "Laboratory 1 - Basic Microbiology Skills",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Lab 1 - Data Analysis</span>"
@@ -418,7 +418,7 @@
     "href": "2section.html",
     "title": "Laboratory 2 - Microbial Identification",
     "section": "",
-    "text": "Aims | Background: Microbial Identification | Differential and Selective Media | Differential Staining - the Gram Stain | Moulds and Fungi | Protocols | Data Analysis | Additional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 2.\n\nAims |\nBackground: Microbial Identification | Differential and Selective Media | Differential Staining - the Gram Stain | Moulds and Fungi |\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 2 - Microbial Identification"
     ]
@@ -724,7 +724,18 @@
     "href": "3aims.html",
     "title": "23  Aim",
     "section": "",
-    "text": "To understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.\n\n24 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to identify pathogens of the intestinal tract using differential and selective media.\nHow to identify pathogens of the intestinal tract using and an API-20E set of biochemical tests.\nHow to analyse and identify microbes through their ability to grow aerobically or anaerobically.\n\n\n\n25 Competencies\n\nUsing aseptic technique\nPipetting\nAnaerobic cultivation of microbes\nUsing appropriate methods to identify microorganisms (differential media, tests)\nDocumenting and reporting on experimental results and conclusions\n\n\n\n26 Importance\nThis laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.",
+    "text": "24 Learning Outcomes\nTo understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#overview-of-lab-3",
+    "href": "3aims.html#overview-of-lab-3",
+    "title": "23  Aim",
+    "section": "26.1 Overview of Lab 3",
+    "text": "26.1 Overview of Lab 3\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will analyse the results from the blood agar plates you streaked in the previous lab session (Task 3A)\nYou will use a selective and differential medium to cultivate unknown intestinal pathogens (MacConkey agar, Task 3B)\nYou will perform some biochemical assays to help identify pathogens of the intestinal tract (catalase and oxidase assays, Task 3C)\nYou will analyse an unknown microbe’s requirement for oxygen (Task 3D)\nYou will set up some cultures for our next lab session (inoculate Staphylococcus aureus on Mannitol Salt Agar, another selective and differential medium (Task 3E)\n\n\n\n\n\n\n\nTo prepare for Lab 3\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens, selective and differential media, biochemical tests, and oxygen and microbial growth\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
@@ -790,7 +801,7 @@
     "href": "3intro3.html",
     "title": "26  API-20E Tests",
     "section": "",
-    "text": "26.1 Using an API-20E test for the identification of Escherichia, Salmonella, and Shigella sp.\nTASK 3B:\nThis diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae (i.e. Gram negative rods). Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them. By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.\nBecause of the long time between two laboratory sessions in this course (2 weeks), we are unable to perform the API-20E test (instead, this experiment has been performed for you and the results posted on MyPlace.\nProtocol 3.2: Setting up an API-20E strip test.\nInterpretation of API 20E Protocol 5.3: Completing the API 20E strip assay.",
+    "text": "26.1 Using an API-20E test for the identification of Escherichia, Salmonella, and Shigella sp.\nThis diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae. Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them. By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.\nBecause of the long time between two laboratory sessions in this course (2 weeks), we are unable to perform the API-20E test (instead, this experiment has been performed for you and the results posted here).\nProtocol 3.2: Setting up an API-20E strip test.\nInterpretation of API 20E Protocol 5.3: Completing the API 20E strip assay.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>26</span>  <span class='chapter-title'>API-20E Tests</span>"
@@ -834,7 +845,18 @@
     "href": "3intro5.html",
     "title": "28  Oxygen and Microbial Growth",
     "section": "",
-    "text": "28.1 Oxygen and Microbial Growth\nThere are a number of different techniques used in microbiology laboratories for achieving anaerobic conditions to permit the growth of different microbes. In this lab, you will use two different techniques: use of thioglycollate medium and use of an anaerobic jar. Working as a group of 4(??), you will inoculate your unknown microorganism and appropriate control organisms in thioglycollate medium and you will streak these on blood agar plates that will be incubated ± O2.\nIntroduction: Thioglycollate medium\nThis medium (Table 11) contains a reducing agent, sodium thioglycollate, that binds to and consumes O2 and thus maintains a low oxygen tension in the medium. The medium also contains a redox indicator, resazurin, which turns pink in an oxidized environment. It is essential to use fresh thioglycollate medium (as indicated by the absence of pink colour). Growth of organisms in thioglycollate medium will depend on their oxygen requirements, as illustrated in Figure 7.\nThis system uses a sealed jar and a GasPak, which generates carbon dioxide and hydrogen; a palladium catalyst in the jar combines the hydrogen with oxygen (generating water); this then creates an anaerobic atmosphere in the jar (Figure 8). An indicator strip is used to verify that anaerobic conditions have been established: it contains methylene blue, which becomes colourless in the absence of oxygen.",
+    "text": "28.1 Oxygen and Microbial Growth\nOxygen is a key nutrient for the growth of many microbes; however, it can also be toxic (in particular to microbes which do not possess the enzymes required to detoxify reactive oxygen species). Microbes are often classified based on their growth requirement for oxygen (e.g., obligate anaerobes, facultative anaerobes, aerobes, etc.) While many human pathogens are able to at least tolerate the presence of oxygen, others (e.g., some of the pathogens that infect the intestinal tract) are strict anaerobes.\nThere are a number of different techniques used in microbiology laboratories for achieving anaerobic conditions to permit the growth of different microbes. In this lab, you will use two different techniques: use of thioglycollate medium and use of an anaerobic jar.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Oxygen and Microbial Growth</span>"
+    ]
+  },
+  {
+    "objectID": "3intro5.html#sec-oxygen",
+    "href": "3intro5.html#sec-oxygen",
+    "title": "28  Oxygen and Microbial Growth",
+    "section": "",
+    "text": "28.1.1 Thioglycollate medium\nThis medium contains a reducing agent, sodium thioglycollate, that binds to and consumes O2 and thus maintains a low oxygen tension in the medium. The medium also contains a redox indicator, resazurin, which turns pink in an oxidized environment. It is essential to use fresh thioglycollate medium (as indicated by the absence of pink colour).\nGrowth of organisms in thioglycollate medium will depend on their oxygen requirements (Figure 28.1).\n\n\n\n\n\n\nFigure 28.1: Patterns of growth in thioglycollate medium\n\n\n\n\nAerobic organisms will grow at the surface, where the [O2] is highest.\nObligate anaerobes will grow at the bottom of the culture tube, where the [O2] is lowest.\nFacultative anaerobes will grow throughout the tube, but exhibit more growth near the top (because they preferentially use aerobic respiration, which generates more ATP than anaerobic respiration or fermentation).\nMicroaerophiles grow near but not at the surface, as they require O2 for growth (they cannot grow anaerobically), but are inhibited by high [O2].\nAerotolerant organisms grow throughout the tube: they do not use O2 as an electron acceptor, but produce catalase and/or other enzymes for the detoxification of reactive oxygen species and are therefore not killed in the presence of O2.\n\n\n\n28.1.2 Use of a GasPak system\nThis system uses a sealed jar and a GasPak, which generates carbon dioxide and hydrogen. A palladium catalyst in the jar combines the hydrogen with oxygen (generating water); this then creates an anaerobic atmosphere in the jar (Figure 28.2).\n\n\n\n\n\n\nFigure 28.2: Patterns of growth in thioglycollate medium\n\n\n\nAn indicator strip is used to verify that anaerobic conditions have been established: it contains methylene blue, which becomes colourless in the absence of oxygen.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>Oxygen and Microbial Growth</span>"
@@ -843,23 +865,56 @@
   {
     "objectID": "3protocols.html",
     "href": "3protocols.html",
-    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "title": "29  Lab 3 Protocols",
     "section": "",
-    "text": "In Lab 3, you will perform the following tasks:",
+    "text": "You can view the handout for lab 3 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
-      "<span class='chapter-number'>29</span>  <span class='chapter-title'>3protocols.html</span>"
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>Lab 3 Protocols</span>"
     ]
   },
   {
     "objectID": "3data.html",
     "href": "3data.html",
-    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "title": "30  Lab 3 - Data Analysis",
     "section": "",
-    "text": "Discussion questions - identification of enterobacteria?\n\n\n\nQuestions to consider/discuss with your lab partners:\n\n\n\n\n\n\n\n\nHints - identification of enterobacteria",
+    "text": "30.1 Task 3A Data Analysis\nFor the controls (Enterococcus faecalis, Streptococcus pneumoniae, Streptococcus pyogenes) - does the phenotype you observed match what you would expect based on the literature?\nHow precisely can you identify your unknown based on your observations?",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
-      "<span class='chapter-number'>30</span>  <span class='chapter-title'>3data.html</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Lab 3 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "3data.html#sec-3Adata",
+    "href": "3data.html#sec-3Adata",
+    "title": "30  Lab 3 - Data Analysis",
+    "section": "",
+    "text": "Interpreting the results from your blood agar plates\n\n\n\nQuestions to consider/discuss with your lab partners:\n\nAre you confident in the accuracy of your results (are there any ways that your experiment could have yielded a false positive/false negative)?\nWhat other experiments might help you to identify your unknown?\nFor Case Study 2 (suspected Group A Strep infection), what should the clinical microbiologist do next? What about the physician?\n\n\n\n\n\n\n\n\n\nHints - interpreting the blood agar results\n\n\n\n\n\n\nConsider your aseptic technique, any other potential problems with your experiment…?\n\n2-3. You might find it helpful to refer to your lecture notes, the UK SMIDs for these organisms, or taxonomic resources such as Bergey’s.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Lab 3 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "3data.html#sec-3Bdata",
+    "href": "3data.html#sec-3Bdata",
+    "title": "30  Lab 3 - Data Analysis",
+    "section": "30.2 Task 3B Data Analysis",
+    "text": "30.2 Task 3B Data Analysis",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Lab 3 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "3data.html#sec-APIdata",
+    "href": "3data.html#sec-APIdata",
+    "title": "30  Lab 3 - Data Analysis",
+    "section": "30.3 API-20E Data Analysis",
+    "text": "30.3 API-20E Data Analysis\n\n\n\n\n\n\nDiscussion questions - identification of enterobacteria?\n\n\n\nQuestions to consider/discuss with your lab partners:\n\n\n\n\n\n\n\n\nHints - identification of enterobacteria",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Lab 3 - Data Analysis</span>"
     ]
   },
   {
@@ -867,18 +922,29 @@
     "href": "3further.html",
     "title": "31  Additional Resources/Further Reading for Lab 3",
     "section": "",
-    "text": "31.1 header",
+    "text": "31.1 Further Reading for the Media/Protocols used in Lab 3",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>31</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 3</span>"
     ]
   },
   {
-    "objectID": "3further.html#header",
-    "href": "3further.html#header",
+    "objectID": "3further.html#further-reading-for-the-mediaprotocols-used-in-lab-3",
+    "href": "3further.html#further-reading-for-the-mediaprotocols-used-in-lab-3",
     "title": "31  Additional Resources/Further Reading for Lab 3",
     "section": "",
-    "text": "MacConkey Agar Plates Protocols (ASM)",
+    "text": "MacConkey Agar Plates Protocols (ASM)\nMannitol Salt Agar Protocols (ASM)\nOxidase Test (ASM)\nCatalase Test (ASM)",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 3</span>"
+    ]
+  },
+  {
+    "objectID": "3further.html#uk-smis-for-organisms-used-in-lab-3",
+    "href": "3further.html#uk-smis-for-organisms-used-in-lab-3",
+    "title": "31  Additional Resources/Further Reading for Lab 3",
+    "section": "31.2 UK SMIs for organisms used in Lab 3",
+    "text": "31.2 UK SMIs for organisms used in Lab 3\n\nUK Standards for Microbiology Investigations - Identification of Enterobacteriaceae\nUK Standards for Microbiology Investigations - Investigation of Clostridium species",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>31</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 3</span>"

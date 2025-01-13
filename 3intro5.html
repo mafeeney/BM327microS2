@@ -71,15 +71,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-todo.callout {
-  border-left-color: pink;
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
 }
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
 }
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
+  background-image: none;
+}
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
+div.callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 div.callout-discussion.callout {
@@ -104,17 +126,6 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
   content: '🔍';
   background-image: none;
 }
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -126,26 +137,15 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
   content: '✨';
   background-image: none;
 }
-div.callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
-  background-image: none;
-}
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
-}
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
-}
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -414,13 +414,13 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">3protocols.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Lab 3 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">3data.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Lab 3 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -511,7 +511,11 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sec-oxygen" id="toc-sec-oxygen" class="nav-link active" data-scroll-target="#sec-oxygen"><span class="header-section-number">28.1</span> Oxygen and Microbial Growth</a></li>
+  <li><a href="#sec-oxygen" id="toc-sec-oxygen" class="nav-link active" data-scroll-target="#sec-oxygen"><span class="header-section-number">28.1</span> Oxygen and Microbial Growth</a>
+  <ul class="collapse">
+  <li><a href="#thioglycollate-medium" id="toc-thioglycollate-medium" class="nav-link" data-scroll-target="#thioglycollate-medium"><span class="header-section-number">28.1.1</span> Thioglycollate medium</a></li>
+  <li><a href="#use-of-a-gaspak-system" id="toc-use-of-a-gaspak-system" class="nav-link" data-scroll-target="#use-of-a-gaspak-system"><span class="header-section-number">28.1.2</span> Use of a GasPak system</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -539,12 +543,47 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
 
 <section id="sec-oxygen" class="level2" data-number="28.1">
 <h2 data-number="28.1" class="anchored" data-anchor-id="sec-oxygen"><span class="header-section-number">28.1</span> Oxygen and Microbial Growth</h2>
-<p>There are a number of different techniques used in microbiology laboratories for achieving anaerobic conditions to permit the growth of different microbes. In this lab, you will use two different techniques: use of thioglycollate medium and use of an anaerobic jar. Working as a group of 4(??), you will inoculate your unknown microorganism and appropriate control organisms in thioglycollate medium and you will streak these on blood agar plates that will be incubated ± O2.</p>
-<p>Introduction: Thioglycollate medium</p>
-<p>This medium (Table 11) contains a reducing agent, sodium thioglycollate, that binds to and consumes O2 and thus maintains a low oxygen tension in the medium. The medium also contains a redox indicator, resazurin, which turns pink in an oxidized environment. It is essential to use fresh thioglycollate medium (as indicated by the absence of pink colour). Growth of organisms in thioglycollate medium will depend on their oxygen requirements, as illustrated in Figure 7.</p>
-<p>This system uses a sealed jar and a GasPak, which generates carbon dioxide and hydrogen; a palladium catalyst in the jar combines the hydrogen with oxygen (generating water); this then creates an anaerobic atmosphere in the jar (Figure 8). An indicator strip is used to verify that anaerobic conditions have been established: it contains methylene blue, which becomes colourless in the absence of oxygen.</p>
+<p>Oxygen is a key nutrient for the growth of many microbes; however, it can also be toxic (in particular to microbes which do not possess the enzymes required to detoxify reactive oxygen species). Microbes are often classified based on their growth requirement for oxygen (e.g., obligate anaerobes, facultative anaerobes, aerobes, etc.) While many human pathogens are able to at least tolerate the presence of oxygen, others (e.g., some of the pathogens that infect the intestinal tract) are strict anaerobes.</p>
+<p>There are a number of different techniques used in microbiology laboratories for achieving anaerobic conditions to permit the growth of different microbes. In this lab, you will use two different techniques: use of thioglycollate medium and use of an anaerobic jar.</p>
+<section id="thioglycollate-medium" class="level3" data-number="28.1.1">
+<h3 data-number="28.1.1" class="anchored" data-anchor-id="thioglycollate-medium"><span class="header-section-number">28.1.1</span> Thioglycollate medium</h3>
+<p>This medium contains a reducing agent, sodium thioglycollate, that binds to and consumes O<sub>2</sub> and thus maintains a low oxygen tension in the medium. The medium also contains a redox indicator, resazurin, which turns pink in an oxidized environment. It is essential to use fresh thioglycollate medium (as indicated by the absence of pink colour).</p>
+<p>Growth of organisms in thioglycollate medium will depend on their oxygen requirements (<a href="#fig-thioglycollate" class="quarto-xref">Figure&nbsp;<span>28.1</span></a>).</p>
+<div id="fig-thioglycollate" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-thioglycollate-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/thioglycollate.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-thioglycollate-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;28.1: Patterns of growth in thioglycollate medium
+</figcaption>
+</figure>
+</div>
+<ol type="1">
+<li><p>Aerobic organisms will grow at the surface, where the [O<sub>2</sub>] is highest.</p></li>
+<li><p>Obligate anaerobes will grow at the bottom of the culture tube, where the [O<sub>2</sub>] is lowest.</p></li>
+<li><p>Facultative anaerobes will grow throughout the tube, but exhibit more growth near the top (because they preferentially use aerobic respiration, which generates more ATP than anaerobic respiration or fermentation).</p></li>
+<li><p>Microaerophiles grow near but not at the surface, as they require O<sub>2</sub> for growth (they cannot grow anaerobically), but are inhibited by high [O<sub>2</sub>].</p></li>
+<li><p>Aerotolerant organisms grow throughout the tube: they do not use O<sub>2</sub> as an electron acceptor, but produce catalase and/or other enzymes for the detoxification of reactive oxygen species and are therefore not killed in the presence of O<sub>2</sub>.</p></li>
+</ol>
+</section>
+<section id="use-of-a-gaspak-system" class="level3" data-number="28.1.2">
+<h3 data-number="28.1.2" class="anchored" data-anchor-id="use-of-a-gaspak-system"><span class="header-section-number">28.1.2</span> Use of a GasPak system</h3>
+<p>This system uses a sealed jar and a GasPak, which generates carbon dioxide and hydrogen. A palladium catalyst in the jar combines the hydrogen with oxygen (generating water); this then creates an anaerobic atmosphere in the jar (<a href="#fig-gaspak" class="quarto-xref">Figure&nbsp;<span>28.2</span></a>).</p>
+<div id="fig-gaspak" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gaspak-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/gaspak.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gaspak-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;28.2: Patterns of growth in thioglycollate medium
+</figcaption>
+</figure>
+</div>
+<p>An indicator strip is used to verify that anaerobic conditions have been established: it contains methylene blue, which becomes colourless in the absence of oxygen.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -972,8 +1011,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./3protocols.html" class="pagination-link" aria-label="3protocols.html">
-        <span class="nav-page-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">3protocols.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./3protocols.html" class="pagination-link" aria-label="Lab 3 Protocols">
+        <span class="nav-page-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Lab 3 Protocols</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
