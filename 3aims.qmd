@@ -31,3 +31,28 @@ At the end of this laboratory session, you should understand:
 
 This laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.
 
+## Overview of Lab 3
+
+In this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:
+
+1. You will analyse the results from the blood agar plates you streaked in the previous lab session (Task 3A)
+
+2. You will use a selective and differential medium to cultivate unknown intestinal pathogens (MacConkey agar, Task 3B)
+
+3. You will perform some biochemical assays to help identify pathogens of the intestinal tract (catalase and oxidase assays, Task 3C)
+
+4. You will analyse an unknown microbe's requirement for oxygen (Task 3D)
+
+5. You will set up some cultures for our next lab session (inoculate <i>Staphylococcus aureus</i> on Mannitol Salt Agar, another selective and differential medium (Task 3E)
+
+::: {.todo title="To prepare for Lab 3"}
+
+Before attending the practical lab, you should ensure that you have read and understood:
+
+* The introductory sections covering the theory on [identification of intestinal pathogens](./3intro1.qmd), [selective and differential media](./3intro2.qmd), [biochemical tests](./3intro4.qmd), and [oxygen and microbial growth](./1intro5.qmd)
+
+* The [Protocols](./3protocols.qmd) we will be following in the lab
+
+You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
+
+:::

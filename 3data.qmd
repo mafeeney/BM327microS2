@@ -1,4 +1,52 @@
+---
+title: Lab 3 - Data Analysis
+---
 
+::: {.todo title="Lab 3 - Data Analysis Tasks"}
+
+After attending the practical lab, you should:
+
+* Compare the results from your blood agar plates with what is known in the literature (@sec-3Adata).
+
+* Compare the results of your biochemical tests with what is known in the literature (@sec-3Bdata).
+
+* Analyse the results from the API-20E test that was performed for you (@sec-APIdata)
+
+* In lab 4, you will examine and record the results from your MacConkey and Mannitol Salt Agar plates. You should reread @sec-MacConkey and @sec-MSA to make sure you understand what to expect in the next lab session, and how to interpret your data.
+
+* In lab 4, you will examine and record the results from your fluid thioglycollate cultures and your anaerobically incubated plates. You should reread @sec-oxygen to make sure you understand what to expect in the next lab session, and how to interpret your data.
+
+:::
+
+## Task 3A Data Analysis {#sec-3Adata}
+
+For the controls (<i>Enterococcus faecalis, Streptococcus pneumoniae, Streptococcus pyogenes</i>) - does the phenotype you observed match what you would expect based on the literature?
+
+How precisely can you identify your unknown based on your observations? 
+
+::: {#discussion-streak .discussion title="Interpreting the results from your blood agar plates"}
+
+**Questions to consider/discuss with your lab partners:**
+
+1. Are you confident in the accuracy of your results (are there any ways that your experiment could have yielded a false positive/false negative)?
+
+2. What other experiments might help you to identify your unknown?
+
+3. For Case Study 2 (suspected Group A Strep infection), what should the clinical microbiologist do next? What about the physician?
+
+:::
+
+::: {.discussion-hints title="Hints - interpreting the blood agar results" collapse="true"}
+
+1. Consider your aseptic technique, any other potential problems with your experiment...?
+
+2-3. You might find it helpful to refer to your lecture notes, the UK SMIDs for these organisms, or taxonomic resources such as Bergey's.
+
+:::
+
+## Task 3B Data Analysis {#sec-3Bdata}
+
+## API-20E Data Analysis {#sec-APIdata}
 
 
 ::: {#discussion-enterobacteria .discussion title="Discussion questions - identification of enterobacteria?"}

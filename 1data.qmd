@@ -74,7 +74,7 @@ To calculate the number of cfu/mL present in the original sample, divide the num
 
 ## Task 1B - Interpreting your Gel Results {#sec-1Bdata}
 
-When your gels have finished running, the technicians will place them on the UV transilluminator and take photographs of them for you. These will them be uploaded to MyPlace, where you will be able to download them.
+When your gels have finished running, the technicians will place them on the UV transilluminator and take photographs of them for you. These will them be uploaded to MyPlace, where you will be able to download them. Your results will probably look something like this: @fig-miniprepgel. 
 
 ![Examples of plasmid miniprep DNA run on an agarose gel.](images/miniprep-gel.jpg){#fig-miniprepgel}
 

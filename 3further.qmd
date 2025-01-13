@@ -2,6 +2,21 @@
 title: "Additional Resources/Further Reading for Lab 3"
 ---
 
-## header
+## Further Reading for the Media/Protocols used in Lab 3
 
 * <a href="https://asm.org/ASM/media/Protocol-Images/MacConkey-Agar-Plates-Protocols.pdf?ext=.pdf">MacConkey Agar Plates Protocols (ASM)</a>
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/Mannitol-Salt-Agar-Plates-Protocols.pdf?ext=.pdf">Mannitol Salt Agar Protocols (ASM)</a>
+
+* <a href="https://asm.org/getattachment/00ce8639-8e76-4acb-8591-0f7b22a347c6/oxidase-test-protocol-3229.pdf">Oxidase Test (ASM)</a>
+
+* <a href="https://asm.org/getattachment/72a871fc-ba92-4128-a194-6f1bab5c3ab7/Catalase-Test-Protocol.pdf">Catalase Test (ASM)</a>
+
+## UK SMIs for organisms used in Lab 3
+
+* <a href="https://www.rcpath.org/static/28c29e82-88c1-4dd3-8f73ba01fa251d49/uk-smi-id-16i4-identification-of-enterobacteriaceae-april-2015-pdf.pdf">UK Standards for Microbiology Investigations - Identification of Enterobacteriaceae</a>
+
+* <a href="https://www.rcpath.org/static/519653fe-d8af-46fe-93dd50631ad6dcc0/uk-smi-id-8i4-1-identification-of-clostridium-species-march-2016-pdf.pdf">UK Standards for Microbiology Investigations - Investigation of Clostridium species</a>
+
+
+

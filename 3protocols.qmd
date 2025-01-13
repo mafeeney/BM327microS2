@@ -1,1 +1,7 @@
-In Lab 3, you will perform the following tasks:
+---
+title: Lab 3 Protocols
+---
+
+You can view the handout for lab 3 below, or download it [here](./handouts/Lab3.pdf).
+
+{{< pdf ./handouts/Lab3.pdf width=100% height=400 >}}
