@@ -8,7 +8,7 @@ After attending the practical lab, you should:
 
 * Compare the results from your blood agar plates with what is known in the literature (@sec-3Adata).
 
-* Compare the results of your biochemical tests with what is known in the literature (@sec-3Bdata).
+* Compare the results of your biochemical tests with what is known in the literature (@sec-3BCdata).
 
 * Analyse the results from the API-20E test that was performed for you (@sec-APIdata)
 
@@ -44,17 +44,38 @@ How precisely can you identify your unknown based on your observations?
 
 :::
 
-## Task 3B Data Analysis {#sec-3Bdata}
+## Task 3B and 3C Data Analysis {#sec-3BCdata}
 
-## API-20E Data Analysis {#sec-APIdata}
+In the next lab session, you will be able to observe your MacConkey agar plates. You will examine the colony morphology and lactose fermentation phenotype on each plate in order to help identify your unknown. (You should look back at @sec-MacConkey if you need to review the expected phenotypes on this agar.)
+
+You should also use the results from your oxidase and catalase tests (Task 3C), as well as the results from the API-20E experiment that was performed for you (@sec-API20E), to identify your unknown. 
+
+For the controls you used in the oxidase and catalase tests - do the phenotypes you observed match what you would expect based on the literature?
+
+For your unknown - what phenotypes did you observe, and what can you conclude from them?
+
+Are you confident in the accuracy of your results (are there any ways that your experiment could have yielded a false positive/false negative)?
+
+### API-20E Data Analysis {#sec-APIdata}
+
+You can download the data from the API test that was performed for you, as well as an interpretation guide, [here](./handouts/API-data.docx).
+
+Use the <a href="https://bacdive.dsmz.de/api-test-finder">API test finder</a> from <a href="https://bacdive.dsmz.de/">BacDive</a> to look up your unknowns. You can should also use the BacDive database to look up the expected results for the suspected pathogens that might be present in the spinach. 
+
+Are you confident in the identification of the unknowns? What other experiments could you perform that would help to precisely identify these unknowns?
 
 
 ::: {#discussion-enterobacteria .discussion title="Discussion questions - identification of enterobacteria?"}
 
 **Questions to consider/discuss with your lab partners:**
 
+1. Is there any variation observed within the API-20E test results for a given species? 
 
+2. What are the strengths/weaknesses of using the API-20E system to identify an unknown?
+
+3. 
 :::
 
 ::: {.discussion-hints title="Hints - identification of enterobacteria" collapse="true"}
 :::
+
