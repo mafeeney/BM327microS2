@@ -71,28 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -102,6 +80,17 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -115,6 +104,17 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
+div.callout-discussion-hints.callout {
+  border-left-color: #952dae;
+}
+div.callout-discussion-hints.callout-style-default > .callout-header {
+  background-color: rgba(149, 45, 174, 0.13);
+}
+div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
 div.callout-thumbs-up.callout {
   border-left-color: #008000;
 }
@@ -126,15 +126,15 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
-div.callout-discussion-hints.callout {
-  border-left-color: #952dae;
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-discussion-hints.callout-style-default > .callout-header {
-  background-color: rgba(149, 45, 174, 0.13);
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
   background-image: none;
 }
 div.callout-todo.callout {
@@ -511,7 +511,7 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sec-API20E" id="toc-sec-API20E" class="nav-link active" data-scroll-target="#sec-API20E"><span class="header-section-number">26.1</span> Using an API-20E test for the identification of <i>Escherichia, Salmonella, and Shigella</i> sp.</a></li>
+  <li><a href="#sec-API20E" id="toc-sec-API20E" class="nav-link active" data-scroll-target="#sec-API20E"><span class="header-section-number">26.1</span> Using an </a><a href="https://www.biomerieux-usa.com/clinical/api" class="nav-link" data-scroll-target="https\://www.biomerieux-usa.com/clinical/api">API-20E test</a> for the identification of <i>Escherichia, Salmonella, and Shigella</i> sp.</li>
   </ul>
 </nav>
     </div>
@@ -538,29 +538,19 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
 
 
 <section id="sec-API20E" class="level2" data-number="26.1">
-<h2 data-number="26.1" class="anchored" data-anchor-id="sec-API20E"><span class="header-section-number">26.1</span> Using an API-20E test for the identification of <i>Escherichia, Salmonella, and Shigella</i> sp.</h2>
-<p>This diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae. Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them. By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.</p>
-<p>Because of the long time between two laboratory sessions in this course (2 weeks), we are unable to perform the API-20E test (instead, this experiment has been performed for you and the results posted here).</p>
-<p>Protocol 3.2: Setting up an API-20E strip test.</p>
-<ol type="1">
-<li><p>Working in groups, place a small amount of water in the incubation tray (under the API strip itself) to provide humidity during incubation.</p></li>
-<li><p>Prepare a milky (visibly turbid) suspension of your organism in sterile water.</p></li>
-<li><p>Use a plastic sterile pipette to half-fill test wells of your API strip with the above suspension (Holding the strip at a slight angle as well as letting the end of the pipette touch the side of a well will make this easier. Make sure all air bubbles are eliminated).</p></li>
-<li><p>When there is a line under a well (ADH, LDC, ODC, H2S, URE), add sterile mineral oil to completely fill in the well.</p></li>
-<li><p>When there is a box under a well (CIT, VP and GEL), add some more bacterial suspension to completely fill in the well.</p></li>
-<li><p>Place the plastic lid back on and label the tray with your name, date and organism code.</p></li>
-<li><p>Incubate at 37°C for 24 hours.</p></li>
-</ol>
-<p>Interpretation of API 20E Protocol 5.3: Completing the API 20E strip assay.</p>
-<ol type="1">
-<li><p>Add one drop of reagent TDA (10% ferric chloride) to the well labelled as TDA.</p></li>
-<li><p>Add one drop of reagent IND (Kovacs’ reagent) to the well labelled as IND.</p></li>
-<li><p>Add one drop of reagent VP1 (40% KOH), THEN add one drop of reagent VP2 (6% alpha-naphtol) to the well labelled as VP.</p></li>
-<li><p>Wait for 10 min to observe colour changes.</p></li>
-<li><p>Read the colour reactions obtained for each well, and record your results (as positive or negative) on the provided slip.</p></li>
-<li><p>Give either 1, 2, or 4 points for positive reactions, 0 points for a negative reaction. Three test reactions are added together at a time to give your 7-digit API number which can be looked up in the codebook.</p></li>
-<li><p>You will be given an API 20E score sheet. Stick this into your laboratory notebook and use it to generate a profile number for the unknown culture. Look up the profile number in the API 20E index book to identify the organism. Record your results in Table 5.2.</p></li>
-</ol>
+<h2 data-number="26.1" class="anchored" data-anchor-id="sec-API20E"><span class="header-section-number">26.1</span> Using an <a href="https://www.biomerieux-usa.com/clinical/api">API-20E test</a> for the identification of <i>Escherichia, Salmonella, and Shigella</i> sp.</h2>
+<p>This diagnostic test uses 21 miniaturised biochemical tests and a database to identify an unknown microorganism that is suspected of being a member of the Enterobacteriaceae. Tests are grouped together in units of three and individual tests have a value of 1, 2 or 4 associated with them (<a href="#fig-api" class="quarto-xref">Figure&nbsp;<span>26.1</span></a>). By adding the values corresponding to positive reactions within each group, a 7-digit code (Analytical Profile Index) is generated that should reference a specific microorganism in the manufacturer’s database. The database also gives an indication of the confidence of the result.</p>
+<p>Because of the long time between two laboratory sessions in this course (2 weeks), we are unable to perform the API-20E test during this lab (instead, this experiment has been performed for you and the results posted for you).</p>
+<div id="fig-api" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-api-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/api.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-api-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;26.1: Example of an API-20E test performed on an E. coli isolate. Top: API strip. Bottom: API scoring sheet.
+</figcaption>
+</figure>
+</div>
 
 
 </section>

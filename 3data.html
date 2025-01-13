@@ -71,6 +71,17 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
+}
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
+}
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
+  background-image: none;
+}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -93,15 +104,15 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
   content: '✨';
   background-image: none;
 }
-div.callout-todo.callout {
-  border-left-color: pink;
+div.callout-data.callout {
+  border-left-color: #32CD32;
 }
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
 }
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
   background-image: none;
 }
 div.callout-case-study.callout {
@@ -126,26 +137,15 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
+div.callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
-  background-image: none;
-}
-div.callout-data.callout {
-  border-left-color: #32CD32;
-}
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
-}
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 </style>
@@ -512,8 +512,10 @@ div.callout-data.callout-style-default .callout-icon::before, div.callout-data.c
    
   <ul>
   <li><a href="#sec-3Adata" id="toc-sec-3Adata" class="nav-link active" data-scroll-target="#sec-3Adata"><span class="header-section-number">30.1</span> Task 3A Data Analysis</a></li>
-  <li><a href="#sec-3Bdata" id="toc-sec-3Bdata" class="nav-link" data-scroll-target="#sec-3Bdata"><span class="header-section-number">30.2</span> Task 3B Data Analysis</a></li>
-  <li><a href="#sec-APIdata" id="toc-sec-APIdata" class="nav-link" data-scroll-target="#sec-APIdata"><span class="header-section-number">30.3</span> API-20E Data Analysis</a></li>
+  <li><a href="#sec-3BCdata" id="toc-sec-3BCdata" class="nav-link" data-scroll-target="#sec-3BCdata"><span class="header-section-number">30.2</span> Task 3B and 3C Data Analysis</a>
+  <ul class="collapse">
+  <li><a href="#sec-APIdata" id="toc-sec-APIdata" class="nav-link" data-scroll-target="#sec-APIdata"><span class="header-section-number">30.2.1</span> API-20E Data Analysis</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -552,8 +554,8 @@ Lab 3 - Data Analysis Tasks
 <p>After attending the practical lab, you should:</p>
 <ul>
 <li><p>Compare the results from your blood agar plates with what is known in the literature (<a href="#sec-3Adata" class="quarto-xref"><span>Section 30.1</span></a>).</p></li>
-<li><p>Compare the results of your biochemical tests with what is known in the literature (<a href="#sec-3Bdata" class="quarto-xref"><span>Section 30.2</span></a>).</p></li>
-<li><p>Analyse the results from the API-20E test that was performed for you (<a href="#sec-APIdata" class="quarto-xref"><span>Section 30.3</span></a>)</p></li>
+<li><p>Compare the results of your biochemical tests with what is known in the literature (<a href="#sec-3BCdata" class="quarto-xref"><span>Section 30.2</span></a>).</p></li>
+<li><p>Analyse the results from the API-20E test that was performed for you (<a href="#sec-APIdata" class="quarto-xref"><span>Section 30.2.1</span></a>)</p></li>
 <li><p>In lab 4, you will examine and record the results from your MacConkey and Mannitol Salt Agar plates. You should reread <a href="3intro2.html#sec-MacConkey" class="quarto-xref"><span>Section 25.1.1</span></a> and <a href="3intro2.html#sec-MSA" class="quarto-xref"><span>Section 25.1.2</span></a> to make sure you understand what to expect in the next lab session, and how to interpret your data.</p></li>
 <li><p>In lab 4, you will examine and record the results from your fluid thioglycollate cultures and your anaerobically incubated plates. You should reread <a href="3intro5.html#sec-oxygen" class="quarto-xref"><span>Section 28.1</span></a> to make sure you understand what to expect in the next lab session, and how to interpret your data.</p></li>
 </ul>
@@ -601,11 +603,18 @@ Hints - interpreting the blood agar results
 </div>
 </div>
 </section>
-<section id="sec-3Bdata" class="level2" data-number="30.2">
-<h2 data-number="30.2" class="anchored" data-anchor-id="sec-3Bdata"><span class="header-section-number">30.2</span> Task 3B Data Analysis</h2>
-</section>
-<section id="sec-APIdata" class="level2" data-number="30.3">
-<h2 data-number="30.3" class="anchored" data-anchor-id="sec-APIdata"><span class="header-section-number">30.3</span> API-20E Data Analysis</h2>
+<section id="sec-3BCdata" class="level2" data-number="30.2">
+<h2 data-number="30.2" class="anchored" data-anchor-id="sec-3BCdata"><span class="header-section-number">30.2</span> Task 3B and 3C Data Analysis</h2>
+<p>In the next lab session, you will be able to observe your MacConkey agar plates. You will examine the colony morphology and lactose fermentation phenotype on each plate in order to help identify your unknown. (You should look back at <a href="3intro2.html#sec-MacConkey" class="quarto-xref"><span>Section 25.1.1</span></a> if you need to review the expected phenotypes on this agar.)</p>
+<p>You should also use the results from your oxidase and catalase tests (Task 3C), as well as the results from the API-20E experiment that was performed for you (<a href="3intro3.html#sec-API20E" class="quarto-xref"><span>Section 26.1</span></a>), to identify your unknown.</p>
+<p>For the controls you used in the oxidase and catalase tests - do the phenotypes you observed match what you would expect based on the literature?</p>
+<p>For your unknown - what phenotypes did you observe, and what can you conclude from them?</p>
+<p>Are you confident in the accuracy of your results (are there any ways that your experiment could have yielded a false positive/false negative)?</p>
+<section id="sec-APIdata" class="level3" data-number="30.2.1">
+<h3 data-number="30.2.1" class="anchored" data-anchor-id="sec-APIdata"><span class="header-section-number">30.2.1</span> API-20E Data Analysis</h3>
+<p>You can download the data from the API test that was performed for you, as well as an interpretation guide, <a href="./handouts/API-data.docx">here</a>.</p>
+<p>Use the <a href="https://bacdive.dsmz.de/api-test-finder">API test finder</a> from <a href="https://bacdive.dsmz.de/">BacDive</a> to look up your unknowns. You can should also use the BacDive database to look up the expected results for the suspected pathogens that might be present in the spinach.</p>
+<p>Are you confident in the identification of the unknowns? What other experiments could you perform that would help to precisely identify these unknowns?</p>
 <div class="callout callout-style-default callout-discussion callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -617,6 +626,11 @@ Discussion questions - identification of enterobacteria?
 </div>
 <div class="callout-body-container callout-body">
 <p><strong>Questions to consider/discuss with your lab partners:</strong></p>
+<ol type="1">
+<li><p>Is there any variation observed within the API-20E test results for a given species?</p></li>
+<li><p>What are the strengths/weaknesses of using the API-20E system to identify an unknown?</p></li>
+<li></li>
+</ol>
 </div>
 </div>
 <div class="callout callout-style-default callout-discussion-hints callout-titled">
@@ -637,6 +651,7 @@ Hints - identification of enterobacteria
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
