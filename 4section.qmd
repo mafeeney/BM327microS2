@@ -6,7 +6,7 @@ Please use the links below (or in the left sidebar) to navigate through the mate
 
 <center>[Aims](./4aims.qmd) 
 
-Background: [Identification of staphylococci](./4intro1.qmd) | [MLVA typing](./4intro2.qmd) | [Antibiotic resistance assays](./4intro3.qmd) |  
+Background: [Identification of staphylococci](./4intro1.qmd) | [Biochemical assays: lysostaphin and coagulase](./4intro2.qmd) | [MLVA typing](./4intro3.qmd) | [Antibiotic resistance assays](./4intro4.qmd) |  
 
 [Protocols](./4protocols.qmd) 
 

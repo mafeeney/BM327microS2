@@ -76,6 +76,7 @@ book:
         - 4intro1.qmd
         - 4intro2.qmd
         - 4intro3.qmd
+        - 4intro4.qmd
         - 4protocols.qmd
         - 4data.qmd
     

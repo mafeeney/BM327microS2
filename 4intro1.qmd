@@ -6,7 +6,19 @@ title: "Identification of staphylococci"
 
 There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (TASK 4A), biochemical assays (TASK 4B), and a PCR-based technique called MVLA typing (TASK 4C).
 
-Staphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although Staphylococcus aureus and Staphylococcus epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you carried out in laboratory session 1), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 14).
+<i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, @sec-gramstain), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 1).
+
+| Characteristic | *S. aureus*  | *S. epidermidis*  | Micrococci  |
+|--------|--------|--------|--------|
+| Catalase activity  | +   | +   | +   |       
+| Coagulase production   | +   | -   | -   |
+| Thermostable nuclease production | +   | -  | -   |
+| Lysostaphin sensitivity | +   | +   | -   |
+| Anaerobic utilisation of glucose | +   | +   | -   |
+| Anaerobic utilisation of mannitol | +   | -  | -   |
+: typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci {.striped .hover}
+
+
 
 
 ::: {.case-study title="Case Study 5"}

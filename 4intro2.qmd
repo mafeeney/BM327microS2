@@ -1,3 +1,41 @@
 ---
-title: "MLVA typing"
+title: "Biochemical assays: lysostaphin and coagulase"
 ---
+
+## Biochemical assays
+
+### Lysostaphin assay
+
+A diagnostic characteristic of staphylococci is their sensitivity to lysostaphin, an enzyme that cleaves the pentaglycine bridge present in the peptidoglycan cell wall of these microorganisms (@fig-lysostaphin). (Other Gram-positive bacteria like <i>Micrococcus</i> sp. lack this pentaglycine bridge and are therefore resistant to lysostaphin.)
+
+![The structure of staphylococcal peptidoglycan, showing the pentaglycine crossbridge that gives lysostaphin sensitivity (Image credit: <a href="10.1039/b607999g">Warfield et al 2006</a>)](images/PG_lysostaphin.jpg){#fig-lysostaphin}
+
+<b>Protocol: Lysostaphin sensitivity test</b>
+
+1.	Use a sterilised inoculating loop to transfer an isolated colony from agar plate to a tube containing 0.2 ml phosphate-saline buffer, and emulsify the colony in the buffer until the cells are well-suspended.
+
+2.	Transfer half of the suspended cells to another tube and mix with 0.1 ml phosphate-saline buffer (this will be your control reaction).
+
+3.	Add 0.1 ml lysostaphin (dissolved in 0.02 M phosphate-saline buffer containing 1% NaCl) to original tube for concentration of 25 µg lysostaphin/ml.
+
+4.	Incubate both tubes at 37°C for two hours.
+
+Interpretation
+
+A positive reaction is detected by clearing of bacterial turbidity (cell lysis).
+The test is considered negative if clearing has not occurred after 2 hours.
+
+### Coagulase assay
+
+Coagulase is an enzyme that has prothrombin-like activity and is capable of converting plasma fibrinogen to fibrin with resultant clot formation. 
+
+Coagulase can be present in two forms, “free” and “bound” each having different properties and requiring different testing procedures. 
+
+In this laboratory we will use the more rapid test for bound coagulase, the so-called slide test (@fig-coagulaseslide)
+
+![Results from a slide test for coagulase activity. Left: a negative result. Right: a positive result.](images/coagulase-slide.png){#fig-coagulaseslide}
+
+As not all strains of <i>Staphylococcus aureus</i> express bound coagulase a negative test result requires the free coagulase (tube) test to be performed for absolute confirmation (@fig-coagulasetube).
+
+![Results from a tube test for coagulase activity. Left: a negative result. Right: a positive result.](images/coagulase-tube.png){#fig-coagulasetube}
+

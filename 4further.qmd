@@ -4,3 +4,6 @@ title: "Additional Resources/Further Reading for Lab 4"
 
 ## header here
 
+* <a href="https://www.rcpath.org/static/db5f13cb-53ca-4e9e-a0937b78b610d0ac/4dde3cf8-f775-4f31-9a351b100e2742af/uk-smi-id-7i4-identification-of-staphylococcus-species-micrococcus-species-and-rothia-species-may-2020-pdf.pdf">UK Standards for Microbiology Investigations: Identification of <i>Staphylococcus</i> species, <i>Micrococcus</i> species and <i>Rothia</i> species</a>
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/Coagulase-Test-Protocol.pdf?ext=.pdf">Coagulase Test Protocol (ASM)</a>
