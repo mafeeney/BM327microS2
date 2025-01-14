@@ -1,0 +1,9 @@
+---
+title: Appendix
+---
+
+Please use the links below (or in the left sidebar) to navigate through the appendices.
+
+[Basic Lab Calculations](./Zcalcs.qmd)  
+
+[Media Recipes](./Zrecipes.qmd) 

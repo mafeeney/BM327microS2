@@ -4,7 +4,7 @@ title: "Laboratory 2 - Microbial Identification"
 
 Please use the links below (or in the left sidebar) to navigate through the materials for Lab 2.
 
-<center>| [Aims](./2aims.qmd) | 
+<center>[Aims and Overview](./2aims.qmd) 
 
 Background: [Microbial Identification](./2intro1.qmd) |  [Differential and Selective Media](./2intro2.qmd) | [Differential Staining - the Gram Stain](./2intro3.qmd) | [Moulds and Fungi](./2intro4.qmd) | 
 

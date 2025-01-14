@@ -1,9 +1,9 @@
-# Aim
+## Aim
 
 To understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.
 
 
-# Learning Outcomes
+## Learning Outcomes
 
 At the end of this laboratory session, you should understand:
 
@@ -14,7 +14,7 @@ At the end of this laboratory session, you should understand:
 *	How to analyse and identify microbes through their ability to grow aerobically or anaerobically.
 
 
-# Competencies
+## Competencies
 
 * Using aseptic technique
 
@@ -27,7 +27,7 @@ At the end of this laboratory session, you should understand:
 *	Documenting and reporting on experimental results and conclusions
 
 
-# Importance
+## Importance
 
 This laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.
 

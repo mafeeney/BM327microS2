@@ -73,7 +73,9 @@ book:
     - part: 4section.qmd
       chapters: 
         - 4aims.qmd
-        - 4intro.qmd
+        - 4intro1.qmd
+        - 4intro2.qmd
+        - 4intro3.qmd
         - 4protocols.qmd
         - 4data.qmd
     
@@ -83,6 +85,11 @@ book:
         - 5intro.qmd
         - 5protocols.qmd
         - 5data.qmd
+        
+    - part: Zappendix.qmd
+      chapters: 
+        - Zcalcs.qmd
+        - Zrecipes.qmd
 
   # Sidebar tools for quick navigation
   sidebar:

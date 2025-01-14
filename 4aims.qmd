@@ -1,4 +1,4 @@
-Aims
+## Aims
 
 * To understand how to identify unknown microorganisms using molecular and media-based techniques
 
@@ -7,7 +7,7 @@ Aims
 * To understand how to carry out PCR and interpret the results from multiplexed reactions
 
 
-# Learning Outcomes
+## Learning Outcomes
 
 At the end of this laboratory session, you should understand:
 
@@ -18,11 +18,43 @@ At the end of this laboratory session, you should understand:
 *	How to use PCR to identify microorganisms
 
 
-# Competencies
+## Competencies
 
 {{< include ./_includes/lab4comp.qmd >}}
 
 
-# Importance
+## Importance
 
 This laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.
+
+## Importance
+
+This laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.
+
+## Overview of Lab 4
+
+In this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:
+
+1. You will analyse the results from the Mannitol Salt Agar plates you streaked in the previous lab session (Task 4A)
+
+2. You will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)
+
+3. You will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) analysis to help identify your unknown <i>Staphylococcus aureus</i> strain.
+
+4. You will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))
+
+5. You will set up plates for the next lab (analysing the antibiotic resistance of <i>Pseudomonas</i> isolates)
+
+::: {.todo title="To prepare for Lab 4"}
+
+Before attending the practical lab, you should ensure that you have read and understood:
+
+* The introductory sections covering the theory on [identification of intestinal pathogens](./3intro1.qmd), 
+
+* The [Protocols](./4protocols.qmd) we will be following in the lab
+
+* The calculations required for your antibiotic resistance experiment
+
+You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
+
+:::
