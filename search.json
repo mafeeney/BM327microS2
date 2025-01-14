@@ -24,7 +24,7 @@
     "href": "0section.html",
     "title": "Introduction",
     "section": "",
-    "text": "Lab Safety | Aims | Competencies and Learning Outcomes | Schedule of Experimental Tasks | Assessment\n Good Laboratory Technique |Aseptic Technique |Using a Microscope",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the introductory materials.\n\nGeneral Course Information:\nLab Safety\nAims\nCompetencies and Learning Outcomes\nSchedule of Experimental Tasks\nAssessment\nGeneral Microbiology Lab Info - required reading\nGood Laboratory Technique\nAseptic Technique\nUsing a Microscope",
     "crumbs": [
       "Introduction"
     ]
@@ -418,7 +418,7 @@
     "href": "2section.html",
     "title": "Laboratory 2 - Microbial Identification",
     "section": "",
-    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 2.\n\nAims |\nBackground: Microbial Identification | Differential and Selective Media | Differential Staining - the Gram Stain | Moulds and Fungi |\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 2.\n\nAims and Overview\nBackground: Microbial Identification | Differential and Selective Media | Differential Staining - the Gram Stain | Moulds and Fungi |\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 2 - Microbial Identification"
     ]
@@ -714,7 +714,7 @@
     "href": "3section.html",
     "title": "Laboratory 3 - Pathogens of the Intestinal Tract",
     "section": "",
-    "text": "Aims | Background: Identification of Intestinal Pathogens | More Examples of Selective and Differential Media | API-20E Tests | Biochemical Tests - Oxidase and Catalase |Oxygen and Microbial Growth | Protocols | Data Analysis | Additional Resources/Further Reading",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 3.\n\nAims and Overview |\nBackground: Identification of Intestinal Pathogens | More Examples of Selective and Differential Media | API-20E Tests | Biochemical Tests - Oxidase and Catalase |Oxygen and Microbial Growth |\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract"
     ]
@@ -724,7 +724,40 @@
     "href": "3aims.html",
     "title": "23  Aim",
     "section": "",
-    "text": "24 Learning Outcomes\nTo understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.\nAt the end of this laboratory session, you should understand:",
+    "text": "23.1 Learning Outcomes\nTo understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.\nAt the end of this laboratory session, you should understand:",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#learning-outcomes",
+    "href": "3aims.html#learning-outcomes",
+    "title": "23  Aim",
+    "section": "",
+    "text": "How to identify pathogens of the intestinal tract using differential and selective media.\nHow to identify pathogens of the intestinal tract using and an API-20E set of biochemical tests.\nHow to analyse and identify microbes through their ability to grow aerobically or anaerobically.",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#competencies",
+    "href": "3aims.html#competencies",
+    "title": "23  Aim",
+    "section": "23.2 Competencies",
+    "text": "23.2 Competencies\n\nUsing aseptic technique\nPipetting\nAnaerobic cultivation of microbes\nUsing appropriate methods to identify microorganisms (differential media, tests)\nDocumenting and reporting on experimental results and conclusions",
+    "crumbs": [
+      "Laboratory 3 - Pathogens of the Intestinal Tract",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
+    ]
+  },
+  {
+    "objectID": "3aims.html#importance",
+    "href": "3aims.html#importance",
+    "title": "23  Aim",
+    "section": "23.3 Importance",
+    "text": "23.3 Importance\nThis laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
@@ -734,8 +767,8 @@
     "objectID": "3aims.html#overview-of-lab-3",
     "href": "3aims.html#overview-of-lab-3",
     "title": "23  Aim",
-    "section": "26.1 Overview of Lab 3",
-    "text": "26.1 Overview of Lab 3\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will analyse the results from the blood agar plates you streaked in the previous lab session (Task 3A)\nYou will use a selective and differential medium to cultivate unknown intestinal pathogens (MacConkey agar, Task 3B)\nYou will perform some biochemical assays to help identify pathogens of the intestinal tract (catalase and oxidase assays, Task 3C)\nYou will analyse an unknown microbe’s requirement for oxygen (Task 3D)\nYou will set up some cultures for our next lab session (inoculate Staphylococcus aureus on Mannitol Salt Agar, another selective and differential medium (Task 3E)\n\n\n\n\n\n\n\nTo prepare for Lab 3\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens, selective and differential media, biochemical tests, and oxygen and microbial growth\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
+    "section": "23.4 Overview of Lab 3",
+    "text": "23.4 Overview of Lab 3\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will analyse the results from the blood agar plates you streaked in the previous lab session (Task 3A)\nYou will use a selective and differential medium to cultivate unknown intestinal pathogens (MacConkey agar, Task 3B)\nYou will perform some biochemical assays to help identify pathogens of the intestinal tract (catalase and oxidase assays, Task 3C)\nYou will analyse an unknown microbe’s requirement for oxygen (Task 3D)\nYou will set up some cultures for our next lab session (inoculate Staphylococcus aureus on Mannitol Salt Agar, another selective and differential medium (Task 3E)\n\n\n\n\n\n\n\nTo prepare for Lab 3\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens, selective and differential media, biochemical tests, and oxygen and microbial growth\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
       "Laboratory 3 - Pathogens of the Intestinal Tract",
       "<span class='chapter-number'>23</span>  <span class='chapter-title'>Aim</span>"
@@ -944,7 +977,7 @@
     "href": "4section.html",
     "title": "Laboratory 4 - Pathogens of the Circulatory System and Skin",
     "section": "",
-    "text": "Aims | Intro | Protocols | Data Analysis",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 4.\n\nAims\nBackground: Identification of staphylococci | MLVA typing | Antibiotic resistance assays |\nProtocols\nData Analysis\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin"
     ]
@@ -952,34 +985,111 @@
   {
     "objectID": "4aims.html",
     "href": "4aims.html",
-    "title": "32  Learning Outcomes",
+    "title": "32  Aims",
     "section": "",
-    "text": "Aims\n\nTo understand how to identify unknown microorganisms using molecular and media-based techniques\nTo understand how to isolate and analyse plasmid DNA from microorganisms\nTo understand how to carry out PCR and interpret the results from multiplexed reactions\n\nAt the end of this laboratory session, you should understand:\n\nHow to use differential media to identify microorganisms\nHow to use MVLA typing to identify microorganisms\nHow to use PCR to identify microorganisms\n\n\n33 Competencies\n\n\n34 Importance\nThis laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.",
+    "text": "32.1 Learning Outcomes\nAt the end of this laboratory session, you should understand:",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Learning Outcomes</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
   {
-    "objectID": "4intro.html",
-    "href": "4intro.html",
-    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "objectID": "4aims.html#learning-outcomes",
+    "href": "4aims.html#learning-outcomes",
+    "title": "32  Aims",
     "section": "",
-    "text": "Introduction: Identification of staphylococci\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (TASK 4A), biochemical assays (TASK 4B), and a PCR-based technique called MVLA typing (TASK 4C).\nStaphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although Staphylococcus aureus and Staphylococcus epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you carried out in laboratory session 1), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 14).\nCASE STUDY 5: Epidemiology of an MRSA outbreak\nA number of patients at the local hospital have been acquiring secondary infections after seeing Dr. X for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.\nAs a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).\nYou have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (TASK 4A).\nYour goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (Appendix 03); you will next determine whether they are Staphylococcus aureus or other Staphylococci using a diagnostic coagulase test (TASK 4B). Finally, you will further identify your Staphylococcus aureus isolate using MVLA typing (TASK 4C).\nIntroduction: MLVA typing\nadd intro hereeeeeee",
+    "text": "How to use differential media to identify microorganisms\nHow to use MVLA typing to identify microorganisms\nHow to use PCR to identify microorganisms",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>33</span>  <span class='chapter-title'>4intro.html</span>"
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#competencies",
+    "href": "4aims.html#competencies",
+    "title": "32  Aims",
+    "section": "32.2 Competencies",
+    "text": "32.2 Competencies",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#importance",
+    "href": "4aims.html#importance",
+    "title": "32  Aims",
+    "section": "32.3 Importance",
+    "text": "32.3 Importance\nThis laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#importance-1",
+    "href": "4aims.html#importance-1",
+    "title": "32  Aims",
+    "section": "32.4 Importance",
+    "text": "32.4 Importance\nThis laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
+    ]
+  },
+  {
+    "objectID": "4aims.html#overview-of-lab-4",
+    "href": "4aims.html#overview-of-lab-4",
+    "title": "32  Aims",
+    "section": "32.5 Overview of Lab 4",
+    "text": "32.5 Overview of Lab 4\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will analyse the results from the Mannitol Salt Agar plates you streaked in the previous lab session (Task 4A)\nYou will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)\nYou will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) analysis to help identify your unknown Staphylococcus aureus strain.\nYou will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))\nYou will set up plates for the next lab (analysing the antibiotic resistance of Pseudomonas isolates)\n\n\n\n\n\n\n\nTo prepare for Lab 4\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens,\nThe Protocols we will be following in the lab\nThe calculations required for your antibiotic resistance experiment\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Aims</span>"
+    ]
+  },
+  {
+    "objectID": "4intro1.html",
+    "href": "4intro1.html",
+    "title": "33  Identification of staphylococci",
+    "section": "",
+    "text": "33.1 Identification of staphylococci\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (TASK 4A), biochemical assays (TASK 4B), and a PCR-based technique called MVLA typing (TASK 4C).\nStaphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although Staphylococcus aureus and Staphylococcus epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you carried out in laboratory session 1), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 14).",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Identification of staphylococci</span>"
+    ]
+  },
+  {
+    "objectID": "4intro1.html#identification-of-staphylococci",
+    "href": "4intro1.html#identification-of-staphylococci",
+    "title": "33  Identification of staphylococci",
+    "section": "",
+    "text": "Case Study 5\n\n\n\nCASE STUDY 5: Epidemiology of an MRSA outbreak\nA number of patients at the local hospital have been acquiring secondary infections after seeing Dr. X for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.\nAs a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).\nYou have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (TASK 4A).\nYour goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (?sec-lysostaphin); you will next determine whether they are Staphylococcus aureus or other Staphylococci using a diagnostic coagulase test (Task 4B). Finally, you will further identify your Staphylococcus aureus isolate using MVLA typing (Task 4C).",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>Identification of staphylococci</span>"
     ]
   },
   {
     "objectID": "4protocols.html",
     "href": "4protocols.html",
-    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "title": "36  Lab 4 Protocols",
     "section": "",
-    "text": "TASK 4A: Microbial colonies on MSA plates (from Task 2E)\nYou will analyse the growth and colony morphology of the unknown pathogen on MSA agar, and also the growth and colony morphology of your own nasal flora (from the plates you inoculated in laboratory session 2, Task 2E). You have also been provided with cultures of type strains of Staphylococcus aureus and Staphylococcus epidermidis grown on MSA agar as controls. Record your observations in Table 4.2.\nProtocol 4.2: Coagulase slide test.\n\nPlace a drop of sterile water on a glass slide.\nUsing a flamed loop, that has been allowed to cool, remove an isolated colony from the culture plate and gently emulsify on the slide with the drop of sterile water. \nPlace a drop of plasma immediately adjacent to the bacterial suspension and mix the two samples together.\nGently tilt the slide back and forwards, observing for the immediate formation of a white precipitate.\n\nInterpretation\nA positive reaction (formation of white precipitate) is typically detected 15 – 20 seconds. The test is considered negative if clumping is not observed within 2 – 3 minutes.\nSetting up PCR reaction mixtures\n• Work on ice. • Pipet carefully and accurately. • Watch what you touch – you are covered with nucleases and your own Staphylococcus aureus! • Stay organized – keep track of what you have added to your reaction and what still needs to be added. • Label your tubes – there will be 96 on the thermocycler altogether!\nProtocol 4.3: Set up single PCR (spa gene).\nThe spa gene must be amplified separately as these primers do not perform well in the multiplex PCR reaction. The single PCR mixture contains: primers for the gene to be amplified (the spa gene), the template DNA, the polymerase enzyme (Taq), dNTPs, the reaction buffer, and PCR-grade water.\n\nLabel your PCR tube carefully with the gene name (spa) and your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step (thermocycler).\n\nProtocol 4.4: Set up multiplex PCR (clfA, clfB, sdr and ssp genes).\nThe multiplex PCR mixture contains: primers for each of the genes to be amplified (the cflA, cflB, sdr, and ssp genes), the template DNA, the polymerase enzyme (Taq polymerase), dNTPs, and the reaction buffer.\n\nLabel your PCR tube carefully, including your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step.\n\nPCR amplification for both reactions\nAmplification of DNA fragments will be performed with an initial denaturation at 94°C for 10 minutes followed by 25 cycles of 30 seconds at 94°C, 30 seconds at 55°C, and one minute at 72°C, with a final extension at 72°C for 5 minutes on a Bio-Rad DNA-Engine thermocycler. This PCR programme takes about 2½ hours to run.\nProtocol 4.5: Make an agarose gel.\n\nPrepare a gel tray. Use tape to seal off the top and bottom ends. Insert the comb in the slots in the tray. Check with a demonstrator before proceeding.\nA 2% agarose solution has been made for you as follows: 2 g of agarose were added to a glass flask, and 100 ml 1X TAE buffer. The agarose solution was heated in a microwave till agarose is completely dissolved in the buffer, and then cooled down to about 50°C.\nPour the agarose into your prepared gel tray and leave it to set.\n\nGel electrophoresis\nAfter the thermocycler run has finished, your samples will be run on your gel for you as follows: we will add 5 µl of spa PCR product to the multiplex PCR products and then run 16 µl of the combined reaction on the 2% agarose gel. Bioline 100bp DNA ladder (BIO-33056) will be used for each of the gels. We will then take gel images with the “gel doc system” and post your data to the BM327 microbiology class sub-page.\nYou will need to observe the growth of your unknown and control strains on selective/differential media and record your results in Table 4.8.\nProtocol 4.6: Determining the minimal inhibitory concentration of an antibiotic\n\nPrepare a seed lawn for each of your three Pseudomonas aeruginosa isolate as follows: pipette 100 µl of the supplied culture onto the centre of a Mueller Hinton agar plate and use a sterile plastic spreader to distribute the culture evenly over the surface of the agar. The liquid should be completely absorbed into the agar before you add the antibiotic disks in step 5.\nObtain an empty petri dish containing fifteen sterile filter discs.\nIn four sterile 1.5 ml tubes, prepare dilutions of the supplied solution of gentamicin (1 mg/ml). You will be adding 20 µl of each dilution to a filter disk, but it is always a good idea to prepare a slightly larger volume to account for any pipetting errors - e.g. prepare 25 µl for each filter disk. Prepare the dilutions so that you will end up with 4 µg, 8 µg, 12 µg and 16 µg of gentamicin when you add 20 µl of the dilution to a filter disk.\n\nEquation: C1 x V1 = C2 x V2 [C, concentration; V, volume]\nExample: 4 µg/20 µl x 25 µl = 1 mg/ml x ???\nUsing this equation, complete the following table and then prepare the dilutions:\nTable 4.11: Calculation of antibiotic dilutions",
+    "text": "You can view the handout for lab 4 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
-      "<span class='chapter-number'>34</span>  <span class='chapter-title'>4protocols.html</span>"
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>Lab 4 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "4data.html",
+    "href": "4data.html",
+    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "section": "",
+    "text": "TASK 4A: Microbial colonies on MSA plates (from Task 2E)\nYou will analyse the growth and colony morphology of the unknown pathogen on MSA agar, and also the growth and colony morphology of your own nasal flora (from the plates you inoculated in laboratory session 2, Task 2E). You have also been provided with cultures of type strains of Staphylococcus aureus and Staphylococcus epidermidis grown on MSA agar as controls. Record your observations in Table 4.2.\nProtocol 4.2: Coagulase slide test.\n\nPlace a drop of sterile water on a glass slide.\nUsing a flamed loop, that has been allowed to cool, remove an isolated colony from the culture plate and gently emulsify on the slide with the drop of sterile water.\nPlace a drop of plasma immediately adjacent to the bacterial suspension and mix the two samples together.\nGently tilt the slide back and forwards, observing for the immediate formation of a white precipitate.\n\nInterpretation\nA positive reaction (formation of white precipitate) is typically detected 15 – 20 seconds. The test is considered negative if clumping is not observed within 2 – 3 minutes.\nSetting up PCR reaction mixtures\n• Work on ice. • Pipet carefully and accurately. • Watch what you touch – you are covered with nucleases and your own Staphylococcus aureus! • Stay organized – keep track of what you have added to your reaction and what still needs to be added. • Label your tubes – there will be 96 on the thermocycler altogether!\nProtocol 4.3: Set up single PCR (spa gene).\nThe spa gene must be amplified separately as these primers do not perform well in the multiplex PCR reaction. The single PCR mixture contains: primers for the gene to be amplified (the spa gene), the template DNA, the polymerase enzyme (Taq), dNTPs, the reaction buffer, and PCR-grade water.\n\nLabel your PCR tube carefully with the gene name (spa) and your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step (thermocycler).\n\nProtocol 4.4: Set up multiplex PCR (clfA, clfB, sdr and ssp genes).\nThe multiplex PCR mixture contains: primers for each of the genes to be amplified (the cflA, cflB, sdr, and ssp genes), the template DNA, the polymerase enzyme (Taq polymerase), dNTPs, and the reaction buffer.\n\nLabel your PCR tube carefully, including your bench number.\nUse a white thin (10 μl) tip to pick one big isolated colony from the plate provided to you, and place this at the bottom of your PCR tube. Add 20 μl PCR master mix.\nKeep the reaction mixture on ice until the whole class is ready to proceed to the amplification step.\n\nPCR amplification for both reactions\nAmplification of DNA fragments will be performed with an initial denaturation at 94°C for 10 minutes followed by 25 cycles of 30 seconds at 94°C, 30 seconds at 55°C, and one minute at 72°C, with a final extension at 72°C for 5 minutes on a Bio-Rad DNA-Engine thermocycler. This PCR programme takes about 2½ hours to run.\nProtocol 4.5: Make an agarose gel.\n\nPrepare a gel tray. Use tape to seal off the top and bottom ends. Insert the comb in the slots in the tray. Check with a demonstrator before proceeding.\nA 2% agarose solution has been made for you as follows: 2 g of agarose were added to a glass flask, and 100 ml 1X TAE buffer. The agarose solution was heated in a microwave till agarose is completely dissolved in the buffer, and then cooled down to about 50°C.\nPour the agarose into your prepared gel tray and leave it to set.\n\nGel electrophoresis\nAfter the thermocycler run has finished, your samples will be run on your gel for you as follows: we will add 5 µl of spa PCR product to the multiplex PCR products and then run 16 µl of the combined reaction on the 2% agarose gel. Bioline 100bp DNA ladder (BIO-33056) will be used for each of the gels. We will then take gel images with the “gel doc system” and post your data to the BM327 microbiology class sub-page.\nYou will need to observe the growth of your unknown and control strains on selective/differential media and record your results in Table 4.8.\nProtocol 4.6: Determining the minimal inhibitory concentration of an antibiotic\n\nPrepare a seed lawn for each of your three Pseudomonas aeruginosa isolate as follows: pipette 100 µl of the supplied culture onto the centre of a Mueller Hinton agar plate and use a sterile plastic spreader to distribute the culture evenly over the surface of the agar. The liquid should be completely absorbed into the agar before you add the antibiotic disks in step 5.\nObtain an empty petri dish containing fifteen sterile filter discs.\nIn four sterile 1.5 ml tubes, prepare dilutions of the supplied solution of gentamicin (1 mg/ml). You will be adding 20 µl of each dilution to a filter disk, but it is always a good idea to prepare a slightly larger volume to account for any pipetting errors - e.g. prepare 25 µl for each filter disk. Prepare the dilutions so that you will end up with 4 µg, 8 µg, 12 µg and 16 µg of gentamicin when you add 20 µl of the dilution to a filter disk.\n\nEquation: C1 x V1 = C2 x V2 [C, concentration; V, volume]\nExample: 4 µg/20 µl x 25 µl = 1 mg/ml x ???\nUsing this equation, complete the following table and then prepare the dilutions:\nTable 4.11: Calculation of antibiotic dilutions",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>4data.html</span>"
     ]
   },
   {
@@ -995,12 +1105,12 @@
   {
     "objectID": "5aims.html",
     "href": "5aims.html",
-    "title": "36  Aims",
+    "title": "38  Aims",
     "section": "",
-    "text": "To understand how to identify unknown microorganisms using molecular and media-based techniques.\n\n37 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to characterise bacterial species from their ability to form biofilms.\nHow to characterise bacteria species from their antibiotic resistance.\nHow to identify a potential pathogen using differential staining.\n\n\n\n38 Competencies\n\n\n39 Importance\nThis laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.",
+    "text": "To understand how to identify unknown microorganisms using molecular and media-based techniques.\n\n39 Learning Outcomes\nAt the end of this laboratory session, you should understand:\n\nHow to characterise bacterial species from their ability to form biofilms.\nHow to characterise bacteria species from their antibiotic resistance.\nHow to identify a potential pathogen using differential staining.\n\n\n\n40 Competencies\n\n\n41 Importance\nThis laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>36</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
   {
@@ -1011,7 +1121,7 @@
     "text": "There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be looking at some of the phenotypic properties of bacteria that can contribute to their virulence (CASE STUDY 6, TASK 5A and TASK 5B) and using a differential stain to identify a potential pathogen (CASE STUDY 7, TASK 5C).\nYou will also\nIntroduction: Biofilm formation and antibiotic resistance\nTASK 5A: Analysing biofilm attachment of P. aeruginosa isolates\nBiofilm formation is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell (Figure 10). This surface attachment is what you will measure using a crystal violet stain that binds to the bacteria.\nFigure 12. Biofilm formation by Pseudomonas.\n  You will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay.\nCrystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (Figure 11). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.\nFigure 13. Biofilm formation measured using a crystal violet stain. Biofilm formation can be scored qualitatively e.g. +++: strong, ++: moderate, +: weak, 0: no formation.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>37</span>  <span class='chapter-title'>5intro.html</span>"
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>5intro.html</span>"
     ]
   },
   {
@@ -1022,7 +1132,17 @@
     "text": "Protocol 5.1: Biofilm formation assay.\n\nPipette 100 µl of medium into well A1: this is your negative control. Pipette 100 µl into three separate wells for each of the three Pseudomonas cultures. This will ensure you have triplicate samples for each culture. As you will be sharing a 96-well plate, be sure to carefully record the location of each sample - i.e. culture 1, wells B1, B2 and B3 etc.\nIncubate the cells at 30°C for 30 minutes.\nAdd 25 µl of 1% crystal violet solution to each well.\nIncubate the plate for a further 15 minutes at room temperature.\nAfter this time, rinse the wells thoroughly with water and invert the tray over some blue-roll paper to let the wells drain carefully.\nRecord your observations in Table 2.1 using the qualitative scores given above (+++, ++, +, 0).\n\nTASK 5B: Analysing antibiotic resistance assay (from Task 2B)\nYou should carefully measure the diameter of each zone of inhibition in millimetres. Put your results in Table 5.2.\nCASE STUDY 3. Tuberculosis?\nPatient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.\nThe patient is positive for the Tb skin test, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by Mycobacterium tuberculosis, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.\nYour task is to identify the bacterial species causing this infection (Task 2C).\nTASK 5C: Using differential stain to identify a respiratory tract pathogen\nCertain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.\nProtocol 5.2: Modified Ziehl-Neelson stain.\n\nHold a glass slide with metal forceps and flame thoroughly its operational upper surface using a Bunsen flame. Allow the slide to cool. Flame a loop until red hot and leave it to cool. Place a loopful of sterile water on the upper surface of the slide. Flame the loop again and allow it to cool, then use it to pick up a speck of a colony from the culture provided. Mix this speck thoroughly into the drop of water to form a dilute milky suspension covering an area of about the size of a 20p coin.\nAllow the film to dry completely. You may need to do this by warming the slide gently, holding it in forceps well above the Bunsen’s flame.\nFix the film of cells to the slide by passing the lower surface of the slide through the Bunsen flame slowly twice. The slide will now be hot to the touch; allow it to cool.\nPlace the slide on the staining rack over the sink.\nCover the slide with carbol fuchsin solution (this contains phenol, so take care to avoid contact with skin. Wash hands immediately if this happens). Allow to stand for 5 min.\nRinse with water.\n\nTake great care, wear protective gloves and safety spectacles now to handle the next solution (hydrochloric acid in ethanol) which is corrosive!\n\nDecolourise the slide by covering it with hydrochloric acid in ethanol solution, and allow to stand for 15 - 30 seconds.\nImmediately remove excess acid by running slide in tap water.\nCounterstain with malachite green solution for one minute.\nRemove excess stain with water.\nGently blot dry and examine with the oil-immersion lens (x100).",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>38</span>  <span class='chapter-title'>5protocols.html</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>5protocols.html</span>"
+    ]
+  },
+  {
+    "objectID": "Zappendix.html",
+    "href": "Zappendix.html",
+    "title": "Appendix",
+    "section": "",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the appendices.\nBasic Lab Calculations\nMedia Recipes",
+    "crumbs": [
+      "Appendix"
     ]
   }
 ]
