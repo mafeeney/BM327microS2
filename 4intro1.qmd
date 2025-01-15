@@ -4,7 +4,7 @@ title: "Identification of staphylococci"
 
 ## Identification of staphylococci {#sec-staphylococci}
 
-There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, <i>Staphylococcus aureus</i>, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).
+In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, <i>Staphylococcus aureus</i>, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).
 
 <i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, @sec-gramstain), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (@tbl-chars).
 

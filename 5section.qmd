@@ -2,5 +2,14 @@
 title: "Laboratory 5 - Pathogens of the Respiratory Tract"
 ---
 
+Please use the links below (or in the left sidebar) to navigate through the materials for Lab 5.
 
-<center>| [Aims](./5aims.qmd) | [Intro](./5intro.qmd) | [Protocols](./5protocols.qmd) | [Data Analysis](./5data.qmd) </center>
+<center>[Aims](./5aims.qmd) 
+
+Background: [Biofilm Formation Assay](./5intro1.qmd) | [Identification of mycobacteria](./5intro2.qmd) |[Differential Stains - Acid-Fast Stains](./5intro1.qmd) |
+
+[Protocols](./5protocols.qmd) 
+
+[Data Analysis](./5data.qmd) </center>
+
+[Additional Resources/Further Reading](./5further.qmd) </center></center>

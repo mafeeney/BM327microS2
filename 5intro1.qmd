@@ -1,0 +1,34 @@
+---
+title: "Biofilm Formation Assay"
+---
+
+## Biofilms {#sec-biofilms}
+
+Biofilm formation (@fig-biofilm) is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell. 
+
+In this lab, we will be looking at the first step of biofim formation, the attachment to a surface. You will measure surface attachment using a crystal violet stain that binds to the bacteria that have become attached to a surface (the plastic well in a 96 well plate).
+
+![Steps involved in biofilm formation](images/biofilm.jpg){#fig-biofilm}
+
+You will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay.
+
+Crystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (@fig-crystalviolet). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.
+
+![Results from a biofilm formation assay, showing weak, moderate, and strong crystal violet staining.](images/crystalviolet.jpg){#fig-crystalviolet}
+
+
+## Biofilms and Antibiotic Resistance
+
+Bacteria in biofilms tend to be more resistant to killing and/or growth inhibition by antimicrobial agents. A number of different mechanisms have been proposed to explain this increased resistance, including that the biofilms may provide a measure of physical protection, i.e. with an extracellular matrix shielding the cells from contact with the antimicrobial agent. Alternatively, the cells present in a biofilm may have altered their gene expression/physiological state such that they are now more resistant to the antimicrobial. 
+
+Biofilm formation is a particular problem in clinical microbiology in the case of some respiratory pathogens, such as the pathogens that infect cystic fibrosis patients (Case study 6).
+
+::: {.case-study title="Case Study 6"}
+
+CASE STUDY 6: Cystic fibrosis
+
+Cystic fibrosis is a genetic disorder (autosomal recessive) that mostly affects the lungs, with patients contracting infections due to mucus build-up, decreased mucocilliary clearance, and increased inflammation. <i>Staphylococcus aureus, Haemophilus influenzae</i>, and <i>Pseudomonas aeruginosa</i> commonly infect the lungs of CF patients. These are usually chronic, life-long infections, dominated by <i>Pseudomonas aeruginosa</i> in their later stages.
+
+In this clinical study, we are interested in which factors make <i>Pseudomonas aeruginosa</i> a successful pathogen in the CF lung. You will characterise the <i>Pseudomonas</i> spp. isolated from several different patients: you will analyse their ability to form biofilms (Task 5A) and their resistance to antibiotics (Task 5B).
+
+:::

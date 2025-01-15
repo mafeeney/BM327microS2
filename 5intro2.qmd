@@ -1,0 +1,19 @@
+---
+title: "Identification of mycobacteria"
+---
+
+## Identification of mycobacteria {#sec-mycobacteria}
+
+
+
+::: {.case-study title="Case Study 7"}
+
+CASE STUDY 7. Tuberculosis?
+
+Patient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.
+
+The patient is positive for the <a href="https://www.cdc.gov/tb/testing/skin-test.html">Tb skin test</a>, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by <i>Mycobacterium tuberculosis</i>, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.
+
+Your task is to identify the bacterial species causing this infection (Task 5C).
+
+:::

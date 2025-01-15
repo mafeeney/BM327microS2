@@ -79,13 +79,16 @@ book:
         - 4intro4.qmd
         - 4protocols.qmd
         - 4data.qmd
+        - 4further.qmd
     
     - part: 5section.qmd
       chapters: 
         - 5aims.qmd
-        - 5intro.qmd
+        - 5intro1.qmd
+        - 5intro2.qmd
         - 5protocols.qmd
         - 5data.qmd
+        - 5further.qmd
         
     - part: Zappendix.qmd
       chapters: 

@@ -1,60 +1,7 @@
-Protocol 5.1: Biofilm formation assay.
+---
+title: Lab 5 Protocols
+---
 
-1.	Pipette 100 µl of medium into well A1: this is your negative control. Pipette 100 µl into three separate wells for each of the three Pseudomonas cultures. This will ensure you have triplicate samples for each culture. As you will be sharing a 96-well plate, be sure to carefully record the location of each sample - i.e. culture 1, wells B1, B2 and B3 etc.
+You can view the handout for lab 5 below, or download it [here](./handouts/Lab5.pdf).
 
-2.	Incubate the cells at 30°C for 30 minutes.
-
-3.	Add 25 µl of 1% crystal violet solution to each well.
-
-4.	Incubate the plate for a further 15 minutes at room temperature.
-
-5.	After this time, rinse the wells thoroughly with water and invert the tray over some blue-roll paper to let the wells drain carefully.
-
-6.	Record your observations in Table 2.1 using the qualitative scores given above (+++, ++, +, 0).
-
-
-TASK 5B:	Analysing antibiotic resistance assay (from Task 2B)
-
-You should carefully measure the diameter of each zone of inhibition in millimetres. Put your results in Table 5.2.
-
-
-CASE STUDY 3. Tuberculosis?
-
-Patient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.
-
-The patient is positive for the Tb skin test, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by Mycobacterium tuberculosis, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.
-
-Your task is to identify the bacterial species causing this infection (Task 2C).
-
-TASK 5C:	Using differential stain to identify a respiratory tract pathogen
-
-Certain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.
-
-Protocol 5.2: Modified Ziehl-Neelson stain.
-
-1.	Hold a glass slide with metal forceps and flame thoroughly its operational upper surface using a Bunsen flame. Allow the slide to cool. Flame a loop until red hot and leave it to cool. Place a loopful of sterile water on the upper surface of the slide. Flame the loop again and allow it to cool, then use it to pick up a speck of a colony from the culture provided. Mix this speck thoroughly into the drop of water to form a dilute milky suspension covering an area of about the size of a 20p coin.
-
-2.	Allow the film to dry completely. You may need to do this by warming the slide gently, holding it in forceps well above the Bunsen’s flame.
-
-3.	Fix the film of cells to the slide by passing the lower surface of the slide through the Bunsen flame slowly twice. The slide will now be hot to the touch; allow it to cool.
-
-4.	Place the slide on the staining rack over the sink.
-
-5.	Cover the slide with carbol fuchsin solution (this contains phenol, so take care to avoid contact with skin. Wash hands immediately if this happens). Allow to stand for 5 min.
-
-6.	Rinse with water.
-
-Take great care, wear protective gloves and safety spectacles now to handle the next solution (hydrochloric acid in ethanol) which is corrosive!
-
-7.	Decolourise the slide by covering it with hydrochloric acid in ethanol solution, and allow to stand for 15 - 30 seconds.
-
-8.	Immediately remove excess acid by running slide in tap water.
-
-9.	Counterstain with malachite green solution for one minute.
-
-10.	Remove excess stain with water.
-
-11.	Gently blot dry and examine with the oil-immersion lens (x100).
-
-
-
+{{< pdf ./handouts/Lab5.pdf width=100% height=400 >}}

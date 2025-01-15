@@ -1,0 +1,9 @@
+---
+title: "Differential stains - acid-fast staining"
+---
+
+## Acid-fast stains {#sec-acidfast}
+
+Certain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.
+
+![Results from a biofilm formation assay, showing weak, moderate, and strong crystal violet staining.](images/mycolic.jpg){#fig-crystalviolet}
