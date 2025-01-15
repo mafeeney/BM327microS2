@@ -1,3 +1,71 @@
 ---
 title: "Antibiotic Resistance Assays"
 ---
+
+## Antibiotic Resistance
+
+In clinical microbiology, it is often necessary or desirable to determine the antibiotic resistance profile of a particular pathogen. Methods for doing so are often phenotypic (usually based on whether or not the pathogen is able to grow in the presence of an antibiotic), but increasingly, genome-based methods for studying antibiotic resistance are being developed. 
+
+### Kirby Bauer Disk Diffusion Assays
+
+In this lab, you will be performing a Kirby Bauer disk diffusion assay (@fig-KirbyBauer). In this method, an agar plate is spread with a lawn of the organism to be tested, and this is then overlaid with paper disks that contain antibiotic. 
+
+The antibiotic will diffuse out from the disk and into the surrounding agar. If the organism being tested is resistant to the antibiotic, the antibiotic will have no effect (you will observe bacterial growth as normal). If the organism is sensitive to the antibiotic, you will see a clear zone (no bacterial growth) around the disk. 
+
+![Example of a Kirby Bauer Disk Diffusion Assay](images/KirbyBauer.png){#fig-KirbyBauer}
+
+The clear zone surrounding the antibiotic disk (the <b>zone of inhibition</b>) can then be measured (@fig-diskmethod). By convention, we usually measure the diameter of the zone in millimetres.
+
+![Recording the results from a Kirby Bauer disk diffusion assay](images/DiskDiffusionMethod.png){#fig-diskmethod}
+
+::: {.callout-tip title="Top tips for performing a Kirby Bauer disk diffusion assay"}
+
+*	Be sure to cover the entire surface of the agar plate with your bacterial culture. You do not want any gaps, as this can make the results difficult to see/interpret. Pretend that you are painting the surface of the agar with the cotton swab, and cover the entire surface of the agar plate thoroughly.
+
+*	Make sure that the antibiotic has completely soaked into the disk before you transfer it over to the agar plate. This helps make sure your results are reproducible (same amount of antibiotic in each disk).
+
+* Make sure that the antibiotic disks are well separated. The antibiotic will diffuse out to create the zone of inhibition - you don't want your zones of inhibition to overlap with one another.
+
+* Do not move the disks once they have been placed on the agar. Some antibiotic will have already diffused out of the disk, so it is best not to pick up the disk and reposition it. 
+
+* Make sure that the antibiotic disks are firmly pressed into the surface of the agar. The plates will be inverted to incubate them, and you do not want the disks to fall off. 
+* Label the plate, and the antibiotic disks, carefully and clearly. 
+
+:::
+
+### Antibiotic Dilution Calculations
+
+<b>Before</b> coming to the lab, you should perform the following calculations to ensure that you are ready to perform your disk diffusion assays. 
+
+You will be supplied with a stock solution of gentamicin (1 mg/ml), and you will want to make a set of dilutions of this for your assay. You will perform the assay in triplicate, so you will want to make sure you have enough of each antibiotic dilution to add to three disks.
+
+You will be adding 20 µl of each dilution to a filter disk, but it is always a good idea to prepare a slightly larger volume to account for any pipetting errors - e.g. prepare 25 µl for each filter disk. 
+
+You will want to prepare the dilutions so that you will end up with 4 µg, 8 µg, 12 µg and 16 µg of gentamicin when you add 20 µl of the dilution to a filter disk.
+
+Complete the @tbl-antibiotics before coming to the lab.
+
+| Amount of antibiotic/disk | Volume of gentamycin needed | Volume of water needed |
+|------|------|------|
+| 4 µg |      |       |
+| 8 µg |      |       |
+| 12 µg|      |       |
+| 16 µg|      |       |
+
+: Preparation of antibiotic dilutions {#tbl-antibiotics}
+
+::: {.callout-tip title="Help with calculating antibiotic concentrations" collapse="true"}
+
+*	There are several different ways that you could perform these calculations, but they are essentially C<sub>1</sub>V<sub>1</sub> = C<sub>2</sub>V<sub>2</sub> calculations (the method you may be most familiar with).
+
+* Before starting the calculation, write down all of your knowns. In this case, you know the concentration of the stock solution (1 mg/mL gentamycin), the concentration of the dilutions that you wish to make, and the volume you wish to make. 
+
+  * The concentrations of the dilutions you wish to make: You know that you are aiming to add e.g., 4 µg in 20 µL (or 8 µg, etc.)
+  
+  * The volume you wish to make: remember that you need to prepare your dilutions for an assay done in triplicate. So if you want to make 25 µL/disk, for 3 disks, you will need....?
+
+* Once you have calculated the volume of gentamycin needed, you should calculate how much water to add (enough to reach your final volume in each case).
+
+*	Be sure you include units at every step when you perform calculations - it helps keep you from making careless mistakes!
+
+:::

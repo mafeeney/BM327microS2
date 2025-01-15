@@ -2,9 +2,15 @@
 title: "Biochemical assays: lysostaphin and coagulase"
 ---
 
-## Biochemical assays
+## Biochemical assays used for the identification of staphylococci
 
-### Lysostaphin assay
+There are a number of different biochemical assays that are useful in the identification of staphylococci such as <i>S. aureus</i>, including DNAse tests, and the lysostaphin and coagulase tests covered here. (Biomerieux, the company that makes the API-20E tests you used in the previous laboratory, also makes API strips that can be used for the identification of staphylococci, the API-Staph and ID 32 Staph kits.)
+
+We will not be performing the lysostaphin test in the lab because of the relatively long incubation time, but this test has been performed for you and your unknowns have been confirmed as lysostaphin sensitive. 
+
+You will be performing the slide coagulase test on your isolates, but the tube coagulase test is also described here.
+
+### Lysostaphin assay {#sec-lysostaphin}
 
 A diagnostic characteristic of staphylococci is their sensitivity to lysostaphin, an enzyme that cleaves the pentaglycine bridge present in the peptidoglycan cell wall of these microorganisms (@fig-lysostaphin). (Other Gram-positive bacteria like <i>Micrococcus</i> sp. lack this pentaglycine bridge and are therefore resistant to lysostaphin.)
 
@@ -25,7 +31,7 @@ Interpretation
 A positive reaction is detected by clearing of bacterial turbidity (cell lysis).
 The test is considered negative if clearing has not occurred after 2 hours.
 
-### Coagulase assay
+### Coagulase assay {#sec-coagulase}
 
 Coagulase is an enzyme that has prothrombin-like activity and is capable of converting plasma fibrinogen to fibrin with resultant clot formation. 
 

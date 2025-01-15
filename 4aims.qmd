@@ -39,7 +39,7 @@ In this lab session, you will be learning (or further developing your skills in)
 
 2. You will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)
 
-3. You will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) analysis to help identify your unknown <i>Staphylococcus aureus</i> strain.
+3. You will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) to help identify your unknown <i>Staphylococcus aureus</i> strain.
 
 4. You will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))
 
@@ -49,11 +49,11 @@ In this lab session, you will be learning (or further developing your skills in)
 
 Before attending the practical lab, you should ensure that you have read and understood:
 
-* The introductory sections covering the theory on [identification of intestinal pathogens](./3intro1.qmd), 
+* The introductory sections covering the theory on [Identification of staphylococci](./4intro1.qmd), [Biochemical assays: lysostaphin and coagulase](./4intro2.qmd), [MLVA typing](./4intro3.qmd), and [Antibiotic resistance assays](./4intro4.qmd)
 
 * The [Protocols](./4protocols.qmd) we will be following in the lab
 
-* The calculations required for your antibiotic resistance experiment
+* You should also make sure you have performed the calculations required for your antibiotic resistance experiment (@tbl-antibiotics)
 
 You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
 

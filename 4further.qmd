@@ -2,8 +2,16 @@
 title: "Additional Resources/Further Reading for Lab 4"
 ---
 
-## header here
+## Additional Resources/Reading for Lab 4
 
 * <a href="https://www.rcpath.org/static/db5f13cb-53ca-4e9e-a0937b78b610d0ac/4dde3cf8-f775-4f31-9a351b100e2742af/uk-smi-id-7i4-identification-of-staphylococcus-species-micrococcus-species-and-rothia-species-may-2020-pdf.pdf">UK Standards for Microbiology Investigations: Identification of <i>Staphylococcus</i> species, <i>Micrococcus</i> species and <i>Rothia</i> species</a>
 
+### Protocols used in this lab
+
 * <a href="https://asm.org/ASM/media/Protocol-Images/Coagulase-Test-Protocol.pdf?ext=.pdf">Coagulase Test Protocol (ASM)</a>
+
+* <a href="https://asm.org/getattachment/2594ce26-bd44-47f6-8287-0657aa9185ad/Kirby-Bauer-Disk-Diffusion-Susceptibility-Test-Protocol-pdf.pdf">Kirby Bauer Disk Diffusion Susceptibility Test Protocol (ASM)</a>
+
+* <a href="https://youtu.be/IsRapK5m-Yw?si=iGwTHTTEGnA4NARo">Microbiology Techniques: Using antibiotic discs (Microbiology Society video)</a>
+
+* Sabat A, Krzyszton-Russjan J, Strzalka W, Filipek R, Kosowska K, Hryniewicz W, Travis J, Potempa J. New method for typing <i>Staphylococcus aureus</i> strains: multiple-locus variable-number tandem repeat analysis of polymorphism and genetic relationships of clinical isolates. J Clin Microbiol. 2003 Apr;41(4):1801-4. doi: 10.1128/JCM.41.4.1801-1804.2003. PMID: 12682193; PMCID: PMC153872.

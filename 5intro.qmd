@@ -1,3 +1,8 @@
+## Biofilms and Antibiotic Resistance
+
+Bacteria in biofilms tend to be more resistant to killing and/or growth inhibition by antimicrobial agents. A number of different mechanisms have been proposed to explain this increased resistance, including that the biofilms may provide a measure of physical protection, i.e. with an extracellular matrix shielding the cells from contact with the antimicrobial agent. Alternatively, the cells present in a biofilm may have altered their gene expression/physiological state such that they are now more resistant to the antimicrobial. In this lab, you will test your Pseudomonas aeruginosa isolates to determine whether they are sensitive or resistant to the aminoglycoside antibiotic gentamicin.
+
+
 There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be looking at some of the phenotypic properties of bacteria that can contribute to their virulence (CASE STUDY 6, TASK 5A and TASK 5B) and using a differential stain to identify a potential pathogen (CASE STUDY 7, TASK 5C).
 
 You will also 

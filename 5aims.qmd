@@ -20,3 +20,31 @@ At the end of this laboratory session, you should understand:
 # Importance
 
 This laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.
+
+## Overview of Lab 5
+
+In this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:
+
+1. You will analyse the results from the Mannitol Salt Agar plates you streaked in the previous lab session (Task 4A)
+
+2. You will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)
+
+3. You will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) to help identify your unknown <i>Staphylococcus aureus</i> strain.
+
+4. You will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))
+
+5. You will set up plates for the next lab (analysing the antibiotic resistance of <i>Pseudomonas</i> isolates)
+
+::: {.todo title="To prepare for Lab 5"}
+
+Before attending the practical lab, you should ensure that you have read and understood:
+
+* The introductory sections covering the theory on [identification of intestinal pathogens](./3intro1.qmd), 
+
+* The [Protocols](./4protocols.qmd) we will be following in the lab
+
+* The calculations required for your antibiotic resistance experiment
+
+You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.
+
+:::

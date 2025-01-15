@@ -2,11 +2,11 @@
 title: "Identification of staphylococci"
 ---
 
-## Identification of staphylococci
+## Identification of staphylococci {#sec-staphylococci}
 
-There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (TASK 4A), biochemical assays (TASK 4B), and a PCR-based technique called MVLA typing (TASK 4C).
+There are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, <i>Staphylococcus aureus</i>, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).
 
-<i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, @sec-gramstain), they can be distinguished from one another on the basis of several different phenotypic characteristics (Table 1).
+<i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, @sec-gramstain), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (@tbl-chars).
 
 | Characteristic | *S. aureus*  | *S. epidermidis*  | Micrococci  |
 |--------|--------|--------|--------|
@@ -16,16 +16,14 @@ There are many different techniques available to the clinical microbiologist who
 | Lysostaphin sensitivity | +   | +   | -   |
 | Anaerobic utilisation of glucose | +   | +   | -   |
 | Anaerobic utilisation of mannitol | +   | -  | -   |
-: typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci {.striped .hover}
-
-
+: Typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci. ‘+’ = Most (90% or more) strains are positive. ‘-‘ = Most (90% or more) strains are negative {.striped .hover #tbl-chars}
 
 
 ::: {.case-study title="Case Study 5"}
 
 CASE STUDY 5: Epidemiology of an MRSA outbreak
 
-A number of patients at the local hospital have been acquiring secondary infections after seeing Dr. X for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.
+A number of patients at the local hospital have been acquiring secondary infections after seeing Dr. Staff for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.
 
 As a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).
 
