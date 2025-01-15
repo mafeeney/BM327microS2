@@ -1053,7 +1053,7 @@
     "href": "4intro1.html",
     "title": "33  Identification of staphylococci",
     "section": "",
-    "text": "33.1 Identification of staphylococci\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).\nStaphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although S. aureus and S. epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, Section 18.3), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (?tbl-chars).",
+    "text": "33.1 Identification of staphylococci\nIn this laboratory session, you will be identifying a pathogen of the skin and circulatory system, Staphylococcus aureus, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).\nStaphylococcus aureus and Staphylococcus epidermidis are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although S. aureus and S. epidermidis appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, Section 18.3), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (?tbl-chars).",
     "crumbs": [
       "Laboratory 4 - Pathogens of the Circulatory System and Skin",
       "<span class='chapter-number'>33</span>  <span class='chapter-title'>Identification of staphylococci</span>"
@@ -1203,11 +1203,33 @@
     ]
   },
   {
+    "objectID": "4further.html",
+    "href": "4further.html",
+    "title": "39  Additional Resources/Further Reading for Lab 4",
+    "section": "",
+    "text": "39.1 Additional Resources/Reading for Lab 4",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 4</span>"
+    ]
+  },
+  {
+    "objectID": "4further.html#additional-resourcesreading-for-lab-4",
+    "href": "4further.html#additional-resourcesreading-for-lab-4",
+    "title": "39  Additional Resources/Further Reading for Lab 4",
+    "section": "",
+    "text": "UK Standards for Microbiology Investigations: Identification of Staphylococcus species, Micrococcus species and Rothia species\n\n\n39.1.1 Protocols used in this lab\n\nCoagulase Test Protocol (ASM)\nKirby Bauer Disk Diffusion Susceptibility Test Protocol (ASM)\nMicrobiology Techniques: Using antibiotic discs (Microbiology Society video)\nSabat A, Krzyszton-Russjan J, Strzalka W, Filipek R, Kosowska K, Hryniewicz W, Travis J, Potempa J. New method for typing Staphylococcus aureus strains: multiple-locus variable-number tandem repeat analysis of polymorphism and genetic relationships of clinical isolates. J Clin Microbiol. 2003 Apr;41(4):1801-4. doi: 10.1128/JCM.41.4.1801-1804.2003. PMID: 12682193; PMCID: PMC153872.",
+    "crumbs": [
+      "Laboratory 4 - Pathogens of the Circulatory System and Skin",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 4</span>"
+    ]
+  },
+  {
     "objectID": "5section.html",
     "href": "5section.html",
     "title": "Laboratory 5 - Pathogens of the Respiratory Tract",
     "section": "",
-    "text": "Aims | Intro | Protocols | Data Analysis",
+    "text": "Please use the links below (or in the left sidebar) to navigate through the materials for Lab 5.\n\nAims\nBackground: Biofilm Formation Assay | Identification of mycobacteria |Differential Stains - Acid-Fast Stains |\nProtocols\nData Analysis\n\nAdditional Resources/Further Reading",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract"
     ]
@@ -1215,45 +1237,100 @@
   {
     "objectID": "5aims.html",
     "href": "5aims.html",
-    "title": "39  Aims",
+    "title": "40  Aims",
     "section": "",
-    "text": "40 Learning Outcomes\nTo understand how to identify unknown microorganisms using molecular and media-based techniques.\nAt the end of this laboratory session, you should understand:",
+    "text": "41 Learning Outcomes\nTo understand how to identify unknown microorganisms using molecular and media-based techniques.\nAt the end of this laboratory session, you should understand:",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
   {
     "objectID": "5aims.html#overview-of-lab-5",
     "href": "5aims.html#overview-of-lab-5",
-    "title": "39  Aims",
-    "section": "42.1 Overview of Lab 5",
-    "text": "42.1 Overview of Lab 5\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will analyse the results from the Mannitol Salt Agar plates you streaked in the previous lab session (Task 4A)\nYou will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)\nYou will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) to help identify your unknown Staphylococcus aureus strain.\nYou will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))\nYou will set up plates for the next lab (analysing the antibiotic resistance of Pseudomonas isolates)\n\n\n\n\n\n\n\nTo prepare for Lab 5\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens,\nThe Protocols we will be following in the lab\nThe calculations required for your antibiotic resistance experiment\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
+    "title": "40  Aims",
+    "section": "43.1 Overview of Lab 5",
+    "text": "43.1 Overview of Lab 5\nIn this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:\n\nYou will perform an assay to measure biofilm formation (Task 5A)\nYou will observe and analyse the results from your Kirby Bauer disk diffusion assays (Task 5B)\nYou will perform a differential stain (acid-fast stain) to help identify a respiratory tract pathogen (Task 5C)\n\n\n\n\n\n\n\nTo prepare for Lab 5\n\n\n\nBefore attending the practical lab, you should ensure that you have read and understood:\n\nThe introductory sections covering the theory on identification of intestinal pathogens,\nThe Protocols we will be following in the lab\n\nYou also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>39</span>  <span class='chapter-title'>Aims</span>"
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>Aims</span>"
     ]
   },
   {
-    "objectID": "5intro.html",
-    "href": "5intro.html",
-    "title": "40  Biofilms and Antibiotic Resistance",
+    "objectID": "5intro1.html",
+    "href": "5intro1.html",
+    "title": "41  Biofilm Formation Assay",
     "section": "",
-    "text": "Bacteria in biofilms tend to be more resistant to killing and/or growth inhibition by antimicrobial agents. A number of different mechanisms have been proposed to explain this increased resistance, including that the biofilms may provide a measure of physical protection, i.e. with an extracellular matrix shielding the cells from contact with the antimicrobial agent. Alternatively, the cells present in a biofilm may have altered their gene expression/physiological state such that they are now more resistant to the antimicrobial. In this lab, you will test your Pseudomonas aeruginosa isolates to determine whether they are sensitive or resistant to the aminoglycoside antibiotic gentamicin.\nThere are many different techniques available to the clinical microbiologist who wishes to make a definitive identification of a potential pathogen. Many of these use the fact that different bacterial species have characteristic physiological and biochemical characteristics that can help to identify them. In this laboratory session, you will be looking at some of the phenotypic properties of bacteria that can contribute to their virulence (CASE STUDY 6, TASK 5A and TASK 5B) and using a differential stain to identify a potential pathogen (CASE STUDY 7, TASK 5C).\nYou will also\nIntroduction: Biofilm formation and antibiotic resistance\nTASK 5A: Analysing biofilm attachment of P. aeruginosa isolates\nBiofilm formation is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell (Figure 10). This surface attachment is what you will measure using a crystal violet stain that binds to the bacteria.\nFigure 12. Biofilm formation by Pseudomonas.\n  You will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay.\nCrystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (Figure 11). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.\nFigure 13. Biofilm formation measured using a crystal violet stain. Biofilm formation can be scored qualitatively e.g. +++: strong, ++: moderate, +: weak, 0: no formation.",
+    "text": "41.1 Biofilms\nBiofilm formation (Figure 41.1) is a key virulence factor for many clinically important pathogens, and is also a particular problem in healthcare situations, where biofilms can form on medical devices and be difficult to eradicate. Bacteria in biofilms are often more resistant to killing by antibiotics. Biofilm formation is a complex, regulated process that begins with the initial attachment of bacteria to a surface, often mediated by flagella, pili, or other surface proteins on the bacterial cell.\nIn this lab, we will be looking at the first step of biofim formation, the attachment to a surface. You will measure surface attachment using a crystal violet stain that binds to the bacteria that have become attached to a surface (the plastic well in a 96 well plate).\nYou will be provided with a tube of medium, and three liquid cultures of Pseudomonas which have been grown overnight in that same medium. You will test whether these Pseudomonas sp. are able to form biofilms using a crystal violet assay.\nCrystal violet will stain the bacteria but not the plastic. Therefore, attachment will be observed by the presence of a purple ring (Figure 41.2). This purple ring is made up of bacteria that have attached to the surface at the liquid-air interface.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>40</span>  <span class='chapter-title'>Biofilms and Antibiotic Resistance</span>"
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Biofilm Formation Assay</span>"
+    ]
+  },
+  {
+    "objectID": "5intro1.html#sec-biofilms",
+    "href": "5intro1.html#sec-biofilms",
+    "title": "41  Biofilm Formation Assay",
+    "section": "",
+    "text": "Figure 41.1: Steps involved in biofilm formation\n\n\n\n\n\n\n\n\n\n\n\nFigure 41.2: Results from a biofilm formation assay, showing weak, moderate, and strong crystal violet staining.",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Biofilm Formation Assay</span>"
+    ]
+  },
+  {
+    "objectID": "5intro1.html#biofilms-and-antibiotic-resistance",
+    "href": "5intro1.html#biofilms-and-antibiotic-resistance",
+    "title": "41  Biofilm Formation Assay",
+    "section": "41.2 Biofilms and Antibiotic Resistance",
+    "text": "41.2 Biofilms and Antibiotic Resistance\nBacteria in biofilms tend to be more resistant to killing and/or growth inhibition by antimicrobial agents. A number of different mechanisms have been proposed to explain this increased resistance, including that the biofilms may provide a measure of physical protection, i.e. with an extracellular matrix shielding the cells from contact with the antimicrobial agent. Alternatively, the cells present in a biofilm may have altered their gene expression/physiological state such that they are now more resistant to the antimicrobial.\nBiofilm formation is a particular problem in clinical microbiology in the case of some respiratory pathogens, such as the pathogens that infect cystic fibrosis patients (Case study 6).\n\n\n\n\n\n\nCase Study 6\n\n\n\nCASE STUDY 6: Cystic fibrosis\nCystic fibrosis is a genetic disorder (autosomal recessive) that mostly affects the lungs, with patients contracting infections due to mucus build-up, decreased mucocilliary clearance, and increased inflammation. Staphylococcus aureus, Haemophilus influenzae, and Pseudomonas aeruginosa commonly infect the lungs of CF patients. These are usually chronic, life-long infections, dominated by Pseudomonas aeruginosa in their later stages.\nIn this clinical study, we are interested in which factors make Pseudomonas aeruginosa a successful pathogen in the CF lung. You will characterise the Pseudomonas spp. isolated from several different patients: you will analyse their ability to form biofilms (Task 5A) and their resistance to antibiotics (Task 5B).",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>Biofilm Formation Assay</span>"
+    ]
+  },
+  {
+    "objectID": "5intro2.html",
+    "href": "5intro2.html",
+    "title": "42  Identification of mycobacteria",
+    "section": "",
+    "text": "42.1 Identification of mycobacteria",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>Identification of mycobacteria</span>"
+    ]
+  },
+  {
+    "objectID": "5intro2.html#sec-mycobacteria",
+    "href": "5intro2.html#sec-mycobacteria",
+    "title": "42  Identification of mycobacteria",
+    "section": "",
+    "text": "Case Study 7\n\n\n\nCASE STUDY 7. Tuberculosis?\nPatient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.\nThe patient is positive for the Tb skin test, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by Mycobacterium tuberculosis, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.\nYour task is to identify the bacterial species causing this infection (Task 5C).",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>Identification of mycobacteria</span>"
     ]
   },
   {
     "objectID": "5protocols.html",
     "href": "5protocols.html",
-    "title": "BM327 Microbiology Semester 2 Lab Manual",
+    "title": "43  Lab 5 Protocols",
     "section": "",
-    "text": "Protocol 5.1: Biofilm formation assay.\n\nPipette 100 µl of medium into well A1: this is your negative control. Pipette 100 µl into three separate wells for each of the three Pseudomonas cultures. This will ensure you have triplicate samples for each culture. As you will be sharing a 96-well plate, be sure to carefully record the location of each sample - i.e. culture 1, wells B1, B2 and B3 etc.\nIncubate the cells at 30°C for 30 minutes.\nAdd 25 µl of 1% crystal violet solution to each well.\nIncubate the plate for a further 15 minutes at room temperature.\nAfter this time, rinse the wells thoroughly with water and invert the tray over some blue-roll paper to let the wells drain carefully.\nRecord your observations in Table 2.1 using the qualitative scores given above (+++, ++, +, 0).\n\nTASK 5B: Analysing antibiotic resistance assay (from Task 2B)\nYou should carefully measure the diameter of each zone of inhibition in millimetres. Put your results in Table 5.2.\nCASE STUDY 3. Tuberculosis?\nPatient history: fever, persistent cough, weight loss, loss of appetite. The patient is immunocompromised and has recently travelled extensively outside the UK.\nThe patient is positive for the Tb skin test, but has had the BCG vaccine and so this may be a false positive. The clinician suspects that it may in fact be an infection by Mycobacterium tuberculosis, and takes a sputum sample and sends it to the lab for analysis. The sample was plated on Löwenstein–Jensen medium and colonies were then isolated into pure culture.\nYour task is to identify the bacterial species causing this infection (Task 2C).\nTASK 5C: Using differential stain to identify a respiratory tract pathogen\nCertain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.\nProtocol 5.2: Modified Ziehl-Neelson stain.\n\nHold a glass slide with metal forceps and flame thoroughly its operational upper surface using a Bunsen flame. Allow the slide to cool. Flame a loop until red hot and leave it to cool. Place a loopful of sterile water on the upper surface of the slide. Flame the loop again and allow it to cool, then use it to pick up a speck of a colony from the culture provided. Mix this speck thoroughly into the drop of water to form a dilute milky suspension covering an area of about the size of a 20p coin.\nAllow the film to dry completely. You may need to do this by warming the slide gently, holding it in forceps well above the Bunsen’s flame.\nFix the film of cells to the slide by passing the lower surface of the slide through the Bunsen flame slowly twice. The slide will now be hot to the touch; allow it to cool.\nPlace the slide on the staining rack over the sink.\nCover the slide with carbol fuchsin solution (this contains phenol, so take care to avoid contact with skin. Wash hands immediately if this happens). Allow to stand for 5 min.\nRinse with water.\n\nTake great care, wear protective gloves and safety spectacles now to handle the next solution (hydrochloric acid in ethanol) which is corrosive!\n\nDecolourise the slide by covering it with hydrochloric acid in ethanol solution, and allow to stand for 15 - 30 seconds.\nImmediately remove excess acid by running slide in tap water.\nCounterstain with malachite green solution for one minute.\nRemove excess stain with water.\nGently blot dry and examine with the oil-immersion lens (x100).",
+    "text": "You can view the handout for lab 5 below, or download it here.\nDownload PDF file.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
-      "<span class='chapter-number'>41</span>  <span class='chapter-title'>5protocols.html</span>"
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>Lab 5 Protocols</span>"
+    ]
+  },
+  {
+    "objectID": "5further.html",
+    "href": "5further.html",
+    "title": "45  Additional Resources/Further Reading for Lab 5",
+    "section": "",
+    "text": "45.1 Additional Resources/Reading for Lab 5",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 5</span>"
     ]
   },
   {
