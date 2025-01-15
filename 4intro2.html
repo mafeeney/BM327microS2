@@ -71,15 +71,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
+div.callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 div.callout-discussion-hints.callout {
@@ -90,6 +90,17 @@ div.callout-discussion-hints.callout-style-default > .callout-header {
 }
 div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
   content: '✨';
   background-image: none;
 }
@@ -104,26 +115,26 @@ div.callout-case-study.callout-style-default .callout-icon::before, div.callout-
   content: '🔍';
   background-image: none;
 }
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
+div.callout-microbe.callout {
+  border-left-color: #1E90FF;
 }
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
+div.callout-microbe.callout-style-default > .callout-header {
+  background-color: rgba(30, 144, 255, 0.13);
 }
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
+  content: '🧫';
   background-image: none;
 }
-div.callout-todo.callout {
-  border-left-color: pink;
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
 }
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
 }
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
   background-image: none;
 }
 div.callout-data.callout {
@@ -135,17 +146,6 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
-  background-image: none;
-}
-div.callout-microbe.callout {
-  border-left-color: #1E90FF;
-}
-div.callout-microbe.callout-style-default > .callout-header {
-  background-color: rgba(30, 144, 255, 0.13);
-}
-div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
-  content: '🧫';
   background-image: none;
 }
 </style>
@@ -479,7 +479,7 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">4data.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Lab 4 - Data Analysis</span></span></a>
   </div>
 </li>
       </ul>
@@ -502,7 +502,7 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">5intro.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Biofilms and Antibiotic Resistance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -552,10 +552,10 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#biochemical-assays" id="toc-biochemical-assays" class="nav-link active" data-scroll-target="#biochemical-assays"><span class="header-section-number">34.1</span> Biochemical assays</a>
+  <li><a href="#biochemical-assays-used-for-the-identification-of-staphylococci" id="toc-biochemical-assays-used-for-the-identification-of-staphylococci" class="nav-link active" data-scroll-target="#biochemical-assays-used-for-the-identification-of-staphylococci"><span class="header-section-number">34.1</span> Biochemical assays used for the identification of staphylococci</a>
   <ul class="collapse">
-  <li><a href="#lysostaphin-assay" id="toc-lysostaphin-assay" class="nav-link" data-scroll-target="#lysostaphin-assay"><span class="header-section-number">34.1.1</span> Lysostaphin assay</a></li>
-  <li><a href="#coagulase-assay" id="toc-coagulase-assay" class="nav-link" data-scroll-target="#coagulase-assay"><span class="header-section-number">34.1.2</span> Coagulase assay</a></li>
+  <li><a href="#sec-lysostaphin" id="toc-sec-lysostaphin" class="nav-link" data-scroll-target="#sec-lysostaphin"><span class="header-section-number">34.1.1</span> Lysostaphin assay</a></li>
+  <li><a href="#sec-coagulase" id="toc-sec-coagulase" class="nav-link" data-scroll-target="#sec-coagulase"><span class="header-section-number">34.1.2</span> Coagulase assay</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -582,10 +582,13 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
 </header>
 
 
-<section id="biochemical-assays" class="level2" data-number="34.1">
-<h2 data-number="34.1" class="anchored" data-anchor-id="biochemical-assays"><span class="header-section-number">34.1</span> Biochemical assays</h2>
-<section id="lysostaphin-assay" class="level3" data-number="34.1.1">
-<h3 data-number="34.1.1" class="anchored" data-anchor-id="lysostaphin-assay"><span class="header-section-number">34.1.1</span> Lysostaphin assay</h3>
+<section id="biochemical-assays-used-for-the-identification-of-staphylococci" class="level2" data-number="34.1">
+<h2 data-number="34.1" class="anchored" data-anchor-id="biochemical-assays-used-for-the-identification-of-staphylococci"><span class="header-section-number">34.1</span> Biochemical assays used for the identification of staphylococci</h2>
+<p>There are a number of different biochemical assays that are useful in the identification of staphylococci such as <i>S. aureus</i>, including DNAse tests, and the lysostaphin and coagulase tests covered here. (Biomerieux, the company that makes the API-20E tests you used in the previous laboratory, also makes API strips that can be used for the identification of staphylococci, the API-Staph and ID 32 Staph kits.)</p>
+<p>We will not be performing the lysostaphin test in the lab because of the relatively long incubation time, but this test has been performed for you and your unknowns have been confirmed as lysostaphin sensitive.</p>
+<p>You will be performing the slide coagulase test on your isolates, but the tube coagulase test is also described here.</p>
+<section id="sec-lysostaphin" class="level3" data-number="34.1.1">
+<h3 data-number="34.1.1" class="anchored" data-anchor-id="sec-lysostaphin"><span class="header-section-number">34.1.1</span> Lysostaphin assay</h3>
 <p>A diagnostic characteristic of staphylococci is their sensitivity to lysostaphin, an enzyme that cleaves the pentaglycine bridge present in the peptidoglycan cell wall of these microorganisms (<a href="#fig-lysostaphin" class="quarto-xref">Figure&nbsp;<span>34.1</span></a>). (Other Gram-positive bacteria like <i>Micrococcus</i> sp. lack this pentaglycine bridge and are therefore resistant to lysostaphin.)</p>
 <div id="fig-lysostaphin" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -607,8 +610,8 @@ Figure&nbsp;34.1: The structure of staphylococcal peptidoglycan, showing the pen
 <p>Interpretation</p>
 <p>A positive reaction is detected by clearing of bacterial turbidity (cell lysis). The test is considered negative if clearing has not occurred after 2 hours.</p>
 </section>
-<section id="coagulase-assay" class="level3" data-number="34.1.2">
-<h3 data-number="34.1.2" class="anchored" data-anchor-id="coagulase-assay"><span class="header-section-number">34.1.2</span> Coagulase assay</h3>
+<section id="sec-coagulase" class="level3" data-number="34.1.2">
+<h3 data-number="34.1.2" class="anchored" data-anchor-id="sec-coagulase"><span class="header-section-number">34.1.2</span> Coagulase assay</h3>
 <p>Coagulase is an enzyme that has prothrombin-like activity and is capable of converting plasma fibrinogen to fibrin with resultant clot formation.</p>
 <p>Coagulase can be present in two forms, “free” and “bound” each having different properties and requiring different testing procedures.</p>
 <p>In this laboratory we will use the more rapid test for bound coagulase, the so-called slide test (<a href="#fig-coagulaseslide" class="quarto-xref">Figure&nbsp;<span>34.2</span></a>)</p>

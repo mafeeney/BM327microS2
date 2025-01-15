@@ -71,6 +71,28 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
+}
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
+}
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
+  background-image: none;
+}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -93,6 +115,17 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-thumbs-up.callout {
   border-left-color: #008000;
 }
@@ -104,17 +137,6 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
   content: '👍';
   background-image: none;
 }
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
 div.callout-discussion-hints.callout {
   border-left-color: #952dae;
 }
@@ -124,28 +146,6 @@ div.callout-discussion-hints.callout-style-default > .callout-header {
 div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
   content: '✨';
-  background-image: none;
-}
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
-  background-image: none;
-}
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
   background-image: none;
 }
 </style>
@@ -479,7 +479,7 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./4data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">4data.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Lab 4 - Data Analysis</span></span></a>
   </div>
 </li>
       </ul>
@@ -502,7 +502,7 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">5intro.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Biofilms and Antibiotic Resistance</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -554,7 +554,10 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
   <ul>
   <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link active" data-scroll-target="#learning-outcomes"><span class="header-section-number">40</span> Learning Outcomes</a></li>
   <li><a href="#competencies" id="toc-competencies" class="nav-link" data-scroll-target="#competencies"><span class="header-section-number">41</span> Competencies</a></li>
-  <li><a href="#importance" id="toc-importance" class="nav-link" data-scroll-target="#importance"><span class="header-section-number">42</span> Importance</a></li>
+  <li><a href="#importance" id="toc-importance" class="nav-link" data-scroll-target="#importance"><span class="header-section-number">42</span> Importance</a>
+  <ul class="collapse">
+  <li><a href="#overview-of-lab-5" id="toc-overview-of-lab-5" class="nav-link" data-scroll-target="#overview-of-lab-5"><span class="header-section-number">42.1</span> Overview of Lab 5</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -596,8 +599,38 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
 <section id="importance" class="level1" data-number="42">
 <h1 data-number="42"><span class="header-section-number">42</span> Importance</h1>
 <p>This laboratory session aligns with lectures and reinforces material relating to respiratory tract pathogens, bacterial metabolism, bacterial virulence, antibiotic resistance, bacterial identification and clinical microbiology.</p>
+<section id="overview-of-lab-5" class="level2" data-number="42.1">
+<h2 data-number="42.1" class="anchored" data-anchor-id="overview-of-lab-5"><span class="header-section-number">42.1</span> Overview of Lab 5</h2>
+<p>In this lab session, you will be learning (or further developing your skills in) a number of key microbiology skills:</p>
+<ol type="1">
+<li><p>You will analyse the results from the Mannitol Salt Agar plates you streaked in the previous lab session (Task 4A)</p></li>
+<li><p>You will perform a biochemical assay to help identify pathogens of the cardiovascular system/skin (a coagulase test, Task 4B)</p></li>
+<li><p>You will perform Multiple Locus Variable number of tandem repeats Analysis (MLVA) to help identify your unknown <i>Staphylococcus aureus</i> strain.</p></li>
+<li><p>You will analyse your results from the prevous lab (growth of your unknown organism on MacConkey agar; oxygen requirement of your unknown organism (fluid thioglycollate medium and anaerobically-incubated plates))</p></li>
+<li><p>You will set up plates for the next lab (analysing the antibiotic resistance of <i>Pseudomonas</i> isolates)</p></li>
+</ol>
+<div class="callout callout-style-default callout-todo callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+To prepare for Lab 5
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Before attending the practical lab, you should ensure that you have read and understood:</p>
+<ul>
+<li><p>The introductory sections covering the theory on <a href="./3intro1.html">identification of intestinal pathogens</a>,</p></li>
+<li><p>The <a href="./4protocols.html">Protocols</a> we will be following in the lab</p></li>
+<li><p>The calculations required for your antibiotic resistance experiment</p></li>
+</ul>
+<p>You also must ensure that you have read and signed the safety forms, or you will not be admitted to the lab.</p>
+</div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -1025,8 +1058,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./5intro.html" class="pagination-link" aria-label="5intro.html">
-        <span class="nav-page-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">5intro.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./5intro.html" class="pagination-link" aria-label="Biofilms and Antibiotic Resistance">
+        <span class="nav-page-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Biofilms and Antibiotic Resistance</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
