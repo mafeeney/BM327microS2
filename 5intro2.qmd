@@ -4,7 +4,11 @@ title: "Identification of mycobacteria"
 
 ## Identification of mycobacteria {#sec-mycobacteria}
 
+A number of different mycobacterial species can cause disease in humans, perhaps most notably <i>Mycobacterium tuberculosis</i> (the causative agent of tuberculosis). Some mycobacterial species are challenging for the clinical microbiologist, in that they are extremely slow-growing - for some species, it can take weeks for cultures to grow.
 
+Mycobacteria are therefore often cultured on selective media such as <a href="https://assets.thermofisher.com/TFS-Assets/LSG/manuals/IFU8500.pdf">Löwenstein-Jensen medium</a>, which contains high levels of malachite green that inhibit the growth of most other organisms. 
+
+Mycobacteria can sometimes stain weakly Gram-positive, but the structure of their cell walls is normally rather impervious to the stains used in Gram staining. Instead, an acid-fast stain, which you will learn about in the next section, is commonly used.
 
 ::: {.case-study title="Case Study 7"}
 

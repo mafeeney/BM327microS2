@@ -3,3 +3,7 @@ title: "Additional Resources/Further Reading for Lab 5"
 ---
 
 ## Additional Resources/Reading for Lab 5
+
+* <a href="https://www.rcpath.org/static/39286bfe-4f8a-4ce0-8d21387c6f772c6c/UK-SMI-B-40i73-Investigation-of-specimens-for-Mycobacterium-species-October-2020.pdf">UK Standards for Microbiology Investigations - Investigation of specimens for Mycobacterium species
+
+* <a href="https://asm.org/ASM/media/Protocol-Images/Acid-Fast-Stain-Protocols.pdf?ext=.pdf">Acid-Fast Stain Protocols (ASM)</a>

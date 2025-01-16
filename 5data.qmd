@@ -1,0 +1,63 @@
+---
+title: Lab 5 - Data Analysis
+---
+
+::: {.todo title="Lab 5 - Data Analysis Tasks"}
+
+After attending the practical lab, you should:
+
+* Analyse the results from your biofilm formation and antibiotic resistance assays (Tasks 5A and 5B, @sec-5ABdata)
+
+* Try to identify the unknown from Case Study 7 (@sec-5Cdata)
+
+:::
+
+## Task 5A and Task 5B Data Analysis {#sec-5ABdata}
+
+From your biofilm formation assay, you should have three qualitative measurements of biofilm formation for each of your three strains (Task 5A). 
+
+  * Which strain is best able to form biofilms under the conditions used in this lab? Which strain is worst at biofilm formation?
+  
+  * How reliable/reproducible do you think this assay is? Are there any ways in which you could improve it?
+  
+You should also have measurements for the zones of inhibition for your 5 different antibiotic disks, from Task 5B. 
+
+  * Which strain is most resistant to the antibiotic? most sensitive?
+    
+  * How reliable/reproducible do you think this assay is? Are there any ways in which you could improve it?
+
+Do you observe any correlation between the amount of biofilm formation and antibiotic resistance?
+  
+  
+::: {#discussion-streak .discussion title="Biofilm/Antibiotic Resistance Discussion Questions"}
+
+**Questions to consider/discuss with your lab partners:**
+
+1. If you were presenting the biofilm formation data in a publication, what would be the best way to present it? What about the antibiotic resistance assay?
+
+2. If you observed a correlation between biofilm formation and antibiotic resistance - what do you think the potential molecular mechanism is that underpins this? How would you test your hypothesis?
+
+3. If you observed no correlation between biofilm formation and antibiotic resistance - why not? 
+
+:::
+
+::: {.discussion-hints title="Hints - Lab 4 Discussion Questions" collapse="true"}
+
+1. Are there any *quantitative* ways of measuring biofilm formation that you could use? For biofilm formation and antibiotic resistance - what data visualisation approaches do you see in the literature? What is the most effective way of presenting these data?
+
+2. There are many different molecular mechanisms, think about the physiology of the bacteria in the biofilm ... and use any reasonable experimental approach to test (e.g., mutant analysis, gene expression analysis, etc.)
+
+3. Are the experimental conditions the same in the two assays? Are there any other technical reasons that might explain the lack of correlation?
+
+:::
+
+## Task 5C Data Analysis {#sec-5Cdata}
+
+For the acid fast stain, do the phenotypes of the controls match what you would expect based on the literature?
+
+Can you identify your unknown based on its phenotype? 
+
+What further experiments could you do (to identify the unknown more precisely, or confirm its identification)?
+
+As a clinical microbiologist, what further tests would you recommend? What would you recommend for the patient in terms of treatment?
+

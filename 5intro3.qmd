@@ -4,6 +4,12 @@ title: "Differential stains - acid-fast staining"
 
 ## Acid-fast stains {#sec-acidfast}
 
-Certain microorganisms, in particular mycobacteria, have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. The ability of mycobacteria to resist decolourisation is due to the presence of high amounts of mycolic acid within their cell wall structure. Therefore, you can use this stain to determine whether the infectious agent in this case is a mycobacterium or not. You should carry out the staining procedure on positive and negative controls (acid-fast and non-acid-fast bacteria) as well as on your unknown.
+Certain microorganisms, in particular mycobacteria, have cell walls that contain waxy mycolic acids (@fig-mycolic). These cell wall structures resist Gram staining, but have the power to retain specific stains even when they are decolourised by mineral acids. They are therefore referred to as being “acid-fast”. Most other bacteria lack mycolic acids in their cell wall, and are therefore non-acid fast.
 
-![Results from a biofilm formation assay, showing weak, moderate, and strong crystal violet staining.](images/mycolic.jpg){#fig-crystalviolet}
+![The mycobacterial cell wall structure](images/mycolic.jpg){#fig-mycolic}
+
+This staining process uses a red/pink dye called carbol fuchsin, and so acid-fast bacteria appear red/pink (@fig-acidfast). Non-acidfast bacteria will not be able to retain the carbol fuchsin stain, and so will be coloured by the counterstain (usually methylene blue or malachite green).
+
+![Acid-fast stained *M. tuberculosis*. Image credit: CDC PHIL 5789 ](images/acid-fast.jpg){#fig-acidfast}
+
+Therefore, in this lab, you will use an acid-fast stain, also known as a Ziehl-Neelsen stain, to determine whether the infectious agent in Case Study 7 is a mycobacterium or not.
