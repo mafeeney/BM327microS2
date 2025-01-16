@@ -1294,7 +1294,7 @@
     "href": "5intro2.html",
     "title": "42  Identification of mycobacteria",
     "section": "",
-    "text": "42.1 Identification of mycobacteria",
+    "text": "42.1 Identification of mycobacteria\nA number of different mycobacterial species can cause disease in humans, perhaps most notably Mycobacterium tuberculosis (the causative agent of tuberculosis). Some mycobacterial species are challenging for the clinical microbiologist, in that they are extremely slow-growing - for some species, it can take weeks for cultures to grow.\nMycobacteria are therefore often cultured on selective media such as Löwenstein-Jensen medium, which contains high levels of malachite green that inhibit the growth of most other organisms.\nMycobacteria can sometimes stain weakly Gram-positive, but the structure of their cell walls is normally rather impervious to the stains used in Gram staining. Instead, an acid-fast stain, which you will learn about in the next section, is commonly used.",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
       "<span class='chapter-number'>42</span>  <span class='chapter-title'>Identification of mycobacteria</span>"
@@ -1323,11 +1323,55 @@
     ]
   },
   {
+    "objectID": "5data.html",
+    "href": "5data.html",
+    "title": "44  Lab 5 - Data Analysis",
+    "section": "",
+    "text": "44.1 Task 5A and Task 5B Data Analysis\nFrom your biofilm formation assay, you should have three qualitative measurements of biofilm formation for each of your three strains (Task 5A).\nYou should also have measurements for the zones of inhibition for your 5 different antibiotic disks, from Task 5B.\nDo you observe any correlation between the amount of biofilm formation and antibiotic resistance?",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>Lab 5 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "5data.html#sec-5ABdata",
+    "href": "5data.html#sec-5ABdata",
+    "title": "44  Lab 5 - Data Analysis",
+    "section": "",
+    "text": "Which strain is best able to form biofilms under the conditions used in this lab? Which strain is worst at biofilm formation?\nHow reliable/reproducible do you think this assay is? Are there any ways in which you could improve it?\n\n\n\nWhich strain is most resistant to the antibiotic? most sensitive?\nHow reliable/reproducible do you think this assay is? Are there any ways in which you could improve it?\n\n\n\n\n\n\n\n\nBiofilm/Antibiotic Resistance Discussion Questions\n\n\n\nQuestions to consider/discuss with your lab partners:\n\nIf you were presenting the biofilm formation data in a publication, what would be the best way to present it? What about the antibiotic resistance assay?\nIf you observed a correlation between biofilm formation and antibiotic resistance - what do you think the potential molecular mechanism is that underpins this? How would you test your hypothesis?\nIf you observed no correlation between biofilm formation and antibiotic resistance - why not?\n\n\n\n\n\n\n\n\n\nHints - Lab 4 Discussion Questions\n\n\n\n\n\n\nAre there any quantitative ways of measuring biofilm formation that you could use? For biofilm formation and antibiotic resistance - what data visualisation approaches do you see in the literature? What is the most effective way of presenting these data?\nThere are many different molecular mechanisms, think about the physiology of the bacteria in the biofilm … and use any reasonable experimental approach to test (e.g., mutant analysis, gene expression analysis, etc.)\nAre the experimental conditions the same in the two assays? Are there any other technical reasons that might explain the lack of correlation?",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>Lab 5 - Data Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "5data.html#sec-5Cdata",
+    "href": "5data.html#sec-5Cdata",
+    "title": "44  Lab 5 - Data Analysis",
+    "section": "44.2 Task 5C Data Analysis",
+    "text": "44.2 Task 5C Data Analysis\nFor the acid fast stain, do the phenotypes of the controls match what you would expect based on the literature?\nCan you identify your unknown based on its phenotype?\nWhat further experiments could you do (to identify the unknown more precisely, or confirm its identification)?\nAs a clinical microbiologist, what further tests would you recommend? What would you recommend for the patient in terms of treatment?",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>Lab 5 - Data Analysis</span>"
+    ]
+  },
+  {
     "objectID": "5further.html",
     "href": "5further.html",
     "title": "45  Additional Resources/Further Reading for Lab 5",
     "section": "",
     "text": "45.1 Additional Resources/Reading for Lab 5",
+    "crumbs": [
+      "Laboratory 5 - Pathogens of the Respiratory Tract",
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 5</span>"
+    ]
+  },
+  {
+    "objectID": "5further.html#additional-resourcesreading-for-lab-5",
+    "href": "5further.html#additional-resourcesreading-for-lab-5",
+    "title": "45  Additional Resources/Further Reading for Lab 5",
+    "section": "",
+    "text": "UK Standards for Microbiology Investigations - Investigation of specimens for Mycobacterium species\nAcid-Fast Stain Protocols (ASM)",
     "crumbs": [
       "Laboratory 5 - Pathogens of the Respiratory Tract",
       "<span class='chapter-number'>45</span>  <span class='chapter-title'>Additional Resources/Further Reading for Lab 5</span>"
