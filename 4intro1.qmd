@@ -20,7 +20,7 @@ In this laboratory session, you will be identifying a pathogen of the skin and c
 : Typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci. ‘+’ = Most (90% or more) strains are positive. ‘-’ = Most (90% or more) strains are negative {#tbl-chars}
 :::
 
-We will use these characteristics of the staphylococci to help identify an unknown in Case Study 5. Which are th emost useful diagnostic characteristics? 
+We will use these characteristics of the staphylococci to help identify an unknown in Case Study 5. Which are the most useful diagnostic characteristics? 
 
 ::: {.case-study title="Case Study 5"}
 
