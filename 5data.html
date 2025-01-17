@@ -8,7 +8,7 @@
 
 <meta name="author" content="Leighton Pritchard">
 
-<title>44&nbsp; Lab 5 - Data Analysis – BM327 Microbiology Semester 2 Lab Manual</title>
+<title>45&nbsp; Lab 5 - Data Analysis – BM327 Microbiology Semester 2 Lab Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,15 +71,26 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
+  background-image: none;
+}
+div.callout-discussion.callout {
+  border-left-color: #BA55D3;
+}
+div.callout-discussion.callout-style-default > .callout-header {
+  background-color: rgba(186, 85, 211, 0.13);
+}
+div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-data.callout {
@@ -91,6 +102,17 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
+  background-image: none;
+}
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
   background-image: none;
 }
 div.callout-discussion-hints.callout {
@@ -115,37 +137,15 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
 }
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
 }
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
-  background-image: none;
-}
-div.callout-discussion.callout {
-  border-left-color: #BA55D3;
-}
-div.callout-discussion.callout-style-default > .callout-header {
-  background-color: rgba(186, 85, 211, 0.13);
-}
-div.callout-discussion .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion.callout-style-default .callout-icon::before, div.callout-discussion.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
   background-image: none;
 }
 </style>
@@ -162,7 +162,7 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./5section.html">Laboratory 5 - Pathogens of the Respiratory Tract</a></li><li class="breadcrumb-item"><a href="./5data.html"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./5section.html">Laboratory 5 - Pathogens of the Respiratory Tract</a></li><li class="breadcrumb-item"><a href="./5data.html"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -266,7 +266,7 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Lab 1 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -319,7 +319,7 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Lab 2 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -378,7 +378,7 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Aim</span></span></a>
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Lab 3 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -519,20 +519,26 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./5intro3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Differential stains - acid-fast staining</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./5protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5data.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
+ <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
   </div>
 </li>
       </ul>
@@ -549,13 +555,13 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zcalcs.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Zcalcs.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Basic Lab Calculations</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zrecipes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Zrecipes.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">Media Used in these Labs</span></span></a>
   </div>
 </li>
       </ul>
@@ -570,17 +576,17 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#sec-5ABdata" id="toc-sec-5ABdata" class="nav-link active" data-scroll-target="#sec-5ABdata"><span class="header-section-number">44.1</span> Task 5A and Task 5B Data Analysis</a></li>
-  <li><a href="#sec-5Cdata" id="toc-sec-5Cdata" class="nav-link" data-scroll-target="#sec-5Cdata"><span class="header-section-number">44.2</span> Task 5C Data Analysis</a></li>
+  <li><a href="#sec-5ABdata" id="toc-sec-5ABdata" class="nav-link active" data-scroll-target="#sec-5ABdata"><span class="header-section-number">45.1</span> Task 5A and Task 5B Data Analysis</a></li>
+  <li><a href="#sec-5Cdata" id="toc-sec-5Cdata" class="nav-link" data-scroll-target="#sec-5Cdata"><span class="header-section-number">45.2</span> Task 5C Data Analysis</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./5section.html">Laboratory 5 - Pathogens of the Respiratory Tract</a></li><li class="breadcrumb-item"><a href="./5data.html"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./5section.html">Laboratory 5 - Pathogens of the Respiratory Tract</a></li><li class="breadcrumb-item"><a href="./5data.html"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></h1>
+<h1 class="title"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></h1>
 </div>
 
 
@@ -609,13 +615,13 @@ Lab 5 - Data Analysis Tasks
 <div class="callout-body-container callout-body">
 <p>After attending the practical lab, you should:</p>
 <ul>
-<li><p>Analyse the results from your biofilm formation and antibiotic resistance assays (Tasks 5A and 5B, <a href="#sec-5ABdata" class="quarto-xref"><span>Section 44.1</span></a>)</p></li>
-<li><p>Try to identify the unknown from Case Study 7 (<a href="#sec-5Cdata" class="quarto-xref"><span>Section 44.2</span></a>)</p></li>
+<li><p>Analyse the results from your biofilm formation and antibiotic resistance assays (Tasks 5A and 5B, <a href="#sec-5ABdata" class="quarto-xref"><span>Section 45.1</span></a>)</p></li>
+<li><p>Try to identify the unknown from Case Study 7 (<a href="#sec-5Cdata" class="quarto-xref"><span>Section 45.2</span></a>)</p></li>
 </ul>
 </div>
 </div>
-<section id="sec-5ABdata" class="level2" data-number="44.1">
-<h2 data-number="44.1" class="anchored" data-anchor-id="sec-5ABdata"><span class="header-section-number">44.1</span> Task 5A and Task 5B Data Analysis</h2>
+<section id="sec-5ABdata" class="level2" data-number="45.1">
+<h2 data-number="45.1" class="anchored" data-anchor-id="sec-5ABdata"><span class="header-section-number">45.1</span> Task 5A and Task 5B Data Analysis</h2>
 <p>From your biofilm formation assay, you should have three qualitative measurements of biofilm formation for each of your three strains (Task 5A).</p>
 <ul>
 <li><p>Which strain is best able to form biofilms under the conditions used in this lab? Which strain is worst at biofilm formation?</p></li>
@@ -666,8 +672,8 @@ Hints - Lab 4 Discussion Questions
 </div>
 </div>
 </section>
-<section id="sec-5Cdata" class="level2" data-number="44.2">
-<h2 data-number="44.2" class="anchored" data-anchor-id="sec-5Cdata"><span class="header-section-number">44.2</span> Task 5C Data Analysis</h2>
+<section id="sec-5Cdata" class="level2" data-number="45.2">
+<h2 data-number="45.2" class="anchored" data-anchor-id="sec-5Cdata"><span class="header-section-number">45.2</span> Task 5C Data Analysis</h2>
 <p>For the acid fast stain, do the phenotypes of the controls match what you would expect based on the literature?</p>
 <p>Can you identify your unknown based on its phenotype?</p>
 <p>What further experiments could you do (to identify the unknown more precisely, or confirm its identification)?</p>
@@ -1097,12 +1103,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./5protocols.html" class="pagination-link" aria-label="Lab 5 Protocols">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./5further.html" class="pagination-link" aria-label="Additional Resources/Further Reading for Lab 5">
-        <span class="nav-page-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -71,15 +71,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-todo.callout {
-  border-left-color: pink;
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
 }
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
 }
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
   background-image: none;
 }
 div.callout-case-study.callout {
@@ -126,6 +126,17 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
+div.callout-todo.callout {
+  border-left-color: pink;
+}
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
+}
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
 div.callout-data.callout {
   border-left-color: #32CD32;
 }
@@ -135,17 +146,6 @@ div.callout-data.callout-style-default > .callout-header {
 div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
   content: '📊';
-  background-image: none;
-}
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
-}
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
-}
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
   background-image: none;
 }
 </style>
@@ -266,7 +266,7 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Lab 1 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -319,7 +319,7 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Lab 2 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -378,7 +378,7 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Aim</span></span></a>
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Lab 3 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -519,20 +519,26 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./5intro3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Differential stains - acid-fast staining</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./5protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
+ <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
   </div>
 </li>
       </ul>
@@ -549,13 +555,13 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zcalcs.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Zcalcs.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Basic Lab Calculations</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zrecipes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Zrecipes.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">Media Used in these Labs</span></span></a>
   </div>
 </li>
       </ul>
@@ -599,9 +605,21 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
 <section id="sec-staphylococci" class="level2" data-number="33.1">
 <h2 data-number="33.1" class="anchored" data-anchor-id="sec-staphylococci"><span class="header-section-number">33.1</span> Identification of staphylococci</h2>
 <p>In this laboratory session, you will be identifying a pathogen of the skin and circulatory system, <i>Staphylococcus aureus</i>, using differential media (Task 4A), biochemical assays (Task 4B), and a PCR-based technique called MVLA typing (Task 4C).</p>
-<p><i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, <a href="2intro3.html#sec-gramstain" class="quarto-xref"><span>Section 18.3</span></a>), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (<span class="quarto-unresolved-ref">?tbl-chars</span>).</p>
-<table class="table-striped table-hover caption-top table">
-<caption>Typical characteristics of <em>Staphylococcus aureus</em>, <em>Staphylococcus epidermidis</em>, and micrococci. ‘+’ = Most (90% or more) strains are positive. ’-‘ = Most (90% or more) strains are negative</caption>
+<p><i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, <a href="2intro3.html#sec-gramstain" class="quarto-xref"><span>Section 18.3</span></a>), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (<a href="#tbl-chars" class="quarto-xref">Table&nbsp;<span>33.1</span></a>).</p>
+<div class="striped hover">
+<div id="tbl-chars" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-chars-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;33.1: Typical characteristics of <em>Staphylococcus aureus</em>, <em>Staphylococcus epidermidis</em>, and micrococci. ‘+’ = Most (90% or more) strains are positive. ‘-’ = Most (90% or more) strains are negative
+</figcaption>
+<div aria-describedby="tbl-chars-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 45%">
+<col style="width: 16%">
+<col style="width: 22%">
+<col style="width: 15%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Characteristic</th>
@@ -649,6 +667,11 @@ div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-t
 </tr>
 </tbody>
 </table>
+</div>
+</figure>
+</div>
+</div>
+<p>We will use these characteristics of the staphylococci to help identify an unknown in Case Study 5. Which are th emost useful diagnostic characteristics?</p>
 <div class="callout callout-style-default callout-case-study callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -662,8 +685,8 @@ Case Study 5
 <p>CASE STUDY 5: Epidemiology of an MRSA outbreak</p>
 <p>A number of patients at the local hospital have been acquiring secondary infections after seeing Dr.&nbsp;Staff for routine medical procedures. However, many of the patients also move in the same social circles, and so it is not clear whether these infections are nosocomial or community-acquired.</p>
 <p>As a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).</p>
-<p>You have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (TASK 4A).</p>
-<p>Your goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (<a href="4intro2.html#sec-lysostaphin" class="quarto-xref"><span>Section 34.1.1</span></a>); you will next determine whether they are Staphylococcus aureus or other Staphylococci using a diagnostic coagulase test (Task 4B). Finally, you will further identify your <i>Staphylococcus aureus</i> isolate using MVLA typing (Task 4C).</p>
+<p>You have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (Task 4A).</p>
+<p>Your goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (<a href="4intro2.html#sec-lysostaphin" class="quarto-xref"><span>Section 34.1.1</span></a>); you will next determine whether they are <i>Staphylococcus aureus</i> or other Staphylococci using a diagnostic coagulase test (Task 4B). Finally, you will further identify your <i>Staphylococcus aureus</i> isolate using MVLA typing (Task 4C).</p>
 </div>
 </div>
 

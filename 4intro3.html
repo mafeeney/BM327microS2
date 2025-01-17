@@ -71,26 +71,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
+div.callout-thumbs-up.callout {
+  border-left-color: #008000;
 }
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
+div.callout-thumbs-up.callout-style-default > .callout-header {
+  background-color: rgba(0, 128, 0, 0.13);
 }
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
-  background-image: none;
-}
-div.callout-todo.callout {
-  border-left-color: pink;
-}
-div.callout-todo.callout-style-default > .callout-header {
-  background-color: rgb(from pink r g b / 13%);
-}
-div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
-  content: '📝';
+div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
+  content: '👍';
   background-image: none;
 }
 div.callout-microbe.callout {
@@ -104,15 +93,26 @@ div.callout-microbe.callout-style-default .callout-icon::before, div.callout-mic
   content: '🧫';
   background-image: none;
 }
-div.callout-thumbs-up.callout {
-  border-left-color: #008000;
+div.callout-todo.callout {
+  border-left-color: pink;
 }
-div.callout-thumbs-up.callout-style-default > .callout-header {
-  background-color: rgba(0, 128, 0, 0.13);
+div.callout-todo.callout-style-default > .callout-header {
+  background-color: rgb(from pink r g b / 13%);
 }
-div.callout-thumbs-up .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-thumbs-up.callout-style-default .callout-icon::before, div.callout-thumbs-up.callout-titled .callout-icon::before {
-  content: '👍';
+div.callout-todo .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.callout-titled .callout-icon::before {
+  content: '📝';
+  background-image: none;
+}
+div.callout-discussion-hints.callout {
+  border-left-color: #952dae;
+}
+div.callout-discussion-hints.callout-style-default > .callout-header {
+  background-color: rgba(149, 45, 174, 0.13);
+}
+div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
+  content: '✨';
   background-image: none;
 }
 div.callout-data.callout {
@@ -137,15 +137,15 @@ div.callout-discussion.callout-style-default .callout-icon::before, div.callout-
   content: '✨';
   background-image: none;
 }
-div.callout-discussion-hints.callout {
-  border-left-color: #952dae;
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-discussion-hints.callout-style-default > .callout-header {
-  background-color: rgba(149, 45, 174, 0.13);
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-discussion-hints .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-discussion-hints.callout-style-default .callout-icon::before, div.callout-discussion-hints.callout-titled .callout-icon::before {
-  content: '✨';
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
   background-image: none;
 }
 </style>
@@ -266,7 +266,7 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./1aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Lab 1 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -319,7 +319,7 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./2aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Aims and Overview</span></span></a>
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Lab 2 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -378,7 +378,7 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./3aims.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Aim</span></span></a>
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Lab 3 Aims and Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -519,20 +519,26 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./5intro3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Differential stains - acid-fast staining</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./5protocols.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
+ <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 Protocols</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5data.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Lab 5 - Data Analysis</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./5further.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
+ <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Additional Resources/Further Reading for Lab 5</span></span></a>
   </div>
 </li>
       </ul>
@@ -549,13 +555,13 @@ div.callout-discussion-hints.callout-style-default .callout-icon::before, div.ca
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zcalcs.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Zcalcs.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Basic Lab Calculations</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Zrecipes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Zrecipes.html</span></span></a>
+ <span class="menu-text"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">Media Used in these Labs</span></span></a>
   </div>
 </li>
       </ul>
