@@ -73,9 +73,13 @@ Are you confident in the identification of the unknowns? What other experiments 
 
 2. What are the strengths/weaknesses of using the API-20E system to identify an unknown?
 
-3. 
 :::
 
 ::: {.discussion-hints title="Hints - identification of enterobacteria" collapse="true"}
+
+1. Are all isolates of the same species identical at the genomic level? Might there be some variation in test results depending on culture conditions and/or the way a given lab carries out the test? Are there any other factors that might affect the test results?
+
+2. Is this method for identification precise? reproducible? technically challenging? etc.
+
 :::
 

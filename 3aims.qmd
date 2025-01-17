@@ -1,3 +1,7 @@
+---
+title: "Lab 3 Aims and Overview"
+---
+
 ## Aim
 
 To understand how to identify unknown microorganisms affecting the intestinal tract using molecular and media-based techniques.

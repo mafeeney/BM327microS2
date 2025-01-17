@@ -8,16 +8,19 @@ In this laboratory session, you will be identifying a pathogen of the skin and c
 
 <i>Staphylococcus aureus</i> and <i>Staphylococcus epidermidis</i> are both members of the normal human skin flora (commensals), and dangerous pathogens often associated with nosocomial infections. Although <i>S. aureus</i> and <i>S. epidermidis</i> appear very similar when examined under the microscope (as in the Gram-staining procedure you have carried out previously, @sec-gramstain), they can be distinguished from one another, and from micrococci (also commonly found in the human skin flora) on the basis of several different phenotypic characteristics (@tbl-chars).
 
-| Characteristic | *S. aureus*  | *S. epidermidis*  | Micrococci  |
-|--------|--------|--------|--------|
-| Catalase activity  | +   | +   | +   |       
-| Coagulase production   | +   | -   | -   |
-| Thermostable nuclease production | +   | -  | -   |
-| Lysostaphin sensitivity | +   | +   | -   |
-| Anaerobic utilisation of glucose | +   | +   | -   |
-| Anaerobic utilisation of mannitol | +   | -  | -   |
-: Typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci. ‘+’ = Most (90% or more) strains are positive. ‘-‘ = Most (90% or more) strains are negative {.striped .hover #tbl-chars}
+::: {.striped .hover}
+| Characteristic                        | *S. aureus*  | *S. epidermidis*  | Micrococci  |
+|---------------------------------------|--------------|-------------------|-------------|
+| Catalase activity                     | +            | +                 | +           |       
+| Coagulase production                  | +            | -                 | -           |
+| Thermostable nuclease production      | +            | -                 | -           |
+| Lysostaphin sensitivity               | +            | +                 | -           |
+| Anaerobic utilisation of glucose      | +            | +                 | -           |
+| Anaerobic utilisation of mannitol     | +            | -                 | -           |
+: Typical characteristics of *Staphylococcus aureus*, *Staphylococcus epidermidis*, and micrococci. ‘+’ = Most (90% or more) strains are positive. ‘-’ = Most (90% or more) strains are negative {#tbl-chars}
+:::
 
+We will use these characteristics of the staphylococci to help identify an unknown in Case Study 5. Which are th emost useful diagnostic characteristics? 
 
 ::: {.case-study title="Case Study 5"}
 
@@ -27,9 +30,9 @@ A number of patients at the local hospital have been acquiring secondary infecti
 
 As a consulting microbiologist from the NHS, you have been asked to help the hospital discover the source of the pathogens, so that they can clean up their protocols for infection control if necessary. The first step is to determine whether the bacteria isolated from the patients are all genetically identical (from the same source) or different (from different sources).
 
-You have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (TASK 4A).
+You have already streaked your unknown organism on a selective and differential medium (MSA); you will now observe these plates and interpret the results (Task 4A).
 
-Your goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (@sec-lysostaphin); you will next determine whether they are Staphylococcus aureus or other Staphylococci using a diagnostic coagulase test (Task 4B). Finally, you will further identify your <i>Staphylococcus aureus</i> isolate using MVLA typing (Task 4C).
+Your goal is to identify the strains involved in the outbreak. You suspect that it is MRSA, but you must first confirm this. We have already determined that the patient isolates are in fact Staphylococci using a lysostaphin test (@sec-lysostaphin); you will next determine whether they are <i>Staphylococcus aureus</i> or other Staphylococci using a diagnostic coagulase test (Task 4B). Finally, you will further identify your <i>Staphylococcus aureus</i> isolate using MVLA typing (Task 4C).
 
 :::
 

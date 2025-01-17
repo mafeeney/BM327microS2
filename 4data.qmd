@@ -29,20 +29,21 @@ How precisely can you identify your unknown based on your observations (phenotyp
 The predicted size of each PCR product is described in @tbl-mlva. Note that these were calculated using the N315 reference genome sequence - the size of each PCR product will differ depending on the number of VNTRs at that locus. 
 
 | Gene/locus | Product size* (bp) |
-|------|------|
-| clfA | 1183 |       
-| clfB | 828  |       
-| sdr  | 670  |       
-| spa  | 284  |       
-| ssp  | 173  | 
+|------------|---------------------|
+| *clfA*     | 1183               |       
+| *clfB*     | 828                |       
+| *sdr*      | 670                |       
+| *spa*      | 284                |       
+| *ssp*      | 173                | 
 
-: Predicted PCR product size for S. aureus MLVA typing. *Product size is estimated with reference to genome N315	 {#tbl-mlva}
+: Predicted PCR product size for *S. aureus* MLVA typing. *Product size is estimated with reference to genome N315* {#tbl-mlva}
+
 
 Class data for the MLVA results are shown in @fig-MLVAresults. 
 
 ![S. aureus MLVA results. Lane 1: SA98; Lane 2: SA130; Lane 3: SA82; Lane 4: SA117; Lane 5: unknown 1; Lane 6: unknown 2; Lane 7: unknown 3; Lane 8: 100bp ladder](images/MLVAresults.png){#fig-MLVAresults}
 
-THe <a href="https://www.promega.co.uk/products/cloning-and-dna-markers/dna-ladder-rna-ladder/100bp-dna-ladder/?catNum=G2101">Promega 100 bp ladder</a> was run alongside the PCR products to allow you to estimate the size of each band.^[You could, of course, create a DNA standard curve and use this to more precisely determine the size of each band.] 
+The <a href="https://www.promega.co.uk/products/cloning-and-dna-markers/dna-ladder-rna-ladder/100bp-dna-ladder/?catNum=G2101">Promega 100 bp ladder</a> was run alongside the PCR products to allow you to estimate the size of each band.^[You could, of course, create a DNA standard curve and use this to more precisely determine the size of each band.] 
 
 * Are you able to use the four known <i>S. aureus</i> strains (SA98, SA130, SA82, and SA117) to more precisely identify the three unknowns?
 

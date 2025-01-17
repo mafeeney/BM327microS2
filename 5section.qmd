@@ -10,6 +10,6 @@ Background: [Biofilm Formation Assay](./5intro1.qmd) | [Identification of mycoba
 
 [Protocols](./5protocols.qmd) 
 
-[Data Analysis](./5data.qmd) </center>
+[Data Analysis](./5data.qmd) 
 
-[Additional Resources/Further Reading](./5further.qmd) </center></center>
+[Additional Resources/Further Reading](./5further.qmd) </center>
