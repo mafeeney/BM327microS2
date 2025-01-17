@@ -30,13 +30,14 @@ The predicted size of each PCR product is described in @tbl-mlva. Note that thes
 
 | Gene/locus | Product size* (bp) |
 |------------|---------------------|
-| *clfA*     | 1183               |       
-| *clfB*     | 828                |       
-| *sdr*      | 670                |       
-| *spa*      | 284                |       
-| *ssp*      | 173                | 
+| <em>clfA</em> | 1183           |       
+| <em>clfB</em> | 828            |       
+| <em>sdr</em>  | 670            |       
+| <em>spa</em>  | 284            |       
+| <em>ssp</em>  | 173            | 
 
-: Predicted PCR product size for *S. aureus* MLVA typing. *Product size is estimated with reference to genome N315* {#tbl-mlva}
+: Predicted PCR product size for <em>S. aureus</em> MLVA typing. <em>Product size is estimated with reference to genome N315</em> {#tbl-mlva}
+
 
 
 Class data for the MLVA results are shown in @fig-MLVAresults. 
