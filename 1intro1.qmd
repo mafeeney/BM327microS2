@@ -26,7 +26,7 @@ You will want to read and discuss the discussion questions below - perhaps with 
 
 2. Imagine that a colleague has given you a culture of a particular bacterial pathogen - say, for instance, a particular strain of *Yersinia pestis* that you are interested in working with. Of course you trust that your colleague is a good microbiologist and you have no reason to doubt their aseptic technique. However, just for the avoidance of doubt - how could you confirm that they have given you a pure culture that contains only your strain of interest?
 
-3. As microbiologists, how can we work with microbes that do not grow in pure culture (e.g., facultative intracellular pathogens)?
+3. As microbiologists, how can we work with microbes that do not grow in pure culture (e.g., obligate intracellular pathogens)?
 
 :::
 

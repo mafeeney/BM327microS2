@@ -46,7 +46,7 @@ When choosing a protocol/kit for extracting plasmid DNA, it is important to cons
 
 ::: {.callout-tip title="Miniprep kits"}
 
-While it is perfectly possible to prepare all the reagents needed for an alkaline lysis miniprep, many researchers use miniprep kits for convenience and ease. A number of different companies produce and sell such kits - the one we will use in this lab is the <a href="https://www.promega.co.uk/products/nucleic-acid-extraction/plasmid-purification/wizard-plus-sv-minipreps-dna-purification-systems/?catNum=A1330">Promega Wizard® Plus SV Minipreps DNA Purification Systems</a>. 
+While it is perfectly possible to prepare all the reagents needed for an alkaline lysis miniprep, many researchers use miniprep kits for convenience, ease, and reproducibility. A number of different companies produce and sell such kits - the one we will use in this lab is the <a href="https://www.promega.co.uk/products/nucleic-acid-extraction/plasmid-purification/wizard-plus-sv-minipreps-dna-purification-systems/?catNum=A1330">Promega Wizard® Plus SV Minipreps DNA Purification Systems</a>. 
 
 There are also kits available for larger-scale plasmid DNA purification (midi-, maxi-, mega-, and giga-prep kits).
 
