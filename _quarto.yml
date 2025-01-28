@@ -127,6 +127,8 @@ format:
     code-link: true
     fig-cap: true
     author-meta: "Leighton Pritchard"
+    sidebar:
+      style: "floating"
 
 # Freeze output before pushing modifications to the repository when publishing
 # Should not need changing
