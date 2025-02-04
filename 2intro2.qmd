@@ -60,7 +60,7 @@ In addition to being used as a differential medium for detection of haemolysis, 
 
 :::
 
-![Alpha, beta, and gamma haemolysis. Image credit: ASM.](images/hemolysis.jpg){#fig-bloodagar}
+![Alpha, beta, and gamma haemolysis. Image credit: ASM.](images/hemolysis.jpg){#fig-hemolysis}
 
 There are three types of haemolysis as illustrated in @fig-hemolysis. 
 

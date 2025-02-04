@@ -42,9 +42,9 @@ In this lab session, you will perform the following tasks:
 
 Before attending the practical lab, you should ensure that you have read and understood:
 
-* The introductory sections covering 
+* The introductory section covering  [Microscopy](./0microscope.qmd)
 
-* The introductory sections covering the theory on 
+* The introductory sections covering the theory on [Microbial Identification](./2intro1.qmd), [Selective and Differential Media](./2intro2.qmd), [Differential Stains - Gram Staining](./2intro3.qmd), and [Moulds and Fungi](./2intro4.qmd)
 
 * The [Protocols](./2protocols.qmd) we will be following in the lab
 

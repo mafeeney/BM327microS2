@@ -21,7 +21,7 @@ The most common staining technique employed in microbiology is the Gram stain si
 The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (@fig-cellshapes) can help to narrow down a preliminary identification. 
 In the Gram stain (@fig-GramStain), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant^[A mordant helps the dye to bind and fixes it in place.]. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.
 
-![The steps in a Gram stain.](images/GramStain.png){#fig-Gramstain}
+![The steps in a Gram stain.](images/GramStain.png){#fig-GramStain}
 
 ::: {.callout-tip title="Tips for making an excellent Gram stain"}
 

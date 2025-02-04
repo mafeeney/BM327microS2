@@ -15,6 +15,23 @@ book:
   author: "Dr Morgan Feeney"
   date: "22/11/2024"
 
+  # Sidebar tools for quick navigation
+  sidebar:
+    style: "docked"
+    tools:
+      - icon: 0-square
+        href: ./0section
+      - icon: 1-square
+        href: ./1section
+      - icon: 2-square
+        href: ./2section
+      - icon: 3-square
+        href: ./3section
+      - icon: 4-square
+        href: ./4section
+      - icon: 5-square
+        href: ./5section
+        
   # Define chapters and sections here
   # [E] CHAPTERS AND SECTIONS
   chapters:
@@ -95,25 +112,6 @@ book:
       chapters: 
         - Zcalcs.qmd
         - Zrecipes.qmd
-
-  # Sidebar tools for quick navigation
-  sidebar:
-    style: "docked"
-    tools:
-      - icon: 0-square
-        href: ./0section
-      - icon: 1-square
-        href: ./1section
-      - icon: 2-square
-        href: ./2section
-      - icon: 3-square
-        href: ./3section
-      - icon: 4-square
-        href: ./4section
-      - icon: 5-square
-        href: ./5section
-
-
 
 
 # Additional settings
