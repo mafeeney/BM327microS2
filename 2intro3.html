@@ -71,6 +71,17 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-data.callout {
+  border-left-color: #32CD32;
+}
+div.callout-data.callout-style-default > .callout-header {
+  background-color: rgba(50, 205, 50, 0.13);
+}
+div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
+  content: '📊';
+  background-image: none;
+}
 div.callout-todo.callout {
   border-left-color: pink;
 }
@@ -82,15 +93,15 @@ div.callout-todo.callout-style-default .callout-icon::before, div.callout-todo.c
   content: '📝';
   background-image: none;
 }
-div.callout-data.callout {
-  border-left-color: #32CD32;
+div.callout-case-study.callout {
+  border-left-color: #FFA500;
 }
-div.callout-data.callout-style-default > .callout-header {
-  background-color: rgba(50, 205, 50, 0.13);
+div.callout-case-study.callout-style-default > .callout-header {
+  background-color: rgba(255, 165, 0, 0.13);
 }
-div.callout-data .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-data.callout-style-default .callout-icon::before, div.callout-data.callout-titled .callout-icon::before {
-  content: '📊';
+div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
+  content: '🔍';
   background-image: none;
 }
 div.callout-discussion.callout {
@@ -135,17 +146,6 @@ div.callout-microbe.callout-style-default > .callout-header {
 div.callout-microbe .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-microbe.callout-style-default .callout-icon::before, div.callout-microbe.callout-titled .callout-icon::before {
   content: '🧫';
-  background-image: none;
-}
-div.callout-case-study.callout {
-  border-left-color: #FFA500;
-}
-div.callout-case-study.callout-style-default > .callout-header {
-  background-color: rgba(255, 165, 0, 0.13);
-}
-div.callout-case-study .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-case-study.callout-style-default .callout-icon::before, div.callout-case-study.callout-titled .callout-icon::before {
-  content: '🔍';
   background-image: none;
 }
 </style>
@@ -626,13 +626,13 @@ Figure&nbsp;18.1: Bacterial cell shapes
 <section id="sec-gramstain" class="level2" data-number="18.3">
 <h2 data-number="18.3" class="anchored" data-anchor-id="sec-gramstain"><span class="header-section-number">18.3</span> The Gram Stain</h2>
 <p>The most common staining technique employed in microbiology is the Gram stain since it allows visualisation of the test bacterium under a light microscope and it is a discriminatory stain (i.e.&nbsp;it contributes to the identification of a microorganism, particularly when the information provided is used in conjunction with the macroscopic characteristics - <a href="2intro1.html#sec-colony" class="quarto-xref"><span>Section 16.3</span></a>).</p>
-<p>The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (<a href="#fig-cellshapes" class="quarto-xref">Figure&nbsp;<span>18.1</span></a>) can help to narrow down a preliminary identification. In the Gram stain (<span class="quarto-unresolved-ref">?fig-GramStain</span>), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.</p>
-<div id="fig-Gramstain" class="quarto-float quarto-figure quarto-figure-center anchored">
+<p>The Gram stain allows us to characterize bacteria based on the structure of their cell walls, and moreover, observing the cells under the microscope and noting their shape and arrangement (<a href="#fig-cellshapes" class="quarto-xref">Figure&nbsp;<span>18.1</span></a>) can help to narrow down a preliminary identification. In the Gram stain (<a href="#fig-GramStain" class="quarto-xref">Figure&nbsp;<span>18.2</span></a>), test bacteria are first stained with crystal violet, which stains the cell walls of Gram positive and Gram negative bacteria. Next, iodine is added as a mordant<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. The cells are then destained with alcohol and finally, counter-stained with safranin. The destaining step removes the crystal violet from Gram-negative, but not Gram-positive, cells; and therefore, only the Gram-negative cells are stained pink/red by the safranin counter-stain.</p>
+<div id="fig-GramStain" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-Gramstain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div aria-describedby="fig-GramStain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="images/GramStain.png" class="img-fluid figure-img">
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-Gramstain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-GramStain-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;18.2: The steps in a Gram stain.
 </figcaption>
 </figure>
