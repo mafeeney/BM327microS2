@@ -98,6 +98,7 @@ book:
 
   # Sidebar tools for quick navigation
   sidebar:
+    style: "docked"
     tools:
       - icon: 0-square
         href: ./0section
