@@ -38,7 +38,7 @@ At any point while using the microscope, you may wish to:
 
 *	Only a very small amount of oil is needed, only add a tiny drop. Don’t flood the slide! 
 
-*	When you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! The gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place. 
+*	When you have found your focus and optimised set-up with the 40x objective, swing the objectives half-way between the 40x and 100x. DO NOT move the stage or change the focus as you do this! Then gently add a very small drop of oil onto the spot of light you can see in your sample. Gently swing the 100x objective into place. 
 
 *	You will most likely have to adjust the focus a little, but only use the fine adjustment at this stage. Ask for help if you have trouble finding the focus. Under no circumstances go back to the 40x, as it does not tolerate getting in contact to the immersion oil.
 
