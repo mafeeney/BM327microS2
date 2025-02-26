@@ -13,9 +13,9 @@ At the end of this laboratory session, you should understand:
 
 *	How to use differential media to identify microorganisms
 
-*	How to use MVLA typing to identify microorganisms
+*	How to use PCR and MVLA typing to identify microorganisms
 
-*	How to use PCR to identify microorganisms
+*	How to use biochemical tests (coagulase) to identify microorganisms
 
 
 ## Competencies
@@ -27,9 +27,6 @@ At the end of this laboratory session, you should understand:
 
 This laboratory session aligns with lectures and reinforces material relating to circulatory system and skin pathogens, bacterial identification and phylogeny, bacterial virulence and clinical microbiology.
 
-## Importance
-
-This laboratory session aligns with lectures and reinforces material relating to pathogens of the intestinal tract, bacterial identification and phylogeny, bacterial metabolism, epidemiology and clinical microbiology.
 
 ## Overview of Lab 4
 
